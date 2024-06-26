@@ -1,6 +1,4 @@
-# 发表论文
-
-## 2024年
+## 2024
  
 **QuanEstimation.jl: An open-source Julia framework for quantum parameter estimation** 
 
@@ -12,7 +10,7 @@ arXiv: 2405.12066. &ensp;
 
 
 
-## 2023年
+## 2023
 
 **Optimal Phase Estimation in Finite-dimensional Fock Space**
 
@@ -63,7 +61,7 @@ Physical Review A **107**, 012414 (2023). &ensp;
 
 <a href="https://doi.org/10.1103/PhysRevA.107.012414">online</a> | <a href="https://doi.org/10.48550/arXiv.2208.03140">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.107.012414" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
 
-## 2022年
+## 2022
 
 **Advantage of quantum coherence in postselected metrology**
 
@@ -113,7 +111,7 @@ Physical Review A **106**, 032602 (2022). &ensp;
 
 <a href="https://doi.org/10.1103/PhysRevA.106.032602">online</a>  | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.106.032602" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
 
-## 2021年
+## 2021
 
 
 **Bhatia-Davis formula in the quantum speed limit**
@@ -154,7 +152,7 @@ Physical Review A **104**, 053517 (2021). &ensp;
 
 <a href="https://doi.org/10.1103/PhysRevA.104.053517">online</a> | <a href="https://arxiv.org/abs/2109.05692">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.104.053517" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
 
-## 2020年
+## 2020
 
 
 **Quantum Fisher information matrix and multiparameter estimation**
@@ -175,7 +173,7 @@ Physical Review Research **2**, 023299 (2020). &ensp;
 
 <p><a href="../pdf/PRResearch_2_023299.pdf">PDF</a> | <a href="https://doi.org/10.1103/PhysRevResearch.2.023299">online</a> | <a href="https://arxiv.org/abs/2002.10822">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevResearch.2.023299" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
 
-## 2019年
+## 2019
 
 
 **Multiqubit matter-wave interferometry under decoherence and the Heisenberg scaling recovery**
@@ -186,7 +184,7 @@ Physical Review A **99**, 033807 (2019). &ensp;
 
 <a href="https://doi.org/10.1103/PhysRevA.99.033807">online</a> | <a href="https://arxiv.org/abs/1808.04632">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.99.033807" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
 
-## 2018年
+## 2018
 
 
 **Maximal quantum Fisher information for phase estimation without initial parity**
@@ -197,7 +195,7 @@ Optics Express **26**, 016292 (2018). &ensp;
 
 <p><a href="../pdf/OE_26_13_016292.pdf">PDF</a> | <a href="https://doi.org/10.1364/OE.26.016292">online</a> | <a href="https://arxiv.org/abs/1412.4325">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1364/OE.26.016292" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
 
-## 2017年
+## 2017
 
 
 **Quantum parameter estimation with optimal control**
