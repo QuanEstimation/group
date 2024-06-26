@@ -1,0 +1,81 @@
+site_name: QuanEstimation group page
+site_description: QuanEstimation Homepage
+site_author: QuanEstimation
+site_url: https://quanestimation.github.io/group      
+
+repo_url: https://github.com/QuanEstimation/group
+
+docs_dir: src
+
+# extra_javascript: []
+extra_css:
+      - css/header.css
+      - css/extra.css
+      - css/julia_api.css
+
+dev_addr: 0.0.0.0:8000
+
+markdown_extensions:
+      - attr_list  # adjust the size of an imag 
+      - md_in_html
+      - tables
+      - pymdownx.arithmatex:
+              generic: true
+      - fontawesome_markdown
+      # - pymdownx.highligh 
+      # - deduplicate-toc
+      - pymdownx.tabbed
+            #   alternate_style: true
+      # - pymdownx.emoji:
+      # emoji_index: !!python/name:materialx.emoji.twemoji
+      # emoji_generator: !!python/name:materialx.emoji.to_svg
+      - pymdownx.highlight
+            # anchor_linenums: true
+      - pymdownx.inlinehilite
+      - pymdownx.snippets
+      - pymdownx.superfences
+      - toc:
+            toc_depth: 3
+            permalink: true
+      - admonition
+      - pymdownx.details
+      - pymdownx.critic:
+            mode: view
+
+extra_javascript:
+      - javascripts/mathjax.js
+      - javascripts/mathjaxhelper.js
+      - https://polyfill.io/v3/polyfill.min.js?features=es6
+      - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+theme:
+      #readthedocs
+      name: material
+      icon:
+            logo: material/currency-sign
+      features:
+            - content.code.annotate
+            - navigation.tabs
+            - navigation.top
+            - navigation.instant
+
+      palette:
+            - media: "(prefers-color-scheme: light)"
+              scheme: default
+              primary: indigo
+              accent: purple
+              toggle:
+                    icon: material/weather-sunny
+                    name: Switch to dark mode
+            - media: "(prefers-color-scheme: dark)"
+              scheme: slate
+              primary: blue grey
+              accent: grey
+              toggle:
+                    icon: material/weather-night
+                    name: Switch to light mode
+
+plugins:
+      - search
+      - literate-nav:
+            nav_file: nav.md
