@@ -205,3 +205,11 @@ Jing Liu and Haidong Yuan
 Physical Review A **96**, 012117 (2017). &ensp; 
 
 <a href="https://doi.org/10.1103/PhysRevA.96.012117">online</a> | <a href="https://doi.org/10.48550/arXiv.1604.04856">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.96.012117" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
+
+**Control-enhanced multiparameter quantum estimation**
+
+Jing Liu and Haidong Yuan
+
+Physical Review A **96**, 042114 (2017). &ensp; 
+
+<a href="https://doi.org/10.1103/PhysRevA.96.042114">online</a> | <a href="https://doi.org/10.48550/arXiv.1710.06741">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.96.042114" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
