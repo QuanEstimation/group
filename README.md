@@ -1,2 +1,2 @@
 # group
-Home page of the Liu's group
+Home page of the QuanEstimation group
