@@ -1,5 +1,17 @@
 # 发表论文
 
+## 2024年
+ 
+**QuanEstimation.jl: An open-source Julia framework for quantum parameter estimation** 
+
+Huai-Ming Yu and Jing Liu
+
+arXiv: 2405.12066. &ensp; 
+
+PDF | [arXiv](https://arxiv.org/abs/2405.12066)
+
+
+
 ## 2023年
 
 **Optimal Phase Estimation in Finite-dimensional Fock Space**
