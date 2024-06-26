@@ -8,7 +8,7 @@ Huai-Ming Yu and Jing Liu
 
 arXiv: 2405.12066. &ensp; 
 
-PDF | [arXiv](https://arxiv.org/abs/2405.12066)
+[arXiv](https://arxiv.org/abs/2405.12066)
 
 
 
@@ -20,7 +20,7 @@ Jin-Feng Qin, Yuqian Xu, and Jing Liu
 
 arXiv:2312.01965. &ensp; 
 
-PDF | [arXiv](https://arxiv.org/abs/2312.01965)
+[arXiv](https://arxiv.org/abs/2312.01965)
 
 ---
 
@@ -41,7 +41,7 @@ Hong Tao, Yuguo Su, Xingyu Zhang, Jing Liu, and Xiaoguang Wang
 Physical Review E **108**, 024104 (2023). &ensp;
 
 
-<p><a href="../pdf/PRE_108_024104.pdf">PDF</a> | <a href="https://doi.org/10.1103/PhysRevE.108.024104">online</a> | <a href="https://doi.org/10.48550/arXiv.2303.03601">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevE.108.024104" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
+<a href="https://doi.org/10.1103/PhysRevE.108.024104">online</a> | <a href="https://doi.org/10.48550/arXiv.2303.03601">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevE.108.024104" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
 
 ---
 
@@ -51,7 +51,7 @@ Wenkuo Ding, Xingyu Zhang, Jing Liu, and Xiaoguang Wang
 
 arXiv:2307.05255. &ensp;
 
-PDF | [arXiv](https://arxiv.org/abs/2307.05255)
+[arXiv](https://arxiv.org/abs/2307.05255)
 
 ---
 
@@ -61,7 +61,7 @@ Xingyu Zhang, Xiao-Ming Lu, Jing Liu, Wenkui Ding, and Xiaoguang Wang
 
 Physical Review A **107**, 012414 (2023). &ensp; 
 
-<p><a href="../pdf/PRA_107_012414.pdf">PDF</a> | <a href="https://doi.org/10.1103/PhysRevA.107.012414">online</a> | <a href="https://doi.org/10.48550/arXiv.2208.03140">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.107.012414" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
+<a href="https://doi.org/10.1103/PhysRevA.107.012414">online</a> | <a href="https://doi.org/10.48550/arXiv.2208.03140">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.107.012414" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
 
 ## 2022年
 
@@ -71,7 +71,7 @@ Shao-Jie Xiong, Peng-Fei Wei, Huang-Qiu-Chen Wang, Lei Shao, Yong-Nan Sun, Jing 
 
 arXiv:2212.05285. &ensp; 
 
-PDF | [arXiv](https://doi.org/10.48550/arXiv.2212.05285)
+[arXiv](https://doi.org/10.48550/arXiv.2212.05285)
 
 ---
 
@@ -91,7 +91,7 @@ Jing Liu, Mao Zhang, Hongzhen Chen, Lingna Wang, and Haidong Yuan
 
 Advanced Quantum Technologies **5**, 2100080 (2022). &ensp; 
 
-<p><a href="../pdf/AQT_5_202100080.pdf">PDF</a> | <a href="https://doi.org/10.1002/qute.202100080">online</a> | <a href="https://arxiv.org/abs/2111.12279">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1002/qute.202100080" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
+<a href="https://doi.org/10.1002/qute.202100080">online</a> | <a href="https://arxiv.org/abs/2111.12279">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1002/qute.202100080" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
 
 ---
 
@@ -101,7 +101,7 @@ Gui-Lei Zhu, Jing Liu, Ying Wu, and Xin-You Lü
 
 Laser & Photonics Reviews **16**, 2100636 (2022). &ensp; 
 
-<p><a href="../pdf/Laser_Photonics_Rev_2022_2100636.pdf">PDF</a> | <a href="https://doi.org/10.1002/lpor.202100636">online</a> | <a href="https://arxiv.org/abs/2205.00433">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1002/lpor.202100636" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
+<a href="https://doi.org/10.1002/lpor.202100636">online</a> | <a href="https://arxiv.org/abs/2205.00433">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1002/lpor.202100636" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
 
 ---
 
@@ -111,7 +111,7 @@ Qing-Shou Tan, Wei Wu, Lan Xu, Jing Liu, and Le-Man Kuang
 
 Physical Review A **106**, 032602 (2022). &ensp; 
 
-<p><a href="../pdf/PRA_106_032602.pdf">PDF</a> | <a href="https://doi.org/10.1103/PhysRevA.106.032602">online</a>  | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.106.032602" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
+<a href="https://doi.org/10.1103/PhysRevA.106.032602">online</a>  | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.106.032602" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
 
 ## 2021年
 
@@ -122,7 +122,7 @@ Jing Liu, Zibo Miao, Libin Fu, and Xiaoguang Wang
 
 Physical Review A **104**, 052432 (2021). &ensp; 
 
-<p><a href="../pdf/PRA_104_052432.pdf">PDF</a> | <a href="https://doi.org/10.1103/PhysRevA.104.052432">online</a> | <a href="https://arxiv.org/abs/2108.00169">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.104.052432" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
+<a href="https://doi.org/10.1103/PhysRevA.104.052432">online</a> | <a href="https://arxiv.org/abs/2108.00169">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.104.052432" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
 
 ---
 
@@ -132,7 +132,7 @@ Qing-Shou Tan, Mao Zhang, Yu Chen, Jie-Qiao Liao, and Jing Liu
 
 Physical Review A **103**, 032601 (2021). &ensp; 
 
-<p><a href="../pdf/PRA_103_032601.pdf">PDF</a> | <a href="https://doi.org/10.1103/PhysRevA.103.032601">online</a> | <a href="https://arxiv.org/abs/2010.13444">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.103.032601" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
+<a href="https://doi.org/10.1103/PhysRevA.103.032601">online</a> | <a href="https://arxiv.org/abs/2010.13444">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.103.032601" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
 
 ---
 
@@ -142,7 +142,7 @@ Xing Deng, Shou-Long Chen, Mao Zhang, Xiao-Fan Xu, Jing Liu, Zhi Gao, Xiao-Chun 
 
 Physical Review A **104**, 012607 (2021). &ensp; 
 
-<p><a href="../pdf/PRA_104_012607.pdf">PDF</a> | <a href="https://doi.org/10.1103/PhysRevA.104.012607">online</a> | <a href="https://arxiv.org/abs/2102.07079">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.104.012607" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
+<a href="https://doi.org/10.1103/PhysRevA.104.012607">online</a> | <a href="https://arxiv.org/abs/2102.07079">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.104.012607" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
 
 ---
 
@@ -152,7 +152,7 @@ Zhucheng Zhang, Lei Shao, Wangjun Lu, Yuguo Su, Yi-Ping Wang, Jing Liu, and Xiao
 
 Physical Review A **104**, 053517 (2021). &ensp; 
 
-<p><a href="../pdf/PRA_104_053517.pdf">PDF</a> | <a href="https://doi.org/10.1103/PhysRevA.104.053517">online</a> | <a href="https://arxiv.org/abs/2109.05692">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.104.053517" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
+<a href="https://doi.org/10.1103/PhysRevA.104.053517">online</a> | <a href="https://arxiv.org/abs/2109.05692">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.104.053517" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
 
 ## 2020年
 
@@ -184,7 +184,7 @@ Yanming Che, Jing Liu, Xiao-Ming Lu, and Xiaoguang Wang
 
 Physical Review A **99**, 033807 (2019). &ensp; 
 
-<p><a href="../pdf/PRA_99_033807.pdf">PDF</a> | <a href="https://doi.org/10.1103/PhysRevA.99.033807">online</a> | <a href="https://arxiv.org/abs/1808.04632">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.99.033807" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
+<a href="https://doi.org/10.1103/PhysRevA.99.033807">online</a> | <a href="https://arxiv.org/abs/1808.04632">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.99.033807" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
 
 ## 2018年
 
@@ -196,3 +196,14 @@ Xu Yu, Xiang Zhao, Luyi Shen, Yanyan Shao, Jing Liu, and Xiaoguang Wang
 Optics Express **26**, 016292 (2018). &ensp; 
 
 <p><a href="../pdf/OE_26_13_016292.pdf">PDF</a> | <a href="https://doi.org/10.1364/OE.26.016292">online</a> | <a href="https://arxiv.org/abs/1412.4325">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1364/OE.26.016292" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
+
+## 2017年
+
+
+**Quantum parameter estimation with optimal control**
+
+Jing Liu and Haidong Yuan
+
+Physical Review A **96**, 012117 (2017). &ensp; 
+
+<a href="https://doi.org/10.1103/PhysRevA.96.012117">online</a> | <a href="https://doi.org/10.48550/arXiv.1604.04856">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1364/OE.26.016292" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
