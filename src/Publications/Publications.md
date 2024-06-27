@@ -8,7 +8,7 @@ arXiv: 2405.12066. &ensp;
 
 [arXiv](https://arxiv.org/abs/2405.12066)
 
-
+---
 
 ## 2023
 
@@ -20,8 +20,6 @@ arXiv:2312.01965. &ensp;
 
 [arXiv](https://arxiv.org/abs/2312.01965)
 
----
-
 **Quantum speed limit for complex dynamics**
 
 Mao Zhang, Huai-Ming Yu, and Jing Liu
@@ -30,18 +28,15 @@ npj Quantum Information **9**, 97 (2023). &ensp;
 
 <a href="../pdf/s41534-023-00768-8.pdf">PDF</a> | <a href="https://doi.org/10.1038/s41534-023-00768-8">online</a> | <a href="https://arxiv.org/abs/2301.00566">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1038/s41534-023-00768-8" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
----
-
 **Lee-Yang zeros and quantum Fisher information matrix in a nonlinear system**
 
 Hong Tao, Yuguo Su, Xingyu Zhang, Jing Liu, and Xiaoguang Wang
 
 Physical Review E **108**, 024104 (2023). &ensp;
 
-
-<a href="https://doi.org/10.1103/PhysRevE.108.024104">online</a> | <a href="https://doi.org/10.48550/arXiv.2303.03601">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevE.108.024104" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
----
+<a href="https://doi.org/10.1103/PhysRevE.108.024104">online</a> | <a href="https://doi.org/10.48550/arXiv.2303.03601">arXiv</a> | 
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevE.108.024104" data-style="large_rectangle" style="display:inline;">
+</span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 **Quantum dynamic response-based NV-diamond magnetometry: Robustness to decoherence and applications in motion detection of magnetic nanoparticles**
 
@@ -51,8 +46,6 @@ arXiv:2307.05255. &ensp;
 
 [arXiv](https://arxiv.org/abs/2307.05255)
 
----
-
 **Direct measurement of quantum Fisher information**
 
 Xingyu Zhang, Xiao-Ming Lu, Jing Liu, Wenkui Ding, and Xiaoguang Wang
@@ -60,6 +53,8 @@ Xingyu Zhang, Xiao-Ming Lu, Jing Liu, Wenkui Ding, and Xiaoguang Wang
 Physical Review A **107**, 012414 (2023). &ensp; 
 
 <a href="https://doi.org/10.1103/PhysRevA.107.012414">online</a> | <a href="https://doi.org/10.48550/arXiv.2208.03140">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.107.012414" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+---
 
 ## 2022
 
@@ -70,8 +65,6 @@ Shao-Jie Xiong, Peng-Fei Wei, Huang-Qiu-Chen Wang, Lei Shao, Yong-Nan Sun, Jing 
 arXiv:2212.05285. &ensp; 
 
 [arXiv](https://doi.org/10.48550/arXiv.2212.05285)
-
----
 
 **QuanEstimation: An open-source toolkit for quantum parameter estimation**
 
@@ -197,7 +190,6 @@ Optics Express **26**, 016292 (2018). &ensp;
 
 ## 2017
 
-
 **Quantum parameter estimation with optimal control**
 
 Jing Liu and Haidong Yuan
@@ -222,6 +214,6 @@ Jing Liu and Haidong Yuan
 
 New Journal of Physics **18**, 093009 (2016). 
 
-<a href="https://doi.org/10.1088/1367-2630/18/9/093009">online</a> | <a href="https://doi.org/10.48550/arXiv.1710.06741">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1088/1367-2630/18/9/093009" data-legend="always"></span>
+<a href="https://doi.org/10.1088/1367-2630/18/9/093009">online</a> | <a href="https://doi.org/10.48550/arXiv.1609.01618">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1088/1367-2630/18/9/093009" data-style="small_circle" data-legend="always"></span>
 
 
