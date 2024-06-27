@@ -28,7 +28,7 @@ Wenkuo Ding, Xingyu Zhang, Jing Liu, and Xiaoguang Wang
 
 arXiv:2307.05255. 
 
-<a href="">online</a> | [arXiv](https://arxiv.org/abs/2307.05255)
+<a href="">Publisher page</a> | [arXiv](https://arxiv.org/abs/2307.05255)
 
 ---
 
@@ -36,7 +36,7 @@ arXiv:2307.05255.
 
 Mao Zhang, Huai-Ming Yu, and Jing Liu
 
-npj Quantum Information **9**, 97 (2023). &ensp; 
+npj Quantum Information **9**, 97 (2023). 
 
 <a href="../pdf/npjqi_9_97.pdf">PDF</a> | <a href="https://doi.org/10.1038/s41534-023-00768-8">online</a> | 
 <a href="https://arxiv.org/abs/2301.00566">arXiv</a> | 
@@ -50,7 +50,7 @@ Hong Tao, Yuguo Su, Xingyu Zhang, Jing Liu, and Xiaoguang Wang
 
 Physical Review E **108**, 024104 (2023). 
 
-<a href="https://doi.org/10.1103/PhysRevE.108.024104">online</a> | <a href="https://doi.org/10.48550/arXiv.2303.03601">arXiv</a> | 
+<a href="https://doi.org/10.1103/PhysRevE.108.024104">Publisher page</a> | <a href="https://doi.org/10.48550/arXiv.2303.03601">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevE.108.024104" data-style="large_rectangle" style="display:inline;">
 </span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
@@ -62,7 +62,7 @@ Xingyu Zhang, Xiao-Ming Lu, Jing Liu, Wenkui Ding, and Xiaoguang Wang
 
 Physical Review A **107**, 012414 (2023). 
 
-<a href="https://doi.org/10.1103/PhysRevA.107.012414">online</a> | <a href="https://doi.org/10.48550/arXiv.2208.03140">arXiv</a> | 
+<a href="https://doi.org/10.1103/PhysRevA.107.012414">Publisher page</a> | <a href="https://doi.org/10.48550/arXiv.2208.03140">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.107.012414" data-style="large_rectangle" style="display:inline;">
 
 ## **<font color="Blue">2022</font>** 
