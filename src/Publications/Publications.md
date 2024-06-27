@@ -38,7 +38,7 @@ Mao Zhang, Huai-Ming Yu, and Jing Liu
 
 npj Quantum Information **9**, 97 (2023). &ensp; 
 
-<a href="../pdf/s41534-023-00768-8.pdf">PDF</a> | <a href="https://doi.org/10.1038/s41534-023-00768-8">online</a> | 
+<a href="../pdf/npjqi_9_97.pdf">PDF</a> | <a href="https://doi.org/10.1038/s41534-023-00768-8">online</a> | 
 <a href="https://arxiv.org/abs/2301.00566">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41534-023-00768-8" data-style="large_rectangle" style="display:inline;">
 
