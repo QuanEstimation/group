@@ -371,7 +371,7 @@ Chinese Physics B **23**, 090305 (2014).
 
 ## **<font color="Blue">2013</font>** 
 
-**Phase-matching condition for enhancement of phase sensitivity in quantum metrology**
+**3. Phase-matching condition for enhancement of phase sensitivity in quantum metrology**
 
 Jing Liu, Xiao-Xing Jing, and Xiaoguang Wang
 
@@ -382,7 +382,7 @@ Physical Review A **88**, 042316 (2013).
 
 ---
 
-**Nonunital non-Markovianity of quantum dynamics**
+**2. Nonunital non-Markovianity of quantum dynamics**
 
 Jing Liu, Xiao-Ming Lu, and Xiaoguang Wang
 
@@ -393,7 +393,7 @@ Physical Review A **87**, 042103 (2013).
 
 ## **<font color="Blue">2012</font>** 
 
-**Fidelity and fidelity susceptibility based on Hilbert-Schmidt inner product**
+**1. Fidelity and fidelity susceptibility based on Hilbert-Schmidt inner product**
 
 Jing Liu, Xiao-Ming Lu, Jian Ma, and Xiaoguang Wang
 
