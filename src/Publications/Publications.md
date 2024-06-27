@@ -244,7 +244,8 @@ Jing Liu and Haidong Yuan
 
 New Journal of Physics **18**, 093009 (2016). 
 
-<a href="https://doi.org/10.1088/1367-2630/18/9/093009">online</a> | <a href="https://doi.org/10.48550/arXiv.1609.01618">arXiv</a> | 
+<a href="../pdf/NewJP_18_093009.pdf">PDF</a> | <a href="https://doi.org/10.1088/1367-2630/18/9/093009">online</a> | 
+<a href="https://doi.org/10.48550/arXiv.1609.01618">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1367-2630/18/9/093009" data-style="large_rectangle" style="display:inline;"></span>
 
 ---
@@ -277,7 +278,7 @@ Jing Liu, Xiao-Xing Jing, and Xiaoguang Wang
 
 Scientific Reports **5**, 8565 (2015).
 
-<a href="https://doi.org/10.1038/srep08565">online</a> | <a href="https://doi.org/10.48550/arXiv.1409.4057">arXiv</a> | 
+<a href="../pdf/SciRep_5_8565.pdf">PDF</a> | <a href="https://doi.org/10.1038/srep08565">online</a> | <a href="https://doi.org/10.48550/arXiv.1409.4057">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1038/srep08565" data-style="large_rectangle" style="display:inline;"></span>
 
 ---
@@ -288,7 +289,7 @@ Jing Liu, Kewei Sun, Xiaoguang Wang, and Yang Zhao
 
 Physical Chemistry Chemical Physics **17**, 8087-8096 (2015).
 
-<a href="https://doi.org/10.1039/C4CP04922E">online</a> | <a href="https://doi.org/10.48550/arXiv.1410.5066">arXiv</a> | 
+<a href="../pdf/PCCP_17_8087.pdf">PDF</a> | <a href="https://doi.org/10.1039/C4CP04922E">online</a> | <a href="https://doi.org/10.48550/arXiv.1410.5066">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1039/C4CP04922E" data-style="large_rectangle" style="display:inline;"></span>
 
 ---
@@ -299,7 +300,7 @@ Zhe Sun, Jing Liu, Jian Ma, and Xiaoguang Wang
 
 Scientific Reports **5**, 8444 (2015).
 
-<a href="https://doi.org/10.1038/srep08444">online</a> | 
+<a href="../pdf/SciRep_5_8444.pdf">PDF</a> | <a href="https://doi.org/10.1038/srep08444">online</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1038/srep08444" data-style="large_rectangle" style="display:inline;"></span>
 
 ---
@@ -396,7 +397,7 @@ Physical Review A **87**, 042103 (2013).
 
 Jing Liu, Xiao-Ming Lu, Jian Ma, and Xiaoguang Wang
 
-Science China: Physics, Mechanics and Astronomy **55**, 1529-1534 (2012).
+Science China: Physics, Mechanics & Astronomy **55**, 1529-1534 (2012).
 
 <a href="https://doi.org/10.1007/s11433-012-4852-0">online</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1007/s11433-012-4852-0" data-style="large_rectangle" style="display:inline;"></span>
