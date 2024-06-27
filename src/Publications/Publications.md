@@ -2,7 +2,7 @@
 
 ## **<font color="Blue">2024</font>** 
  
-**QuanEstimation.jl: An open-source Julia framework for quantum parameter estimation** 
+**37. QuanEstimation.jl: An open-source Julia framework for quantum parameter estimation** 
 
 Huai-Ming Yu and Jing Liu
 
@@ -12,7 +12,7 @@ arXiv: 2405.12066. &ensp;
 
 ## **<font color="Blue">2023</font>** 
 
-**Optimal Phase Estimation in Finite-dimensional Fock Space**
+**36. Optimal Phase Estimation in Finite-dimensional Fock Space**
 
 Jin-Feng Qin, Yuqian Xu, and Jing Liu
 
@@ -20,9 +20,18 @@ arXiv:2312.01965. &ensp;
 
 [arXiv](https://arxiv.org/abs/2312.01965)
 
+**35. Quantum dynamic response-based NV-diamond magnetometry: Robustness to decoherence and applications in motion detection of magnetic nanoparticles**
+
+Wenkuo Ding, Xingyu Zhang, Jing Liu, and Xiaoguang Wang
+
+arXiv:2307.05255. 
+
+[arXiv](https://arxiv.org/abs/2307.05255)
+
+
 ---
 
-**Quantum speed limit for complex dynamics**
+**34. Quantum speed limit for complex dynamics**
 
 Mao Zhang, Huai-Ming Yu, and Jing Liu
 
@@ -34,7 +43,7 @@ npj Quantum Information **9**, 97 (2023). &ensp;
 
 ---
 
-**Lee-Yang zeros and quantum Fisher information matrix in a nonlinear system**
+**33. Lee-Yang zeros and quantum Fisher information matrix in a nonlinear system**
 
 Hong Tao, Yuguo Su, Xingyu Zhang, Jing Liu, and Xiaoguang Wang
 
@@ -44,17 +53,9 @@ Physical Review E **108**, 024104 (2023).
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevE.108.024104" data-style="large_rectangle" style="display:inline;">
 </span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-**Quantum dynamic response-based NV-diamond magnetometry: Robustness to decoherence and applications in motion detection of magnetic nanoparticles**
-
-Wenkuo Ding, Xingyu Zhang, Jing Liu, and Xiaoguang Wang
-
-arXiv:2307.05255. 
-
-[arXiv](https://arxiv.org/abs/2307.05255)
-
 ---
 
-**Direct measurement of quantum Fisher information**
+**32. Direct measurement of quantum Fisher information**
 
 Xingyu Zhang, Xiao-Ming Lu, Jing Liu, Wenkui Ding, and Xiaoguang Wang
 
@@ -65,7 +66,7 @@ Physical Review A **107**, 012414 (2023).
 
 ## **<font color="Blue">2022</font>** 
 
-**Advantage of quantum coherence in postselected metrology**
+**31. Advantage of quantum coherence in postselected metrology**
 
 Shao-Jie Xiong, Peng-Fei Wei, Huang-Qiu-Chen Wang, Lei Shao, Yong-Nan Sun, Jing Liu, Zhe Sun, and Xiao-Guang Wang
 
@@ -75,7 +76,7 @@ arXiv:2212.05285.
 
 ---
 
-**QuanEstimation: An open-source toolkit for quantum parameter estimation**
+**30. QuanEstimation: An open-source toolkit for quantum parameter estimation**
 
 Mao Zhang, Huai-Ming Yu, Haidong Yuan, Xiaoguang Wang, Rafał Demkowicz-Dobrzański, and Jing Liu
 
@@ -87,7 +88,7 @@ Physical Review Research **4**, 043057 (2022).
 
 ---
 
-**Optimal Scheme for Quantum Metrology**
+**29. Optimal Scheme for Quantum Metrology**
 
 Jing Liu, Mao Zhang, Hongzhen Chen, Lingna Wang, and Haidong Yuan
 
@@ -98,7 +99,7 @@ Advanced Quantum Technologies **5**, 2100080 (2022).
 
 ---
 
-**Quantum Magnetometer with Dual-Coupling Optomechanics**
+**28. Quantum Magnetometer with Dual-Coupling Optomechanics**
 
 Gui-Lei Zhu, Jing Liu, Ying Wu, and Xin-You Lü
 
@@ -109,7 +110,7 @@ Laser & Photonics Reviews **16**, 2100636 (2022).
 
 ---
 
-**Quantum sensing of supersensitivity for the Ohmic quantum reservoir**
+**27. Quantum sensing of supersensitivity for the Ohmic quantum reservoir**
 
 Qing-Shou Tan, Wei Wu, Lan Xu, Jing Liu, and Le-Man Kuang
 
@@ -119,7 +120,7 @@ Physical Review A **106**, 032602 (2022).
 
 ## **<font color="Blue">2021</font>** 
 
-**Bhatia-Davis formula in the quantum speed limit**
+**26. Bhatia-Davis formula in the quantum speed limit**
 
 Jing Liu, Zibo Miao, Libin Fu, and Xiaoguang Wang
 
@@ -130,7 +131,7 @@ Physical Review A **104**, 052432 (2021).
 
 ---
 
-**Generation and storage of spin squeezing via learning-assisted optimal control**
+**25. Generation and storage of spin squeezing via learning-assisted optimal control**
 
 Qing-Shou Tan, Mao Zhang, Yu Chen, Jie-Qiao Liao, and Jing Liu
 
@@ -141,7 +142,7 @@ Physical Review A **103**, 032601 (2021).
 
 ---
 
-**Quantum metrology with precision reaching beyond 1/N-scaling through N-probe entanglement-generating interactions**
+**24. Quantum metrology with precision reaching beyond 1/N-scaling through N-probe entanglement-generating interactions**
 
 Xing Deng, Shou-Long Chen, Mao Zhang, Xiao-Fan Xu, Jing Liu, Zhi Gao, Xiao-Chun Duan, Min-Kang Zhou, Lushuai Cao, and Zhong-Kun Hu
 
@@ -152,7 +153,7 @@ Physical Review A **104**, 012607 (2021).
 
 ---
 
-**Single-photon-triggered spin squeezing with decoherence reduction in optomechanics via phase matching**
+**23. Single-photon-triggered spin squeezing with decoherence reduction in optomechanics via phase matching**
 
 Zhucheng Zhang, Lei Shao, Wangjun Lu, Yuguo Su, Yi-Ping Wang, Jing Liu, and Xiaoguang Wang
 
@@ -161,7 +162,7 @@ Physical Review A **104**, 053517 (2021).
 <a href="https://doi.org/10.1103/PhysRevA.104.053517">online</a> | <a href="https://arxiv.org/abs/2109.05692">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.104.053517" data-style="large_rectangle" style="display:inline;">
 
-**Quantum multiparameter estimation and metrology-preface**
+**22. Quantum multiparameter estimation and metrology-preface**
 
 Animesh Datta, Rafał Demkowicz-Dobrza$\'{n}$ski, and Jing Liu
 
@@ -172,7 +173,7 @@ Journal of Physics A: Mathematics and Theoretical **54**, 460301 (2021).
 
 ## **<font color="Blue">2020</font>** 
 
-**Quantum Fisher information matrix and multiparameter estimation**
+**21. Quantum Fisher information matrix and multiparameter estimation**
 
 Jing Liu, Haidong Yuan, Xiao-Ming Lu, and Xiaoguang Wang
 
@@ -183,7 +184,7 @@ Journal of Physics A: Mathematical and Theoretical **53**, 023001 (2020).
 
 ---
 
-**Operational definition of a quantum speed limit**
+**20. Operational definition of a quantum speed limit**
 
 Yanyan Shao, Bo Liu, Mao Zhang, Haidong Yuan, and Jing Liu
 
@@ -194,7 +195,7 @@ Physical Review Research **2**, 023299 (2020).
 
 ## **<font color="Blue">2019</font>** 
 
-**Multiqubit matter-wave interferometry under decoherence and the Heisenberg scaling recovery**
+**19. Multiqubit matter-wave interferometry under decoherence and the Heisenberg scaling recovery**
 
 Yanming Che, Jing Liu, Xiao-Ming Lu, and Xiaoguang Wang
 
@@ -205,7 +206,7 @@ Physical Review A **99**, 033807 (2019).
 
 ## **<font color="Blue">2018</font>** 
 
-**Maximal quantum Fisher information for phase estimation without initial parity**
+**18. Maximal quantum Fisher information for phase estimation without initial parity**
 
 Xu Yu, Xiang Zhao, Luyi Shen, Yanyan Shao, Jing Liu, and Xiaoguang Wang
 
@@ -216,7 +217,7 @@ Optics Express **26**, 016292 (2018).
 
 ## **<font color="Blue">2017</font>** 
 
-**Quantum parameter estimation with optimal control**
+**17. Quantum parameter estimation with optimal control**
 
 Jing Liu and Haidong Yuan
 
@@ -227,7 +228,7 @@ Physical Review A **96**, 012117 (2017).
 
 ---
 
-**Control-enhanced multiparameter quantum estimation**
+**16. Control-enhanced multiparameter quantum estimation**
 
 Jing Liu and Haidong Yuan
 
@@ -238,7 +239,7 @@ Physical Review A **96**, 042114 (2017).
 
 ## **<font color="Blue">2016</font>** 
 
-**Valid lower bound for all estimators in quantum parameter estimation** 
+**15. Valid lower bound for all estimators in quantum parameter estimation** 
 
 Jing Liu and Haidong Yuan
 
@@ -250,7 +251,7 @@ New Journal of Physics **18**, 093009 (2016).
 
 ---
 
-**Quantum multiparameter metrology with generalized entangled coherent state**
+**14. Quantum multiparameter metrology with generalized entangled coherent state**
 
 Jing Liu, Xiao-Ming Lu, Zhe Sun, and Xiaoguang Wang
 
@@ -261,7 +262,7 @@ Journal of Physics A: Mathematics and Theoretical **49**, 115302 (2016).
 
 ---
 
-**Quantum Fisher information and symmetric logarithmic derivative via anti-commutators**
+**13. Quantum Fisher information and symmetric logarithmic derivative via anti-commutators**
 
 Jing Liu, Jie Chen, Xiao-Xing Jing, and Xiaoguang Wang
 
@@ -272,7 +273,7 @@ Journal of Physics A: Mathematics and Theoretical **49**, 275302 (2016).
 
 ## **<font color="Blue">2015</font>** 
 
-**Quantum metrology with unitary parametrization processes, Scientific Reports**
+**12. Quantum metrology with unitary parametrization processes, Scientific Reports**
 
 Jing Liu, Xiao-Xing Jing, and Xiaoguang Wang
 
@@ -283,7 +284,7 @@ Scientific Reports **5**, 8565 (2015).
 
 ---
 
-**Quantifying non-Markovianity for a chromophore-qubit pair in a super-Ohmic bath**
+**11. Quantifying non-Markovianity for a chromophore-qubit pair in a super-Ohmic bath**
 
 Jing Liu, Kewei Sun, Xiaoguang Wang, and Yang Zhao
 
@@ -294,7 +295,7 @@ Physical Chemistry Chemical Physics **17**, 8087-8096 (2015).
 
 ---
 
-**Quantum speed limits in open systems: Non-Markovian dynamics without rotating-wave approximation**
+**10. Quantum speed limits in open systems: Non-Markovian dynamics without rotating-wave approximation**
 
 Zhe Sun, Jing Liu, Jian Ma, and Xiaoguang Wang
 
@@ -305,7 +306,7 @@ Scientific Reports **5**, 8444 (2015).
 
 ---
 
-**Dynamics of bipartite and tripartite entanglement in a dissipative system of continuous variables**
+**9. Dynamics of bipartite and tripartite entanglement in a dissipative system of continuous variables**
 
 Yang Zhao, Fulu Zheng, Jing Liu, and Yao Yao
 
@@ -316,7 +317,7 @@ Physica A: Statistical Mechanics and Its Applications **423**, 80-96 (2015).
 
 ## **<font color="Blue">2014</font>** 
 
-**Quantum Fisher Information for Density Matrices with Arbitrary Ranks**
+**8. Quantum Fisher Information for Density Matrices with Arbitrary Ranks**
 
 Jing Liu, Xiao-Xing Jing, and Xiaoguang Wang
 
@@ -327,7 +328,7 @@ Communications in Theoretical Physics **61**, 45 (2014).
 
 ---
 
-**Fidelity susceptibility and quantum Fisher information for density operators with arbitrary ranks**
+**7. Fidelity susceptibility and quantum Fisher information for density operators with arbitrary ranks**
 
 Jing Liu, Heng-Na Xiong, Fei Song, and Xiaoguang Wang
 
@@ -338,7 +339,7 @@ Physica A: Statistical Mechanics and Its Applications **410**, 167-173 (2014).
 
 ---
 
-**Quantum Fisher Information of Entangled Coherent States in a Lossy Mach-Zehnder Interferometer**
+**6. Quantum Fisher Information of Entangled Coherent States in a Lossy Mach-Zehnder Interferometer**
 
 Xiao-Xing Jing, Jing Liu, Wei Zhong, and Xiaoguang Wang
 
@@ -349,7 +350,7 @@ Communications in Theoretical Physics **61**, 115 (2014).
 
 ---
 
-**Quantum Fisher information and spin squeezing in one-axis twisting model**
+**5. Quantum Fisher information and spin squeezing in one-axis twisting model**
 
 Wei Zhong, Jing Liu, Jian Ma and Xiaoguang Wang
 
@@ -360,7 +361,7 @@ Chinese Physics B **23**, 060302 (2014).
 
 ---
 
-**Derivation of quantum Chernoff metric with perturbation expansion method**
+**4. Derivation of quantum Chernoff metric with perturbation expansion method**
 
 Wei Zhong, Jian Ma, Jing Liu, and Xiaoguang Wang
 
