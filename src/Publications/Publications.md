@@ -200,9 +200,9 @@ Physical Review A **96**, 042114 (2017). &ensp;
 
 ---
 
-## 2016 
+## <font color="Blue">2016</font> 
 
-**Valid lower bound for all estimators in quantum parameter estimation** || <span class="__dimensions_badge_embed__" data-doi="10.1088/1367-2630/18/9/093009" data-style="small_circle" data-legend="always"></span>
+**Valid lower bound for all estimators in quantum parameter estimation** 
 
 Jing Liu and Haidong Yuan
 
@@ -210,4 +210,5 @@ New Journal of Physics **18**, 093009 (2016).
 
 <a href="https://doi.org/10.1088/1367-2630/18/9/093009">online</a> | <a href="https://doi.org/10.48550/arXiv.1609.01618">arXiv</a> | 
 
+<span class="__dimensions_badge_embed__" data-doi="10.1088/1367-2630/18/9/093009" data-legend="always"></span>
 
