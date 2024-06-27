@@ -130,7 +130,7 @@ Qing-Shou Tan, Mao Zhang, Yu Chen, Jie-Qiao Liao, and Jing Liu
 
 Physical Review A **103**, 032601 (2021). &ensp; 
 
-<a href="https://doi.org/10.1103/PhysRevA.103.032601">online</a> | <a href="https://arxiv.org/abs/2010.13444">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.103.032601" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
+<p><a href="https://doi.org/10.1103/PhysRevA.103.032601">online</a> | <a href="https://arxiv.org/abs/2010.13444">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.103.032601" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
 
 ---
 
@@ -140,7 +140,7 @@ Xing Deng, Shou-Long Chen, Mao Zhang, Xiao-Fan Xu, Jing Liu, Zhi Gao, Xiao-Chun 
 
 Physical Review A **104**, 012607 (2021). &ensp; 
 
-<a href="https://doi.org/10.1103/PhysRevA.104.012607">online</a> | <a href="https://arxiv.org/abs/2102.07079">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.104.012607" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
+<p><a href="https://doi.org/10.1103/PhysRevA.104.012607">online</a> | <a href="https://arxiv.org/abs/2102.07079">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.104.012607" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
 
 ---
 
@@ -150,7 +150,7 @@ Zhucheng Zhang, Lei Shao, Wangjun Lu, Yuguo Su, Yi-Ping Wang, Jing Liu, and Xiao
 
 Physical Review A **104**, 053517 (2021). &ensp; 
 
-<a href="https://doi.org/10.1103/PhysRevA.104.053517">online</a> | <a href="https://arxiv.org/abs/2109.05692">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.104.053517" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
+<p><a href="https://doi.org/10.1103/PhysRevA.104.053517">online</a> | <a href="https://arxiv.org/abs/2109.05692">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.104.053517" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
 
 ## 2020
 
@@ -182,7 +182,7 @@ Yanming Che, Jing Liu, Xiao-Ming Lu, and Xiaoguang Wang
 
 Physical Review A **99**, 033807 (2019). &ensp; 
 
-<a href="https://doi.org/10.1103/PhysRevA.99.033807">online</a> | <a href="https://arxiv.org/abs/1808.04632">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.99.033807" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
+<p><a href="https://doi.org/10.1103/PhysRevA.99.033807">online</a> | <a href="https://arxiv.org/abs/1808.04632">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.99.033807" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
 
 ## 2018
 
@@ -213,3 +213,6 @@ Jing Liu and Haidong Yuan
 Physical Review A **96**, 042114 (2017). &ensp; 
 
 <a href="https://doi.org/10.1103/PhysRevA.96.042114">online</a> | <a href="https://doi.org/10.48550/arXiv.1710.06741">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.96.042114" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
+
+## 2016 
+
