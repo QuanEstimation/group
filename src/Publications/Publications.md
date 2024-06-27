@@ -165,7 +165,7 @@ Physical Review A **104**, 053517 (2021).
 
 **22. Quantum multiparameter estimation and metrology-preface**
 
-Animesh Datta, Rafał Demkowicz-Dobrza$\'{n}$ski, and Jing Liu
+Animesh Datta, Rafał Demkowicz-Dobrzański, and Jing Liu
 
 Journal of Physics A: Mathematics and Theoretical **54**, 460301 (2021).
 
