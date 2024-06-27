@@ -16,9 +16,11 @@ arXiv: 2405.12066.
 
 Jin-Feng Qin, Yuqian Xu, and Jing Liu
 
-arXiv:2312.01965. &ensp; 
+arXiv:2312.01965.
 
 [arXiv](https://arxiv.org/abs/2312.01965)
+
+---
 
 **35. Quantum dynamic response-based NV-diamond magnetometry: Robustness to decoherence and applications in motion detection of magnetic nanoparticles**
 
