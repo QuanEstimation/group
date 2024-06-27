@@ -238,3 +238,12 @@ New Journal of Physics **18**, 093009 (2016).
 <a href="https://doi.org/10.1088/1367-2630/18/9/093009">online</a> | <a href="https://doi.org/10.48550/arXiv.1609.01618">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1367-2630/18/9/093009" data-style="large_rectangle" style="display:inline;"></span>
 
+**Quantum multiparameter metrology with generalized entangled coherent state**
+
+Jing Liu, Xiao-Ming Lu, Zhe Sun, and Xiaoguang Wang
+
+Journal of Physics A: Mathematics and Theoretical **49**, 115302 (2016).
+
+<a href="https://doi.org/10.1088/1751-8113/49/11/115302">online</a> | <a href="https://doi.org/10.48550/arXiv.1409.6167">arXiv</a> | 
+<span class="__dimensions_badge_embed__" data-doi="10.1088/1751-8113/49/11/115302" data-style="large_rectangle" style="display:inline;"></span>
+
