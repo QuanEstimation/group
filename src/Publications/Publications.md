@@ -200,7 +200,7 @@ Physical Review A **96**, 042114 (2017). &ensp;
 
 ---
 
-## <font color="Blue">2016</font> 
+## **<font color="Blue">2016</font>** 
 
 **Valid lower bound for all estimators in quantum parameter estimation** 
 
