@@ -1,3 +1,5 @@
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
 ## 2024
  
 **QuanEstimation.jl: An open-source Julia framework for quantum parameter estimation** 
@@ -196,7 +198,8 @@ Jing Liu and Haidong Yuan
 
 Physical Review A **96**, 042114 (2017). &ensp; 
 
-<a href="https://doi.org/10.1103/PhysRevA.96.042114">online</a> | <a href="https://doi.org/10.48550/arXiv.1710.06741">arXiv</a> | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.96.042114" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<a href="https://doi.org/10.1103/PhysRevA.96.042114">online</a> | <a href="https://doi.org/10.48550/arXiv.1710.06741">arXiv</a> | 
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.96.042114" data-style="large_rectangle" style="display:inline;">
 
 ---
 
@@ -209,6 +212,5 @@ Jing Liu and Haidong Yuan
 New Journal of Physics **18**, 093009 (2016). 
 
 <a href="https://doi.org/10.1088/1367-2630/18/9/093009">online</a> | <a href="https://doi.org/10.48550/arXiv.1609.01618">arXiv</a> | 
-
-<span class="__dimensions_badge_embed__" data-doi="10.1088/1367-2630/18/9/093009" data-legend="always"></span>
+<span class="__dimensions_badge_embed__" data-doi="10.1088/1367-2630/18/9/093009" data-style="large_rectangle" style="display:inline;"></span>
 
