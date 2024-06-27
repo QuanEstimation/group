@@ -161,6 +161,15 @@ Physical Review A **104**, 053517 (2021).
 <a href="https://doi.org/10.1103/PhysRevA.104.053517">online</a> | <a href="https://arxiv.org/abs/2109.05692">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.104.053517" data-style="large_rectangle" style="display:inline;">
 
+**Quantum multiparameter estimation and metrology-preface**
+
+Animesh Datta, Rafał Demkowicz-Dobrza$\'{n}$ski, and Jing Liu
+
+Journal of Physics A: Mathematics and Theoretical **54**, 460301 (2021).
+
+<a href="https://doi.org/10.1088/1751-8121/ac0d6b">online</a> | 
+<span class="__dimensions_badge_embed__" data-doi="10.1088/1751-8121/ac0d6b" data-style="large_rectangle" style="display:inline;">
+
 ## **<font color="Blue">2020</font>** 
 
 **Quantum Fisher information matrix and multiparameter estimation**
@@ -238,6 +247,8 @@ New Journal of Physics **18**, 093009 (2016).
 <a href="https://doi.org/10.1088/1367-2630/18/9/093009">online</a> | <a href="https://doi.org/10.48550/arXiv.1609.01618">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1367-2630/18/9/093009" data-style="large_rectangle" style="display:inline;"></span>
 
+---
+
 **Quantum multiparameter metrology with generalized entangled coherent state**
 
 Jing Liu, Xiao-Ming Lu, Zhe Sun, and Xiaoguang Wang
@@ -246,4 +257,149 @@ Journal of Physics A: Mathematics and Theoretical **49**, 115302 (2016).
 
 <a href="https://doi.org/10.1088/1751-8113/49/11/115302">online</a> | <a href="https://doi.org/10.48550/arXiv.1409.6167">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1751-8113/49/11/115302" data-style="large_rectangle" style="display:inline;"></span>
+
+---
+
+**Quantum Fisher information and symmetric logarithmic derivative via anti-commutators**
+
+Jing Liu, Jie Chen, Xiao-Xing Jing, and Xiaoguang Wang
+
+Journal of Physics A: Mathematics and Theoretical **49**, 275302 (2016).
+
+<a href="https://doi.org/10.1088/1751-8113/49/27/275302">online</a> | <a href="https://doi.org/10.48550/arXiv.1501.04290">arXiv</a> | 
+<span class="__dimensions_badge_embed__" data-doi="10.1088/1751-8113/49/27/275302" data-style="large_rectangle" style="display:inline;"></span>
+
+## **<font color="Blue">2015</font>** 
+
+**Quantum metrology with unitary parametrization processes, Scientific Reports**
+
+Jing Liu, Xiao-Xing Jing, and Xiaoguang Wang
+
+Scientific Reports **5**, 8565 (2015).
+
+<a href="https://doi.org/10.1038/srep08565">online</a> | <a href="https://doi.org/10.48550/arXiv.1409.4057">arXiv</a> | 
+<span class="__dimensions_badge_embed__" data-doi="10.1038/srep08565" data-style="large_rectangle" style="display:inline;"></span>
+
+---
+
+**Quantifying non-Markovianity for a chromophore-qubit pair in a super-Ohmic bath**
+
+Jing Liu, Kewei Sun, Xiaoguang Wang, and Yang Zhao
+
+Physical Chemistry Chemical Physics **17**, 8087-8096 (2015).
+
+<a href="https://doi.org/10.1039/C4CP04922E">online</a> | <a href="https://doi.org/10.48550/arXiv.1410.5066">arXiv</a> | 
+<span class="__dimensions_badge_embed__" data-doi="10.1039/C4CP04922E" data-style="large_rectangle" style="display:inline;"></span>
+
+---
+
+**Quantum speed limits in open systems: Non-Markovian dynamics without rotating-wave approximation**
+
+Zhe Sun, Jing Liu, Jian Ma, and Xiaoguang Wang
+
+Scientific Reports **5**, 8444 (2015).
+
+<a href="https://doi.org/10.1038/srep08444">online</a> | 
+<span class="__dimensions_badge_embed__" data-doi="10.1038/srep08444" data-style="large_rectangle" style="display:inline;"></span>
+
+---
+
+**Dynamics of bipartite and tripartite entanglement in a dissipative system of continuous variables**
+
+Yang Zhao, Fulu Zheng, Jing Liu, and Yao Yao
+
+Physica A: Statistical Mechanics and Its Applications **423**, 80-96 (2015).
+
+<a href="https://doi.org/10.1016/j.physa.2014.12.028">online</a> | 
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.physa.2014.12.028" data-style="large_rectangle" style="display:inline;"></span>
+
+## **<font color="Blue">2014</font>** 
+
+**Quantum Fisher Information for Density Matrices with Arbitrary Ranks**
+
+Jing Liu, Xiao-Xing Jing, and Xiaoguang Wang
+
+Communications in Theoretical Physics **61**, 45 (2014).
+
+<a href="https://doi.org/10.1088/0253-6102/61/1/08">online</a> | <a href="https://doi.org/10.48550/arXiv.1312.6910">arXiv</a> | 
+<span class="__dimensions_badge_embed__" data-doi="10.1088/0253-6102/61/1/08" data-style="large_rectangle" style="display:inline;"></span>
+
+---
+
+**Fidelity susceptibility and quantum Fisher information for density operators with arbitrary ranks**
+
+Jing Liu, Heng-Na Xiong, Fei Song, and Xiaoguang Wang
+
+Physica A: Statistical Mechanics and Its Applications **410**, 167-173 (2014).
+
+<a href="https://doi.org/10.1016/j.physa.2014.05.028">online</a> | <a href="https://doi.org/10.48550/arXiv.1401.3154">arXiv</a> | 
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.physa.2014.05.028" data-style="large_rectangle" style="display:inline;"></span>
+
+---
+
+**Quantum Fisher Information of Entangled Coherent States in a Lossy Mach-Zehnder Interferometer**
+
+Xiao-Xing Jing, Jing Liu, Wei Zhong, and Xiaoguang Wang
+
+Communications in Theoretical Physics **61**, 115 (2014).
+
+<a href="https://doi.org/10.1088/0253-6102/61/1/18">online</a> | 
+<span class="__dimensions_badge_embed__" data-doi="10.1088/0253-6102/61/1/18" data-style="large_rectangle" style="display:inline;"></span>
+
+---
+
+**Quantum Fisher information and spin squeezing in one-axis twisting model**
+
+Wei Zhong, Jing Liu, Jian Ma and Xiaoguang Wang
+
+Chinese Physics B **23**, 060302 (2014).
+
+<a href="https://doi.org/10.1088/1674-1056/23/6/060302">online</a> | 
+<span class="__dimensions_badge_embed__" data-doi="10.1088/1674-1056/23/6/060302" data-style="large_rectangle" style="display:inline;"></span>
+
+---
+
+**Derivation of quantum Chernoff metric with perturbation expansion method**
+
+Wei Zhong, Jian Ma, Jing Liu, and Xiaoguang Wang
+
+Chinese Physics B **23**, 090305 (2014).
+
+<a href="10.1088/1674-1056/23/9/090305">online</a> | 
+<span class="__dimensions_badge_embed__" data-doi="10.1088/1674-1056/23/9/090305" data-style="large_rectangle" style="display:inline;"></span>
+
+## **<font color="Blue">2013</font>** 
+
+**Phase-matching condition for enhancement of phase sensitivity in quantum metrology**
+
+Jing Liu, Xiao-Xing Jing, and Xiaoguang Wang
+
+Physical Review A **88**, 042316 (2013).
+
+<a href="https://doi.org/10.1103/PhysRevA.88.042316">online</a> | <a href="https://doi.org/10.48550/arXiv.1308.4799">arXiv</a> | 
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.88.042316" data-style="large_rectangle" style="display:inline;"></span>
+
+---
+
+**Nonunital non-Markovianity of quantum dynamics**
+
+Jing Liu, Xiao-Ming Lu, and Xiaoguang Wang
+
+Physical Review A **87**, 042103 (2013).
+
+<a href="https://doi.org/10.1103/PhysRevA.87.042103">online</a> | <a href="https://doi.org/10.48550/arXiv.1301.5763">arXiv</a> | 
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.87.042103" data-style="large_rectangle" style="display:inline;"></span>
+
+## **<font color="Blue">2012</font>** 
+
+**Fidelity and fidelity susceptibility based on Hilbert-Schmidt inner product**
+
+Jing Liu, Xiao-Ming Lu, Jian Ma, and Xiaoguang Wang
+
+Science China: Physics, Mechanics and Astronomy **55**, 1529-1534 (2012).
+
+<a href="https://doi.org/10.1007/s11433-012-4852-0">online</a> | 
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s11433-012-4852-0" data-style="large_rectangle" style="display:inline;"></span>
+
+
 
