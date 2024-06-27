@@ -368,7 +368,7 @@ Wei Zhong, Jian Ma, Jing Liu, and Xiaoguang Wang
 
 Chinese Physics B **23**, 090305 (2014).
 
-<a href="10.1088/1674-1056/23/9/090305">online</a> | 
+<a href="https://doi.org/10.1088/1674-1056/23/9/090305">online</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1674-1056/23/9/090305" data-style="large_rectangle" style="display:inline;"></span>
 
 ## **<font color="Blue">2013</font>** 
