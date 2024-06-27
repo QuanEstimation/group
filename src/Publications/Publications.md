@@ -291,7 +291,7 @@ Jing Liu, Kewei Sun, Xiaoguang Wang, and Yang Zhao
 
 Physical Chemistry Chemical Physics **17**, 8087-8096 (2015).
 
-<a href="../pdf/PCCP_17_8087.pdf">PDF</a> | <a href="https://doi.org/10.1039/C4CP04922E">online</a> | <a href="https://doi.org/10.48550/arXiv.1410.5066">arXiv</a> | 
+<a href="https://doi.org/10.1039/C4CP04922E">online</a> | <a href="https://doi.org/10.48550/arXiv.1410.5066">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1039/C4CP04922E" data-style="large_rectangle" style="display:inline;"></span>
 
 ---
