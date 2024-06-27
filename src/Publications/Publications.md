@@ -6,7 +6,7 @@
 
 Huai-Ming Yu and Jing Liu
 
-arXiv: 2405.12066. &ensp; 
+arXiv: 2405.12066. 
 
 [arXiv](https://arxiv.org/abs/2405.12066)
 
@@ -26,8 +26,7 @@ Wenkuo Ding, Xingyu Zhang, Jing Liu, and Xiaoguang Wang
 
 arXiv:2307.05255. 
 
-[arXiv](https://arxiv.org/abs/2307.05255)
-
+<a href="">online</a> | [arXiv](https://arxiv.org/abs/2307.05255)
 
 ---
 
