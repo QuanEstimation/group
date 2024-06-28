@@ -4,7 +4,7 @@ Hello! Welcome to the home page of QuanEstimation group. We focus on the study o
 
 # **Research Interests**
 
-## Quantum Metrology & Control
+## Quantum Metrology and Control
 
 (1) Quantum phase estimations, including single and multiple phase estimations in optical interferometers.
 
@@ -14,11 +14,11 @@ Hello! Welcome to the home page of QuanEstimation group. We focus on the study o
 
 ---
 
-## Foundations of quantum mechanics
+## Foundations of Quantum Mechanics
 
 (1) Quantum speed limits. ​​ 
 
-(2) Quantum correlation, including the criteria, witness and the dynamical behavior of entanglement and quantum discord.
+(2) Quantum correlation, including the criteria, witness, and the dynamical behavior of entanglement and quantum discord.
 
 (3) Spin squeezing.
 
