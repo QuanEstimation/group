@@ -2,6 +2,8 @@
 
 Hello! Welcome to the home page of QuanEstimation group. We focus on the study of quantum technology and quantum information theory. 
 
+---
+
 # **Research Interests**
 
 ## Quantum Metrology and Control
@@ -11,8 +13,6 @@ Hello! Welcome to the home page of QuanEstimation group. We focus on the study o
 (2) Parameter estimations in atomic interferometers, such as Bose-Einstein condensate.
 
 (3) Controlled schemes to improve the precision of parameter estimations in various systems. 
-
----
 
 ## Foundations of Quantum Mechanics
 
