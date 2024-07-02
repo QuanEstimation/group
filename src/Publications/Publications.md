@@ -24,11 +24,12 @@ arXiv:2312.01965.
 
 **35. Quantum dynamic response-based NV-diamond magnetometry: Robustness to decoherence and applications in motion detection of magnetic nanoparticles**
 
-Wenkuo Ding, Xingyu Zhang, Jing Liu, and Xiaoguang Wang
+Wenkuo Ding, Xingyu Zhang, Jing Liu, Aixi Chen, and Xiaoguang Wang
 
-arXiv:2307.05255. 
+Physical Review B **110**, 045202 (2024).
 
-<a href="">Publisher page</a> | [arXiv](https://arxiv.org/abs/2307.05255)
+<a href="https://doi.org/10.1103/PhysRevB.110.045202">Publisher page</a> | [arXiv](https://arxiv.org/abs/2307.05255) | 
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevB.110.045202" data-style="large_rectangle" style="display:inline;">
 
 ---
 
