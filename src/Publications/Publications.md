@@ -10,19 +10,9 @@ arXiv: 2405.12066.
 
 [arXiv](https://arxiv.org/abs/2405.12066)
 
-## **<font color="Blue">2023</font>** 
-
-**36. Optimal Phase Estimation in Finite-dimensional Fock Space**
-
-Jin-Feng Qin, Yuqian Xu, and Jing Liu
-
-arXiv:2312.01965.
-
-[arXiv](https://arxiv.org/abs/2312.01965)
-
 ---
 
-**35. Quantum dynamic response-based NV-diamond magnetometry: Robustness to decoherence and applications in motion detection of magnetic nanoparticles**
+**36. Quantum dynamic response-based NV-diamond magnetometry: Robustness to decoherence and applications in motion detection of magnetic nanoparticles**
 
 Wenkuo Ding, Xingyu Zhang, Jing Liu, Aixi Chen, and Xiaoguang Wang
 
@@ -30,6 +20,16 @@ Physical Review B **110**, 045202 (2024).
 
 <a href="https://doi.org/10.1103/PhysRevB.110.045202">Publisher page</a> | [arXiv](https://arxiv.org/abs/2307.05255) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevB.110.045202" data-style="large_rectangle" style="display:inline;">
+
+## **<font color="Blue">2023</font>** 
+
+**35. Optimal Phase Estimation in Finite-dimensional Fock Space**
+
+Jin-Feng Qin, Yuqian Xu, and Jing Liu
+
+arXiv:2312.01965.
+
+[arXiv](https://arxiv.org/abs/2312.01965)
 
 ---
 
