@@ -6,6 +6,12 @@ Hello! Welcome to the home page of QuanEstimation group. We focus on the study o
 
 # **Research Interests**
 
+## QuanEstimation development
+
+QuanEstimation is 
+
+[![Downloads](https://static.pepy.tech/badge/quanestimation)](https://pepy.tech/project/quanestimation)
+
 ## Quantum Metrology and Control
 
 (1) Quantum phase estimations, including single and multiple phase estimations in optical interferometers.
