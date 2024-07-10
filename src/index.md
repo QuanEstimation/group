@@ -1,3 +1,5 @@
+# **QuanEstimation Group**
+
 Hello! Welcome to the home page of QuanEstimation group. We focus on the study of quantum technology and quantum information theory. 
 
 ---
