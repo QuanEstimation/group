@@ -14,8 +14,7 @@ Hello! Welcome to the home page of QuanEstimation group. We focus on the study o
 QuanEstimation is a comprehensive toolbox for computation and scheme design in quantum parameter estimation. We are committed to 
 
 
-
-## Quantum Metrology and Control
+### **2. Quantum Metrology and Control**
 
 (1) Quantum phase estimations, including single and multiple phase estimations in optical interferometers.
 
@@ -23,7 +22,7 @@ QuanEstimation is a comprehensive toolbox for computation and scheme design in q
 
 (3) Controlled schemes to improve the precision of parameter estimations in various systems. 
 
-## Foundations of Quantum Mechanics
+### **3. Foundations of Quantum Mechanics**
 
 (1) Quantum speed limits. ​​ 
 
