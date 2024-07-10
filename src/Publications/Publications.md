@@ -337,6 +337,8 @@ Jing Liu, Jie Chen, Xiao-Xing Jing, and Xiaoguang Wang
 <a href="https://doi.org/10.1088/1751-8113/49/27/275302">Publisher page</a> | <a href="https://doi.org/10.48550/arXiv.1501.04290">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1751-8113/49/27/275302" data-style="large_rectangle" style="display:inline;"></span>
 
+<font size=2>Cite it: J. Liu, J. Chen, X.-X. Jing, and X. Wang, J. Phys. A: Math. Theor. **49**, 275302 (2016).</font>
+
 ## **<font color="Blue">2015</font>** 
 
 **13. Quantum metrology with unitary parametrization processes**
@@ -349,6 +351,8 @@ Jing Liu, Xiao-Xing Jing, and Xiaoguang Wang
 <a href="https://doi.org/10.48550/arXiv.1409.4057">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1038/srep08565" data-style="large_rectangle" style="display:inline;"></span>
 
+<font size=2>Cite it: J. Liu, X.-X. Jing, and X. Wang, Sci. Rep. **5**, 8565 (2015).</font>
+
 ---
 
 **12. Quantifying non-Markovianity for a chromophore-qubit pair in a super-Ohmic bath**
@@ -359,6 +363,8 @@ Jing Liu, Kewei Sun, Xiaoguang Wang, and Yang Zhao
 
 <a href="https://doi.org/10.1039/C4CP04922E">Publisher page</a> | <a href="https://doi.org/10.48550/arXiv.1410.5066">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1039/C4CP04922E" data-style="large_rectangle" style="display:inline;"></span>
+
+<font size=2>Cite it: J. Liu, K. Sun, X. Wang, and Y. Zhao, Phys. Chem. Chem. Phys. **17**, 8087 (2015).</font>
 
 ---
 
@@ -371,6 +377,8 @@ Xiao-Xing Jing, Jing Liu, Heng-Na Xiong, and Xiaoguang Wang
 <a href="https://doi.org/10.1103/PhysRevA.92.012312">Publisher page</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.92.012312" data-style="large_rectangle" style="display:inline;"></span>
 
+<font size=2>Cite it: X.-X. Jing, J. Liu, H.-N. Xiong, and X. Wang, Phys. Rev. A **92**, 012312 (2015).</font>
+
 **10. Quantum speed limits in open systems: Non-Markovian dynamics without rotating-wave approximation**
 
 Zhe Sun, Jing Liu, Jian Ma, and Xiaoguang Wang
@@ -379,6 +387,8 @@ Zhe Sun, Jing Liu, Jian Ma, and Xiaoguang Wang
 
 <a href="../pdf/SciRep_5_8444.pdf">PDF</a> | <a href="https://doi.org/10.1038/srep08444">Publisher page</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1038/srep08444" data-style="large_rectangle" style="display:inline;"></span>
+
+<font size=2>Cite it: Z. Sun, J. Liu, J. Ma, and X. Wang, Sci. Rep. **5**, 8444 (2015).</font>
 
 ---
 
@@ -390,6 +400,8 @@ Yang Zhao, Fulu Zheng, Jing Liu, and Yao Yao
 
 <a href="https://doi.org/10.1016/j.physa.2014.12.028">Publisher page</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.physa.2014.12.028" data-style="large_rectangle" style="display:inline;"></span>
+
+<font size=2>Cite it: Y. Zhao, F. Zheng, J. Liu, and Y. Yao, Physica A **423**, 80-96 (2015).</font>
 
 ## **<font color="Blue">2014</font>** 
 
