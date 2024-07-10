@@ -257,6 +257,8 @@ Yanming Che, Jing Liu, Xiao-Ming Lu, and Xiaoguang Wang
 <a href="https://doi.org/10.1103/PhysRevA.99.033807">Publisher page</a> | <a href="https://arxiv.org/abs/1808.04632">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.99.033807" data-style="large_rectangle" style="display:inline;">
 
+<font size=2>Cite it: Y. Che, J. Liu, X.-M. Lu, and X. Wang, Phys. Rev. A **99**, 033807 (2019).</font>
+
 ## **<font color="Blue">2018</font>** 
 
 **19. Maximal quantum Fisher information for phase estimation without initial parity**
@@ -269,6 +271,8 @@ Xu Yu, Xiang Zhao, Luyi Shen, Yanyan Shao, Jing Liu, and Xiaoguang Wang
 <a href="https://arxiv.org/abs/1412.4325">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1364/OE.26.016292" data-style="large_rectangle" style="display:inline;">
 
+<font size=2>Cite it: X. Yu, X. Zhao, L. Shen, Y. Shao, J. Liu, and X. Wang, Opt. Express **26**, 016292 (2018).</font>
+
 ## **<font color="Blue">2017</font>** 
 
 **18. Quantum parameter estimation with optimal control**
@@ -279,6 +283,8 @@ Jing Liu and Haidong Yuan
 
 <a href="https://doi.org/10.1103/PhysRevA.96.012117">Publisher page</a> | <a href="https://doi.org/10.48550/arXiv.1604.04856">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.96.012117" data-style="large_rectangle" style="display:inline;">
+
+<font size=2>Cite it: J. Liu and H. Yuan, Phys. Rev. A **96**, 012117 (2017).</font>
 
 ---
 
@@ -291,6 +297,8 @@ Jing Liu and Haidong Yuan
 <a href="https://doi.org/10.1103/PhysRevA.96.042114">Publisher page</a> | <a href="https://doi.org/10.48550/arXiv.1710.06741">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.96.042114" data-style="large_rectangle" style="display:inline;">
 
+<font size=2>Cite it: J. Liu and H. Yuan, Phys. Rev. A **96**, 042114 (2017).</font>
+
 ## **<font color="Blue">2016</font>** 
 
 **16. Valid lower bound for all estimators in quantum parameter estimation** 
@@ -301,7 +309,9 @@ Jing Liu and Haidong Yuan
 
 <a href="../pdf/NewJP_18_093009.pdf">PDF</a> | <a href="https://doi.org/10.1088/1367-2630/18/9/093009">Publisher page</a> | 
 <a href="https://doi.org/10.48550/arXiv.1609.01618">arXiv</a> | 
-<span class="__dimensions_badge_embed__" data-doi="10.1088/1367-2630/18/9/093009" data-style="large_rectangle" style="display:inline;"></span>
+<span class="__dimensions_badge_embed__" data-doi="10.1088/1367-2630/18/9/093009" data-style="large_rectangle" style="display:inline;">
+
+<font size=2>Cite it: J. Liu and H. Yuan, New J. Phys. **18**, 093009 (2016).</font>
 
 ---
 
@@ -312,7 +322,9 @@ Jing Liu, Xiao-Ming Lu, Zhe Sun, and Xiaoguang Wang
 *Journal of Physics A: Mathematics and Theoretical* **49**, 115302 (2016).
 
 <a href="https://doi.org/10.1088/1751-8113/49/11/115302">Publisher page</a> | <a href="https://doi.org/10.48550/arXiv.1409.6167">arXiv</a> | 
-<span class="__dimensions_badge_embed__" data-doi="10.1088/1751-8113/49/11/115302" data-style="large_rectangle" style="display:inline;"></span>
+<span class="__dimensions_badge_embed__" data-doi="10.1088/1751-8113/49/11/115302" data-style="large_rectangle" style="display:inline;">
+
+<font size=2>Cite it: J. Liu and H. Yuan, New J. Phys. **18**, 093009 (2016).</font>
 
 ---
 
