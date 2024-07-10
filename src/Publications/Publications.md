@@ -402,6 +402,8 @@ Wei Zhong, Jian Ma, Jing Liu, and Xiaoguang Wang
 <a href="https://doi.org/10.1088/1674-1056/23/9/090305">Publisher page</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1674-1056/23/9/090305" data-style="large_rectangle" style="display:inline;"></span>
 
+<font size=2>Cite it: W. Zhong, J. Ma, J. Liu, and X. Wang, Chin. Phys. B **23**, 090305 (2014).</font>
+
 ## **<font color="Blue">2013</font>** 
 
 **3. Phase-matching condition for enhancement of phase sensitivity in quantum metrology**
@@ -412,6 +414,8 @@ Jing Liu, Xiao-Xing Jing, and Xiaoguang Wang
 
 <a href="https://doi.org/10.1103/PhysRevA.88.042316">Publisher page</a> | <a href="https://doi.org/10.48550/arXiv.1308.4799">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.88.042316" data-style="large_rectangle" style="display:inline;"></span>
+
+<font size=2>Cite it: J. Liu, X.-X. Jing, and X. Wang, Phys. Rev. A **88**, 042316 (2013).</font>
 
 ---
 
