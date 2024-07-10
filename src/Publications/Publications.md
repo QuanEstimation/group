@@ -1,7 +1,7 @@
 # **Publications** 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-## **pre-print**
+## **Pre-print**
 
 **QuanEstimation.jl: An open-source Julia framework for quantum parameter estimation** 
 
@@ -47,7 +47,7 @@ Physical Review B **110**, 045202 (2024).
 
 ---
 
-**33. Quantum speed limit for complex dynamics**
+**35. Quantum speed limit for complex dynamics**
 
 Mao Zhang, Huai-Ming Yu, and Jing Liu
 
@@ -59,7 +59,7 @@ npj Quantum Information **9**, 97 (2023).
 
 ---
 
-**32. Lee-Yang zeros and quantum Fisher information matrix in a nonlinear system**
+**34. Lee-Yang zeros and quantum Fisher information matrix in a nonlinear system**
 
 Hong Tao, Yuguo Su, Xingyu Zhang, Jing Liu, and Xiaoguang Wang
 
@@ -71,7 +71,7 @@ Physical Review E **108**, 024104 (2023).
 
 ---
 
-**31. Direct measurement of quantum Fisher information**
+**33. Direct measurement of quantum Fisher information**
 
 Xingyu Zhang, Xiao-Ming Lu, Jing Liu, Wenkui Ding, and Xiaoguang Wang
 
@@ -82,7 +82,7 @@ Physical Review A **107**, 012414 (2023).
 
 ## **<font color="Blue">2022</font>** 
 
-**30. QuanEstimation: An open-source toolkit for quantum parameter estimation**
+**32. QuanEstimation: An open-source toolkit for quantum parameter estimation**
 
 Mao Zhang, Huai-Ming Yu, Haidong Yuan, Xiaoguang Wang, Rafał Demkowicz-Dobrzański, and Jing Liu
 
@@ -94,7 +94,7 @@ Physical Review Research **4**, 043057 (2022).
 
 ---
 
-**29. Optimal Scheme for Quantum Metrology**
+**31. Optimal Scheme for Quantum Metrology**
 
 Jing Liu, Mao Zhang, Hongzhen Chen, Lingna Wang, and Haidong Yuan
 
@@ -105,7 +105,7 @@ Advanced Quantum Technologies **5**, 2100080 (2022).
 
 ---
 
-**28. Quantum Magnetometer with Dual-Coupling Optomechanics**
+**30. Quantum Magnetometer with Dual-Coupling Optomechanics**
 
 Gui-Lei Zhu, Jing Liu, Ying Wu, and Xin-You Lü
 
@@ -116,7 +116,7 @@ Laser & Photonics Reviews **16**, 2100636 (2022).
 
 ---
 
-**27. Quantum sensing of supersensitivity for the Ohmic quantum reservoir**
+**29. Quantum sensing of supersensitivity for the Ohmic quantum reservoir**
 
 Qing-Shou Tan, Wei Wu, Lan Xu, Jing Liu, and Le-Man Kuang
 
@@ -126,7 +126,7 @@ Physical Review A **106**, 032602 (2022).
 
 ## **<font color="Blue">2021</font>** 
 
-**26. Bhatia-Davis formula in the quantum speed limit**
+**28. Bhatia-Davis formula in the quantum speed limit**
 
 Jing Liu, Zibo Miao, Libin Fu, and Xiaoguang Wang
 
@@ -137,7 +137,7 @@ Physical Review A **104**, 052432 (2021).
 
 ---
 
-**25. Generation and storage of spin squeezing via learning-assisted optimal control**
+**27. Generation and storage of spin squeezing via learning-assisted optimal control**
 
 Qing-Shou Tan, Mao Zhang, Yu Chen, Jie-Qiao Liao, and Jing Liu
 
@@ -148,7 +148,7 @@ Physical Review A **103**, 032601 (2021).
 
 ---
 
-**24. Quantum metrology with precision reaching beyond 1/N-scaling through N-probe entanglement-generating interactions**
+**26. Quantum metrology with precision reaching beyond 1/N-scaling through N-probe entanglement-generating interactions**
 
 Xing Deng, Shou-Long Chen, Mao Zhang, Xiao-Fan Xu, Jing Liu, Zhi Gao, Xiao-Chun Duan, Min-Kang Zhou, Lushuai Cao, and Zhong-Kun Hu
 
@@ -159,7 +159,7 @@ Physical Review A **104**, 012607 (2021).
 
 ---
 
-**23. Single-photon-triggered spin squeezing with decoherence reduction in optomechanics via phase matching**
+**25. Single-photon-triggered spin squeezing with decoherence reduction in optomechanics via phase matching**
 
 Zhucheng Zhang, Lei Shao, Wangjun Lu, Yuguo Su, Yi-Ping Wang, Jing Liu, and Xiaoguang Wang
 
@@ -168,7 +168,7 @@ Physical Review A **104**, 053517 (2021).
 <a href="https://doi.org/10.1103/PhysRevA.104.053517">Publisher page</a> | <a href="https://arxiv.org/abs/2109.05692">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.104.053517" data-style="large_rectangle" style="display:inline;">
 
-**22. Quantum multiparameter estimation and metrology-preface**
+**24. Quantum multiparameter estimation and metrology-preface**
 
 Animesh Datta, Rafał Demkowicz-Dobrzański, and Jing Liu
 
@@ -177,9 +177,18 @@ Journal of Physics A: Mathematics and Theoretical **54**, 460301 (2021).
 <a href="https://doi.org/10.1088/1751-8121/ac0d6b">Publisher page</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1751-8121/ac0d6b" data-style="large_rectangle" style="display:inline;">
 
+**23. Proposal for phase-sensitive heterodyne detection in large-scale passive resonant gyroscopes**
+
+Zongyang Li, Kui Liu, Jing Liu, Zehuang Lu, and Jie Zhang
+
+Optics Express **29**, 9737-9748 (2021)
+
+<a href="https://doi.org/10.1364/OE.415916">Publisher page</a> | 
+<span class="__dimensions_badge_embed__" data-doi="10.1364/OE.415916" data-style="large_rectangle" style="display:inline;">
+
 ## **<font color="Blue">2020</font>** 
 
-**21. Quantum Fisher information matrix and multiparameter estimation**
+**22. Quantum Fisher information matrix and multiparameter estimation**
 
 Jing Liu, Haidong Yuan, Xiao-Ming Lu, and Xiaoguang Wang
 
@@ -191,7 +200,7 @@ Journal of Physics A: Mathematical and Theoretical **53**, 023001 (2020).
 
 ---
 
-**20. Operational definition of a quantum speed limit**
+**21. Operational definition of a quantum speed limit**
 
 Yanyan Shao, Bo Liu, Mao Zhang, Haidong Yuan, and Jing Liu
 
@@ -203,7 +212,7 @@ Physical Review Research **2**, 023299 (2020).
 
 ## **<font color="Blue">2019</font>** 
 
-**19. Multiqubit matter-wave interferometry under decoherence and the Heisenberg scaling recovery**
+**20. Multiqubit matter-wave interferometry under decoherence and the Heisenberg scaling recovery**
 
 Yanming Che, Jing Liu, Xiao-Ming Lu, and Xiaoguang Wang
 
@@ -214,7 +223,7 @@ Physical Review A **99**, 033807 (2019).
 
 ## **<font color="Blue">2018</font>** 
 
-**18. Maximal quantum Fisher information for phase estimation without initial parity**
+**19. Maximal quantum Fisher information for phase estimation without initial parity**
 
 Xu Yu, Xiang Zhao, Luyi Shen, Yanyan Shao, Jing Liu, and Xiaoguang Wang
 
@@ -226,7 +235,7 @@ Optics Express **26**, 016292 (2018).
 
 ## **<font color="Blue">2017</font>** 
 
-**17. Quantum parameter estimation with optimal control**
+**18. Quantum parameter estimation with optimal control**
 
 Jing Liu and Haidong Yuan
 
@@ -237,7 +246,7 @@ Physical Review A **96**, 012117 (2017).
 
 ---
 
-**16. Control-enhanced multiparameter quantum estimation**
+**17. Control-enhanced multiparameter quantum estimation**
 
 Jing Liu and Haidong Yuan
 
