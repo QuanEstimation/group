@@ -168,6 +168,8 @@ Physical Review A **104**, 053517 (2021).
 <a href="https://doi.org/10.1103/PhysRevA.104.053517">Publisher page</a> | <a href="https://arxiv.org/abs/2109.05692">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.104.053517" data-style="large_rectangle" style="display:inline;">
 
+---
+
 **24. Quantum multiparameter estimation and metrology-preface**
 
 Animesh Datta, Rafał Demkowicz-Dobrzański, and Jing Liu
@@ -176,6 +178,8 @@ Journal of Physics A: Mathematics and Theoretical **54**, 460301 (2021).
 
 <a href="https://doi.org/10.1088/1751-8121/ac0d6b">Publisher page</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1751-8121/ac0d6b" data-style="large_rectangle" style="display:inline;">
+
+---
 
 **23. Proposal for phase-sensitive heterodyne detection in large-scale passive resonant gyroscopes**
 
