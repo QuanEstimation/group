@@ -6,7 +6,7 @@ Hello! Welcome to the home page of QuanEstimation group. We focus on the study o
 
 # **Research Interests**
 
-### **1. Development of QuanEstimation ** 
+### **Development of QuanEstimation ** 
 
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://quanestimation.github.io/QuanEstimation/) 
 [![Downloads](https://static.pepy.tech/badge/quanestimation)](https://pepy.tech/project/quanestimation)
@@ -14,7 +14,7 @@ Hello! Welcome to the home page of QuanEstimation group. We focus on the study o
 QuanEstimation is a comprehensive toolbox for computation and scheme design in quantum parameter estimation. We are committed to 
 
 
-### **2. Quantum Metrology and Control**
+### **Quantum Metrology and Control**
 
 (1) Quantum phase estimations, including single and multiple phase estimations in optical interferometers.
 
@@ -22,7 +22,7 @@ QuanEstimation is a comprehensive toolbox for computation and scheme design in q
 
 (3) Controlled schemes to improve the precision of parameter estimations in various systems. 
 
-### **3. Foundations of Quantum Mechanics**
+### **Foundations of Quantum Mechanics**
 
 (1) Quantum speed limits. ​​ 
 
