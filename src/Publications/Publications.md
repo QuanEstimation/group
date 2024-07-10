@@ -38,7 +38,7 @@ arXiv:2212.05285.
 
 Wenkui Ding, Xingyu Zhang, Jing Liu, Aixi Chen, and Xiaoguang Wang
 
-Physical Review B **110**, 045202 (2024).
+*Physical Review B* **110**, 045202 (2024).
 
 <a href="https://doi.org/10.1103/PhysRevB.110.045202">Publisher page</a> | [arXiv](https://arxiv.org/abs/2307.05255) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevB.110.045202" data-style="large_rectangle" style="display:inline;">
@@ -51,7 +51,7 @@ Physical Review B **110**, 045202 (2024).
 
 Mao Zhang, Huai-Ming Yu, and Jing Liu
 
-npj Quantum Information **9**, 97 (2023). 
+*npj Quantum Information* **9**, 97 (2023). 
 
 <a href="../pdf/npjqi_9_97.pdf">PDF</a> | <a href="https://doi.org/10.1038/s41534-023-00768-8">Publisher page</a> | 
 <a href="https://arxiv.org/abs/2301.00566">arXiv</a> | 
