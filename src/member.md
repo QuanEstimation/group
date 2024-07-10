@@ -1,5 +1,7 @@
 # **Members**
 
-## Faculty
+## **Faculty**
+
+Dr. Jing Liu 
 
 
