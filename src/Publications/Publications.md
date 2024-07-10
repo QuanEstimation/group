@@ -435,8 +435,7 @@ Jing Liu, Xiao-Ming Lu, Jian Ma, and Xiaoguang Wang
 <a href="https://doi.org/10.1007/s11433-012-4852-0">Publisher page</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1007/s11433-012-4852-0" data-style="large_rectangle" style="display:inline;"></span>
 
-<font size=2>Cite it: J. Liu, X.-M. Lu, J. Ma, and X. Wang, Fidelity and fidelity susceptibility based on Hilbert-Schmidt inner
-product, Sci. China Phys. Mech. Astron. **55**, 1529 (2012).</font>
+<font size=2>Cite it: J. Liu, X.-M. Lu, J. Ma, and X. Wang, Sci. China Phys. Mech. Astron. **55**, 1529 (2012).</font>
 
 
 
