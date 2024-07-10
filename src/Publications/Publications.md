@@ -424,6 +424,8 @@ Jing Liu, Xiao-Ming Lu, and Xiaoguang Wang
 <a href="https://doi.org/10.1103/PhysRevA.87.042103">Publisher page</a> | <a href="https://doi.org/10.48550/arXiv.1301.5763">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.87.042103" data-style="large_rectangle" style="display:inline;"></span>
 
+<font size=2>Cite it: J. Liu, X.-M. Lu, and X. Wang, Phys. Rev. A **87**, 042103 (2013).</font>
+
 ## **<font color="Blue">2012</font>** 
 
 **1. Fidelity and fidelity susceptibility based on Hilbert-Schmidt inner product**
