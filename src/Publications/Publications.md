@@ -248,7 +248,7 @@ Physical Review A **96**, 042114 (2017).
 
 ## **<font color="Blue">2016</font>** 
 
-**15. Valid lower bound for all estimators in quantum parameter estimation** 
+**16. Valid lower bound for all estimators in quantum parameter estimation** 
 
 Jing Liu and Haidong Yuan
 
@@ -260,7 +260,7 @@ New Journal of Physics **18**, 093009 (2016).
 
 ---
 
-**14. Quantum multiparameter metrology with generalized entangled coherent state**
+**15. Quantum multiparameter metrology with generalized entangled coherent state**
 
 Jing Liu, Xiao-Ming Lu, Zhe Sun, and Xiaoguang Wang
 
@@ -271,7 +271,7 @@ Journal of Physics A: Mathematics and Theoretical **49**, 115302 (2016).
 
 ---
 
-**13. Quantum Fisher information and symmetric logarithmic derivative via anti-commutators**
+**14. Quantum Fisher information and symmetric logarithmic derivative via anti-commutators**
 
 Jing Liu, Jie Chen, Xiao-Xing Jing, and Xiaoguang Wang
 
@@ -282,7 +282,7 @@ Journal of Physics A: Mathematics and Theoretical **49**, 275302 (2016).
 
 ## **<font color="Blue">2015</font>** 
 
-**12. Quantum metrology with unitary parametrization processes, Scientific Reports**
+**13. Quantum metrology with unitary parametrization processes**
 
 Jing Liu, Xiao-Xing Jing, and Xiaoguang Wang
 
@@ -294,7 +294,7 @@ Scientific Reports **5**, 8565 (2015).
 
 ---
 
-**11. Quantifying non-Markovianity for a chromophore-qubit pair in a super-Ohmic bath**
+**12. Quantifying non-Markovianity for a chromophore-qubit pair in a super-Ohmic bath**
 
 Jing Liu, Kewei Sun, Xiaoguang Wang, and Yang Zhao
 
@@ -304,6 +304,15 @@ Physical Chemistry Chemical Physics **17**, 8087-8096 (2015).
 <span class="__dimensions_badge_embed__" data-doi="10.1039/C4CP04922E" data-style="large_rectangle" style="display:inline;"></span>
 
 ---
+
+**11. Maximal quantum Fisher information for general su(2) parametrization processes**
+
+Xiao-Xing Jing, Jing Liu, Heng-Na Xiong, and Xiaoguang Wang
+
+Physical Review A **92**, 012312 (2015)
+
+<a href="https://doi.org/10.1103/PhysRevA.92.012312">Publisher page</a> | 
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.92.012312" data-style="large_rectangle" style="display:inline;"></span>
 
 **10. Quantum speed limits in open systems: Non-Markovian dynamics without rotating-wave approximation**
 
