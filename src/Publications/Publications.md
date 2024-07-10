@@ -414,6 +414,8 @@ Jing Liu, Xiao-Xing Jing, and Xiaoguang Wang
 <a href="https://doi.org/10.1088/0253-6102/61/1/08">Publisher page</a> | <a href="https://doi.org/10.48550/arXiv.1312.6910">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/0253-6102/61/1/08" data-style="large_rectangle" style="display:inline;"></span>
 
+<font size=2>Cite it: J. Liu, X.-X. Jing, and X. Wang, Commun. Theor. Phys. **61**, 45 (2014).</font>
+
 ---
 
 **7. Fidelity susceptibility and quantum Fisher information for density operators with arbitrary ranks**
@@ -424,6 +426,8 @@ Jing Liu, Heng-Na Xiong, Fei Song, and Xiaoguang Wang
 
 <a href="https://doi.org/10.1016/j.physa.2014.05.028">Publisher page</a> | <a href="https://doi.org/10.48550/arXiv.1401.3154">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.physa.2014.05.028" data-style="large_rectangle" style="display:inline;"></span>
+
+<font size=2>Cite it: J. Liu, H.-N. Xiong, F. Song, and X. Wang, Physica A **410**, 167-173 (2014).</font>
 
 ---
 
@@ -436,6 +440,8 @@ Xiao-Xing Jing, Jing Liu, Wei Zhong, and Xiaoguang Wang
 <a href="https://doi.org/10.1088/0253-6102/61/1/18">Publisher page</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/0253-6102/61/1/18" data-style="large_rectangle" style="display:inline;"></span>
 
+<font size=2>Cite it: X.-X. Jing, J. Liu, W. Zhong, and X. Wang, Commun. Theor. Phys. **61**, 115 (2014).</font>
+
 ---
 
 **5. Quantum Fisher information and spin squeezing in one-axis twisting model**
@@ -446,6 +452,8 @@ Wei Zhong, Jing Liu, Jian Ma and Xiaoguang Wang
 
 <a href="https://doi.org/10.1088/1674-1056/23/6/060302">Publisher page</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1674-1056/23/6/060302" data-style="large_rectangle" style="display:inline;"></span>
+
+<font size=2>Cite it: W. Zhong, J. Liu, J. Ma, and X. Wang, Chin. Phys. B **23**, 060302 (2014).</font>
 
 ---
 
