@@ -1,8 +1,9 @@
+# **Publications** 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-## **<font color="Blue">2024</font>** 
- 
-**37. QuanEstimation.jl: An open-source Julia framework for quantum parameter estimation** 
+## **pre-print**
+
+**QuanEstimation.jl: An open-source Julia framework for quantum parameter estimation** 
 
 Huai-Ming Yu and Jing Liu
 
@@ -11,6 +12,27 @@ arXiv: 2405.12066.
 [arXiv](https://arxiv.org/abs/2405.12066)
 
 ---
+
+**Optimal Phase Estimation in Finite-dimensional Fock Space**
+
+Jin-Feng Qin, Yuqian Xu, and Jing Liu
+
+arXiv:2312.01965.
+
+[arXiv](https://arxiv.org/abs/2312.01965)
+
+---
+
+**Advantage of quantum coherence in postselected metrology**
+
+Shao-Jie Xiong, Peng-Fei Wei, Huang-Qiu-Chen Wang, Lei Shao, Yong-Nan Sun, Jing Liu, Zhe Sun, and Xiao-Guang Wang
+
+arXiv:2212.05285. 
+
+[arXiv](https://doi.org/10.48550/arXiv.2212.05285)
+
+
+## **<font color="Blue">2024</font>** 
 
 **36. Quantum dynamic response-based NV-diamond magnetometry: Robustness to decoherence and applications in motion detection of magnetic nanoparticles**
 
@@ -23,17 +45,9 @@ Physical Review B **110**, 045202 (2024).
 
 ## **<font color="Blue">2023</font>** 
 
-**35. Optimal Phase Estimation in Finite-dimensional Fock Space**
-
-Jin-Feng Qin, Yuqian Xu, and Jing Liu
-
-arXiv:2312.01965.
-
-[arXiv](https://arxiv.org/abs/2312.01965)
-
 ---
 
-**34. Quantum speed limit for complex dynamics**
+**33. Quantum speed limit for complex dynamics**
 
 Mao Zhang, Huai-Ming Yu, and Jing Liu
 
@@ -45,7 +59,7 @@ npj Quantum Information **9**, 97 (2023).
 
 ---
 
-**33. Lee-Yang zeros and quantum Fisher information matrix in a nonlinear system**
+**32. Lee-Yang zeros and quantum Fisher information matrix in a nonlinear system**
 
 Hong Tao, Yuguo Su, Xingyu Zhang, Jing Liu, and Xiaoguang Wang
 
@@ -57,7 +71,7 @@ Physical Review E **108**, 024104 (2023).
 
 ---
 
-**32. Direct measurement of quantum Fisher information**
+**31. Direct measurement of quantum Fisher information**
 
 Xingyu Zhang, Xiao-Ming Lu, Jing Liu, Wenkui Ding, and Xiaoguang Wang
 
@@ -67,16 +81,6 @@ Physical Review A **107**, 012414 (2023).
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.107.012414" data-style="large_rectangle" style="display:inline;">
 
 ## **<font color="Blue">2022</font>** 
-
-**31. Advantage of quantum coherence in postselected metrology**
-
-Shao-Jie Xiong, Peng-Fei Wei, Huang-Qiu-Chen Wang, Lei Shao, Yong-Nan Sun, Jing Liu, Zhe Sun, and Xiao-Guang Wang
-
-arXiv:2212.05285. 
-
-[arXiv](https://doi.org/10.48550/arXiv.2212.05285)
-
----
 
 **30. QuanEstimation: An open-source toolkit for quantum parameter estimation**
 
@@ -118,7 +122,7 @@ Qing-Shou Tan, Wei Wu, Lan Xu, Jing Liu, and Le-Man Kuang
 
 Physical Review A **106**, 032602 (2022). 
 
-<a href="https://doi.org/10.1103/PhysRevA.106.032602">Publisher page</a>  | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.106.032602" data-style="large_rectangle" style="display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<a href="https://doi.org/10.1103/PhysRevA.106.032602">Publisher page</a>  | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.106.032602" data-style="large_rectangle" style="display:inline;">
 
 ## **<font color="Blue">2021</font>** 
 
