@@ -401,7 +401,7 @@ Yang Zhao, Fulu Zheng, Jing Liu, and Yao Yao
 <a href="https://doi.org/10.1016/j.physa.2014.12.028">Publisher page</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.physa.2014.12.028" data-style="large_rectangle" style="display:inline;"></span>
 
-<font size=2>Cite it: Y. Zhao, F. Zheng, J. Liu, and Y. Yao, Physica A **423**, 80-96 (2015).</font>
+<font size=2>Cite it: Y. Zhao, F. Zheng, J. Liu, and Y. Yao, Physica A **423**, 80 (2015).</font>
 
 ## **<font color="Blue">2014</font>** 
 
@@ -422,7 +422,7 @@ Jing Liu, Xiao-Xing Jing, and Xiaoguang Wang
 
 Jing Liu, Heng-Na Xiong, Fei Song, and Xiaoguang Wang
 
-*Physica A: Statistical Mechanics and Its Applications* **410**, 167-173 (2014).
+*Physica A: Statistical Mechanics and Its Applications* **410**, 167 (2014).
 
 <a href="https://doi.org/10.1016/j.physa.2014.05.028">Publisher page</a> | <a href="https://doi.org/10.48550/arXiv.1401.3154">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.physa.2014.05.028" data-style="large_rectangle" style="display:inline;"></span>
