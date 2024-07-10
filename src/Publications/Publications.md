@@ -1,7 +1,7 @@
 # **Publications** 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-## **Pre-print**
+### **Pre-print**
 
 **QuanEstimation.jl: An open-source Julia framework for quantum parameter estimation** 
 
