@@ -2,11 +2,9 @@
 
 Hello! Welcome to the home page of QuanEstimation group. We focus on the study of quantum technology and quantum information theory. 
 
----
-
 ## **Research Interests**
 
-### **Development of QuanEstimation ** 
+### **QuanEstimation ** 
 
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://quanestimation.github.io/QuanEstimation/) 
 [![Downloads](https://static.pepy.tech/badge/quanestimation)](https://pepy.tech/project/quanestimation)
