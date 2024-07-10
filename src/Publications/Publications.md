@@ -43,6 +43,8 @@ Wenkui Ding, Xingyu Zhang, Jing Liu, Aixi Chen, and Xiaoguang Wang
 <a href="https://doi.org/10.1103/PhysRevB.110.045202">Publisher page</a> | [arXiv](https://arxiv.org/abs/2307.05255) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevB.110.045202" data-style="large_rectangle" style="display:inline;">
 
+<font size=2>Cite it: W. Ding, X. Zhang, J. Liu, A. Chen, and X. Wang, Phys. Rev. B **110**, 045202 (2024).</font>
+
 ## **<font color="Blue">2023</font>** 
 
 ---
@@ -57,6 +59,8 @@ Mao Zhang, Huai-Ming Yu, and Jing Liu
 <a href="https://arxiv.org/abs/2301.00566">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41534-023-00768-8" data-style="large_rectangle" style="display:inline;">
 
+<font size=2>Cite it: M. Zhang, H.-M. Yu, and J. Liu, npj Quantum Inf. **9**, 97 (2023). </font>
+
 ---
 
 **34. Lee-Yang zeros and quantum Fisher information matrix in a nonlinear system**
@@ -69,6 +73,8 @@ Hong Tao, Yuguo Su, Xingyu Zhang, Jing Liu, and Xiaoguang Wang
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevE.108.024104" data-style="large_rectangle" style="display:inline;">
 </span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
+<font size=2>Cite it: H. Tao, Y. Su, X. Zhang, J. Liu, and X. Wang, Phys. Rev. E **108**, 024104 (2023).</font>
+
 ---
 
 **33. Direct measurement of quantum Fisher information**
@@ -79,6 +85,8 @@ Xingyu Zhang, Xiao-Ming Lu, Jing Liu, Wenkui Ding, and Xiaoguang Wang
 
 <a href="https://doi.org/10.1103/PhysRevA.107.012414">Publisher page</a> | <a href="https://doi.org/10.48550/arXiv.2208.03140">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.107.012414" data-style="large_rectangle" style="display:inline;">
+
+<font size=2>Cite it: X. Zhang, X.-M. Lu, J. Liu, W. Ding, and X. Wang, Phys. Rev. A **107**, 012414 (2023).</font>
 
 ## **<font color="Blue">2022</font>** 
 
@@ -91,6 +99,8 @@ Mao Zhang, Huai-Ming Yu, Haidong Yuan, Xiaoguang Wang, Rafał Demkowicz-Dobrzań
 <a href="../pdf/PRResearch_4_043057.pdf">PDF</a> | <a href="https://doi.org/10.1103/PhysRevResearch.4.043057">Publisher page</a> | 
 <a href="https://doi.org/10.48550/arXiv.2205.15588">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevResearch.4.043057" data-style="large_rectangle" style="display:inline;">
+
+<font size=2>Cite it: X. Zhang, H.-M. Yu, H. Yuan, X. Wang, R. Demkowicz-Dobrzański, and J. Liu, Phys. Rev. Res. **4**, 043057 (2022).</font>
 
 ---
 
