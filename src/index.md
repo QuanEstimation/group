@@ -6,9 +6,9 @@ Hello! Welcome to the home page of QuanEstimation group. We focus on the study o
 
 # **Research Interests**
 
-## QuanEstimation development [![Downloads](https://static.pepy.tech/badge/quanestimation)](https://pepy.tech/project/quanestimation)
+### **1. QuanEstimation development** [![Downloads](https://static.pepy.tech/badge/quanestimation)](https://pepy.tech/project/quanestimation)
 
-QuanEstimation is a comprehensive toolbox for computation and scheme design in quantum parameter estimation
+QuanEstimation is a comprehensive toolbox for computation and scheme design in quantum parameter estimation. We are committed to 
 
 
 
