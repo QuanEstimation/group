@@ -55,7 +55,7 @@ Mao Zhang, Huai-Ming Yu, and Jing Liu
 
 *npj Quantum Information* **9**, 97 (2023). 
 
-<a href="../pdf/npjqi_9_97.pdf">PDF</a> | <a href="https://doi.org/10.1038/s41534-023-00768-8">Publisher page</a> | 
+<a href="../Publications/pdf/npjqi_9_97.pdf">PDF</a> | <a href="https://doi.org/10.1038/s41534-023-00768-8">Publisher page</a> | 
 <a href="https://arxiv.org/abs/2301.00566">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41534-023-00768-8" data-style="large_rectangle" style="display:inline;">
 
@@ -96,7 +96,7 @@ Mao Zhang, Huai-Ming Yu, Haidong Yuan, Xiaoguang Wang, Rafał Demkowicz-Dobrzań
 
 *Physical Review Research* **4**, 043057 (2022). 
 
-<a href="../pdf/PRResearch_4_043057.pdf">PDF</a> | <a href="https://doi.org/10.1103/PhysRevResearch.4.043057">Publisher page</a> | 
+<a href="../Publications/pdf/PRResearch_4_043057.pdf">PDF</a> | <a href="https://doi.org/10.1103/PhysRevResearch.4.043057">Publisher page</a> | 
 <a href="https://doi.org/10.48550/arXiv.2205.15588">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevResearch.4.043057" data-style="large_rectangle" style="display:inline;">
 
@@ -226,7 +226,7 @@ Jing Liu, Haidong Yuan, Xiao-Ming Lu, and Xiaoguang Wang
 
 *Journal of Physics A: Mathematical and Theoretical* **53**, 023001 (2020).
 
-<a href="../pdf/JPA_53_023001.pdf">PDF</a> | <a href="https://doi.org/10.1088/1751-8121/ab5d4d">Publisher page</a> | 
+<a href="../Publications/pdf/JPA_53_023001.pdf">PDF</a> | <a href="https://doi.org/10.1088/1751-8121/ab5d4d">Publisher page</a> | 
 <a href="https://arxiv.org/abs/1907.08037">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1751-8121/ab5d4d" data-style="large_rectangle" style="display:inline;">
 
@@ -240,7 +240,7 @@ Yanyan Shao, Bo Liu, Mao Zhang, Haidong Yuan, and Jing Liu
 
 *Physical Review Research* **2**, 023299 (2020). 
 
-<a href="../pdf/PRResearch_2_023299.pdf">PDF</a> | <a href="https://doi.org/10.1103/PhysRevResearch.2.023299">Publisher page</a> | 
+<a href="../Publications/pdf/PRResearch_2_023299.pdf">PDF</a> | <a href="https://doi.org/10.1103/PhysRevResearch.2.023299">Publisher page</a> | 
 <a href="https://arxiv.org/abs/2002.10822">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevResearch.2.023299" data-style="large_rectangle" style="display:inline;">
 
@@ -267,7 +267,7 @@ Xu Yu, Xiang Zhao, Luyi Shen, Yanyan Shao, Jing Liu, and Xiaoguang Wang
 
 *Optics Express* **26**, 016292 (2018). 
 
-<a href="../pdf/OE_26_13_016292.pdf">PDF</a> | <a href="https://doi.org/10.1364/OE.26.016292">Publisher page</a> | 
+<a href="../Publications/pdf/OE_26_13_016292.pdf">PDF</a> | <a href="https://doi.org/10.1364/OE.26.016292">Publisher page</a> | 
 <a href="https://arxiv.org/abs/1412.4325">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1364/OE.26.016292" data-style="large_rectangle" style="display:inline;">
 
@@ -307,7 +307,7 @@ Jing Liu and Haidong Yuan
 
 *New Journal of Physics* **18**, 093009 (2016). 
 
-<a href="../pdf/NewJP_18_093009.pdf">PDF</a> | <a href="https://doi.org/10.1088/1367-2630/18/9/093009">Publisher page</a> | 
+<a href="../Publications/pdf/NewJP_18_093009.pdf">PDF</a> | <a href="https://doi.org/10.1088/1367-2630/18/9/093009">Publisher page</a> | 
 <a href="https://doi.org/10.48550/arXiv.1609.01618">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1367-2630/18/9/093009" data-style="large_rectangle" style="display:inline;">
 
@@ -347,7 +347,7 @@ Jing Liu, Xiao-Xing Jing, and Xiaoguang Wang
 
 *Scientific Reports* **5**, 8565 (2015).
 
-<a href="../pdf/SciRep_5_8565.pdf">PDF</a> | <a href="https://doi.org/10.1038/srep08565">Publisher page</a> | 
+<a href="../Publications/pdf/SciRep_5_8565.pdf">PDF</a> | <a href="https://doi.org/10.1038/srep08565">Publisher page</a> | 
 <a href="https://doi.org/10.48550/arXiv.1409.4057">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1038/srep08565" data-style="large_rectangle" style="display:inline;"></span>
 
@@ -385,7 +385,7 @@ Zhe Sun, Jing Liu, Jian Ma, and Xiaoguang Wang
 
 *Scientific Reports* **5**, 8444 (2015).
 
-<a href="../pdf/SciRep_5_8444.pdf">PDF</a> | <a href="https://doi.org/10.1038/srep08444">Publisher page</a> | 
+<a href="../Publications/pdf/SciRep_5_8444.pdf">PDF</a> | <a href="https://doi.org/10.1038/srep08444">Publisher page</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1038/srep08444" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: Z. Sun, J. Liu, J. Ma, and X. Wang, Sci. Rep. **5**, 8444 (2015).</font>
