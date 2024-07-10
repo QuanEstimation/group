@@ -113,6 +113,8 @@ Jing Liu, Mao Zhang, Hongzhen Chen, Lingna Wang, and Haidong Yuan
 <a href="https://doi.org/10.1002/qute.202100080">Publisher page</a> | <a href="https://arxiv.org/abs/2111.12279">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1002/qute.202100080" data-style="large_rectangle" style="display:inline;">
 
+<font size=2>Cite it: J. Liu, M. Zhang, H. Chen, L. Wang, and H. Yuan, Adv. Quantum Technol. **5**, 2100080 (2022). </font>
+
 ---
 
 **30. Quantum Magnetometer with Dual-Coupling Optomechanics**
@@ -124,6 +126,8 @@ Gui-Lei Zhu, Jing Liu, Ying Wu, and Xin-You Lü
 <a href="https://doi.org/10.1002/lpor.202100636">Publisher page</a> | <a href="https://arxiv.org/abs/2205.00433">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1002/lpor.202100636" data-style="large_rectangle" style="display:inline;">
 
+<font size=2>Cite it: G.-L. Zhu, J. Liu, Y. Wu, and X.-Y. Lü, Laser Photonics Rev. **16**, 2100636 (2022). </font>
+
 ---
 
 **29. Quantum sensing of supersensitivity for the Ohmic quantum reservoir**
@@ -133,6 +137,8 @@ Qing-Shou Tan, Wei Wu, Lan Xu, Jing Liu, and Le-Man Kuang
 *Physical Review A* **106**, 032602 (2022). 
 
 <a href="https://doi.org/10.1103/PhysRevA.106.032602">Publisher page</a>  | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.106.032602" data-style="large_rectangle" style="display:inline;">
+
+<font size=2>Cite it: Q.-S. Tan, W. Wu, L. Xu, J. Liu, and L.-M. Kuang, Phys. Rev. A **106**, 032602 (2022). </font>
 
 ## **<font color="Blue">2021</font>** 
 
@@ -145,6 +151,8 @@ Jing Liu, Zibo Miao, Libin Fu, and Xiaoguang Wang
 <a href="https://doi.org/10.1103/PhysRevA.104.052432">Publisher page</a> | <a href="https://arxiv.org/abs/2108.00169">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.104.052432" data-style="large_rectangle" style="display:inline;">
 
+<font size=2>Cite it: J. Liu, Z. Miao, L. Fu, and X. Wang, Phys. Rev. A **104**, 052432 (2021). </font>
+
 ---
 
 **27. Generation and storage of spin squeezing via learning-assisted optimal control**
@@ -155,6 +163,8 @@ Qing-Shou Tan, Mao Zhang, Yu Chen, Jie-Qiao Liao, and Jing Liu
 
 <a href="https://doi.org/10.1103/PhysRevA.103.032601">Publisher page</a> | <a href="https://arxiv.org/abs/2010.13444">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.103.032601" data-style="large_rectangle" style="display:inline;">
+
+<font size=2>Cite it: Q.-S. Tan, M. Zhang, Y. Chen, J.-Q. Liao, and J. Liu, Phys. Rev. A **103**, 032601 (2021). </font>
 
 ---
 
@@ -167,6 +177,8 @@ Xing Deng, Shou-Long Chen, Mao Zhang, Xiao-Fan Xu, Jing Liu, Zhi Gao, Xiao-Chun 
 <a href="https://doi.org/10.1103/PhysRevA.104.012607">Publisher page</a> | <a href="https://arxiv.org/abs/2102.07079">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.104.012607" data-style="large_rectangle" style="display:inline;">
 
+<font size=2>Cite it: X. Deng et al., Phys. Rev. A **104**, 012607 (2021). </font>
+
 ---
 
 **25. Single-photon-triggered spin squeezing with decoherence reduction in optomechanics via phase matching**
@@ -177,6 +189,8 @@ Zhucheng Zhang, Lei Shao, Wangjun Lu, Yuguo Su, Yi-Ping Wang, Jing Liu, and Xiao
 
 <a href="https://doi.org/10.1103/PhysRevA.104.053517">Publisher page</a> | <a href="https://arxiv.org/abs/2109.05692">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.104.053517" data-style="large_rectangle" style="display:inline;">
+
+<font size=2>Cite it: Z. Zhang, L. Shao, W. Lu, Y. Su, Y.-P. Wang, J. Liu, and X. Wang, Phys. Rev. A **104**, 053517 (2021). </font>
 
 ---
 
@@ -189,6 +203,8 @@ Animesh Datta, Rafał Demkowicz-Dobrzański, and Jing Liu
 <a href="https://doi.org/10.1088/1751-8121/ac0d6b">Publisher page</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1751-8121/ac0d6b" data-style="large_rectangle" style="display:inline;">
 
+<font size=2>Cite it: A. Datta, R. Demkowicz-Dobrzański, and J. Liu, J. Phys. A: Math. Theor. **54**, 460301 (2021). </font>
+
 ---
 
 **23. Proposal for phase-sensitive heterodyne detection in large-scale passive resonant gyroscopes**
@@ -199,6 +215,8 @@ Zongyang Li, Kui Liu, Jing Liu, Zehuang Lu, and Jie Zhang
 
 <a href="https://doi.org/10.1364/OE.415916">Publisher page</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1364/OE.415916" data-style="large_rectangle" style="display:inline;">
+
+<font size=2>Cite it: Z. Li, K. Liu, J. Liu, Z. Lu, and J. Zhang, Opt. Express **29**, 9737 (2021). </font>
 
 ## **<font color="Blue">2020</font>** 
 
@@ -212,6 +230,8 @@ Jing Liu, Haidong Yuan, Xiao-Ming Lu, and Xiaoguang Wang
 <a href="https://arxiv.org/abs/1907.08037">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1751-8121/ab5d4d" data-style="large_rectangle" style="display:inline;">
 
+<font size=2>Cite it: J. Liu, H. Yuan, X.-M. Lu, and X. Wang, J. Phys. A: Math. Theor. **53**, 023001 (2020).</font>
+
 ---
 
 **21. Operational definition of a quantum speed limit**
@@ -223,6 +243,8 @@ Yanyan Shao, Bo Liu, Mao Zhang, Haidong Yuan, and Jing Liu
 <a href="../pdf/PRResearch_2_023299.pdf">PDF</a> | <a href="https://doi.org/10.1103/PhysRevResearch.2.023299">Publisher page</a> | 
 <a href="https://arxiv.org/abs/2002.10822">arXiv</a> | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevResearch.2.023299" data-style="large_rectangle" style="display:inline;">
+
+<font size=2>Cite it: Y. Shao, B. Liu, M. Zhang, H. Yuan, and J. Liu, Phys. Rev. Res. **2**, 023299 (2020).</font>
 
 ## **<font color="Blue">2019</font>** 
 
