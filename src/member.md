@@ -8,11 +8,16 @@
 [Web of Science](https://webofscience.clarivate.cn/wos/author/record/H-2632-2012) &emsp; 
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55888785500)
 
-**Academic experience**
 
-**Post Doctor** (Oct. 2015 - Dec. 2017)
+**Employment**
 
-Department of Mechanical 
+**Associate Professor** (Jan. 2018 - current)
+National Precise Gravity Measurement Facility, School of Physics, 
+Huazhong University of Science and Technology, Wuhan, China
+
+**Postdoctoral Fellow** (Oct. 2015 - Dec. 2017) 
+Department of Mechanical and Automation Engineering, 
+​The Chinese University of Hong Kong, Hong Kong, China
 
 **Education**
 
