@@ -14,12 +14,14 @@
 **Associate Professor** (Jan. 2018 - current)
 
 National Precise Gravity Measurement Facility, School of Physics, 
+
 Huazhong University of Science and Technology, Wuhan, China
 
 **Postdoctoral Fellow** (Oct. 2015 - Dec. 2017) 
 
 Department of Mechanical and Automation Engineering, 
-​The Chinese University of Hong Kong, Hong Kong, China
+​
+The Chinese University of Hong Kong, Hong Kong, China
 
 **Education**
 
