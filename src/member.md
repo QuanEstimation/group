@@ -6,7 +6,11 @@
 
 Other academic pages: [Google Scholar](https://scholar.google.com/citations?hl=en&user=HHyXi-8AAAAJ) [Web of Science](https://webofscience.clarivate.cn/wos/author/record/H-2632-2012) [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55888785500)
 
-Education 
+**Education**
 
-2006.09-2010.06 Hangzhou Dianzi University B.Sc. (College of Electronic Information)
+Ph.D. (Sep. 2010- Jun. 2015)
+Department of Physics, Zhejiang University, Hangzhou, China. 
+
+B.Sc. (Sep. 2006 - Jun. 2010)
+College of Electronic Information, Hangzhou Dianzi University, Hangzhou, China.
 
