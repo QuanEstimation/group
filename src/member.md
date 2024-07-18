@@ -11,17 +11,17 @@
 
 **<font color="Blue">Employment</font>**
 
- - Associate Professor (Jan. 2018 - current)
+-   Associate Professor (Jan. 2018 - current)
 
-&emsp; National Precise Gravity Measurement Facility, School of Physics, 
+    National Precise Gravity Measurement Facility, School of Physics, 
 
-&emsp; Huazhong University of Science and Technology, Wuhan, China
+    Huazhong University of Science and Technology, Wuhan, China
 
-- Postdoctoral Fellow (Oct. 2015 - Dec. 2017) 
+-   Postdoctoral Fellow (Oct. 2015 - Dec. 2017) 
 
-&emsp; Department of Mechanical and Automation Engineering, 
+    Department of Mechanical and Automation Engineering, 
 ​
-&emsp; The Chinese University of Hong Kong, Hong Kong, China
+    The Chinese University of Hong Kong, Hong Kong, China
 
 **<font color="Blue">Education</font>**
 
