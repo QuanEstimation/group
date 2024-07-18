@@ -2,9 +2,7 @@
 
 ## **Faculty**
 
-### **Prof. Jing Liu** 
-
-<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0001-2345-6789</a>
+### **Prof. Jing Liu** <a href="https://orcid.org/0000-0001-9944-4493"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />0000-0001-9944-4493</a>
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=HHyXi-8AAAAJ)
 
