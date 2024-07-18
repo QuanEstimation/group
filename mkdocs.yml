@@ -79,7 +79,7 @@ plugins:
       - search
 
 nav: 
-      - "Home" index.md
+      - "Home": index.md
       - "Members":
           - "Faculty": member/faculty.md 
       - "Publications": Publications.md
