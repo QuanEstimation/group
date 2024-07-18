@@ -1,6 +1,4 @@
-# **Group Memebers**
-
-## **Faculty**
+# **Faculty**
 
 **Prof. Jing Liu** <a href="https://orcid.org/0000-0001-9944-4493"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> &emsp;
 [**<font size=3>Google Scholar</font>**](https://scholar.google.com/citations?hl=en&user=HHyXi-8AAAAJ) &emsp; 
