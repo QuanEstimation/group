@@ -81,5 +81,5 @@ plugins:
 nav: 
       - "Home" index.md
       - "Members":
-          - "Faculty" member/faculty.md 
-      - "Publications" Publications.md
+          - "Faculty": member/faculty.md 
+      - "Publications": Publications.md
