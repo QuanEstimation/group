@@ -11,25 +11,25 @@
 
 **<font color="Blue">Employment</font>**
 
-**Associate Professor** (Jan. 2018 - current)
+- **Associate Professor** (Jan. 2018 - current)
 
 National Precise Gravity Measurement Facility, School of Physics, 
 
 Huazhong University of Science and Technology, Wuhan, China
 
-**Postdoctoral Fellow** (Oct. 2015 - Dec. 2017) 
+- **Postdoctoral Fellow** (Oct. 2015 - Dec. 2017) 
 
 Department of Mechanical and Automation Engineering, 
 ​
 The Chinese University of Hong Kong, Hong Kong, China
 
-**Education**
+**<font color="Blue">Education</font>**
 
-**Ph.D.** (Sep. 2010- Jun. 2015)
+- **Ph.D.** (Sep. 2010- Jun. 2015)
 
 Department of Physics, Zhejiang University, Hangzhou, China. 
 
-**B.Sc.** (Sep. 2006 - Jun. 2010)
+- **B.Sc.** (Sep. 2006 - Jun. 2010)
 
 College of Electronic Information, Hangzhou Dianzi University, Hangzhou, China.
 
