@@ -82,4 +82,5 @@ nav:
       - "Home": index.md
       - "Members":
             - "Faculty": member/faculty.md 
+            - "Students": member/student.md 
       - "Publications": Publications.md
