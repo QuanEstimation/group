@@ -9,7 +9,7 @@
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55888785500)
 
 
-**- <font color="Blue">Employment</font>**
+**<font color="Blue">- Employment</font>**
 
     - **Associate Professor** (Jan. 2018 - current)
 
