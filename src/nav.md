@@ -1,3 +1,4 @@
-* [Home](index.md)
-* [Members](member.md)
-* [Publications](Publications.md)
+- "Home": index.md
+- "Members": member.md
+    - "Faculty": member.md
+- "Publications": Publications.md
