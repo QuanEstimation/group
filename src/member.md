@@ -6,5 +6,7 @@
 
 Other academic pages: [Google Scholar](https://scholar.google.com/citations?hl=en&user=HHyXi-8AAAAJ) [Web of Science](https://webofscience.clarivate.cn/wos/author/record/H-2632-2012) [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55888785500)
 
-Prof. Jing Liu is 
+Education 
+
+2006.09-2010.06 Hangzhou Dianzi University B.Sc. (College of Electronic Information)
 
