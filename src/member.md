@@ -8,6 +8,12 @@
 [Web of Science](https://webofscience.clarivate.cn/wos/author/record/H-2632-2012) &emsp; 
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55888785500)
 
+**Academic experience**
+
+**Post Doctor** (Oct. 2015 - Dec. 2017)
+
+Department of Mechanical 
+
 **Education**
 
 **Ph.D.** (Sep. 2010- Jun. 2015)
