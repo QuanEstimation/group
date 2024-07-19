@@ -1,4 +1,0 @@
-- "Home": index.md
-- "Members": member.md
-    - "Faculty": member.md
-- "Publications": Publications.md
