@@ -234,7 +234,7 @@ Jing Liu, Haidong Yuan, Xiao-Ming Lu, and Xiaoguang Wang
 
 <font size=2>Cite it: J. Liu, H. Yuan, X.-M. Lu, and X. Wang, J. Phys. A: Math. Theor. **53**, 023001 (2020).</font>
 
-- **<font color="Red">IOP Publishing China Top Cited Paper Award (2022)</font>**
+- **<font color="Red">2022 IOP Publishing China Top Cited Paper Award</font>**
   
 - **<font color="Red">ESI highly cited paper (2020-current)</font>**
 
@@ -422,7 +422,7 @@ Jing Liu, Xiao-Xing Jing, and Xiaoguang Wang
 
 <font size=2>Cite it: J. Liu, X.-X. Jing, and X. Wang, Commun. Theor. Phys. **61**, 45 (2014).</font>
 
-- <a href="https://iopscience.iop.org/journal/0253-6102/page/Highlights-of-2014">**<font color='Red'>Highlights of 2014 in Communications in Theoretical Physics></font>**</a> 
+- <a href="https://iopscience.iop.org/journal/0253-6102/page/Highlights-of-2014">**<font color='Red'>Highlights of 2014 in Communications in Theoretical Physics</font>**</a> 
 
 ---
 
