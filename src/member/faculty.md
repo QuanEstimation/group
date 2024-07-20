@@ -3,6 +3,8 @@
 [**<font size=3>Web of Science</font>**](https://webofscience.clarivate.cn/wos/author/record/H-2632-2012) &emsp; 
 [**<font size=3>Scopus</font>**](https://www.scopus.com/authid/detail.uri?authorId=55888785500)
 
+**Email: zju.liujing@gmail.com**
+
 **<font color="Blue">Employment</font>**
 
 -   **Associate Professor** (Jan. 2018 - current)
