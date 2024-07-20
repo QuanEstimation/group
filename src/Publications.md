@@ -422,6 +422,8 @@ Jing Liu, Xiao-Xing Jing, and Xiaoguang Wang
 
 <font size=2>Cite it: J. Liu, X.-X. Jing, and X. Wang, Commun. Theor. Phys. **61**, 45 (2014).</font>
 
+- <a href="https://iopscience.iop.org/journal/0253-6102/page/Highlights-of-2014">Publisher page</a>**<font color='Red'>Highlights of 2014 in Communications in Theoretical Physics></font>**</a> 
+
 ---
 
 **7. Fidelity susceptibility and quantum Fisher information for density operators with arbitrary ranks**
