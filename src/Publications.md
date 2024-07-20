@@ -3,7 +3,7 @@
 
 > **Every production of genius must be the production of enthusiasm.**  <p align='right'>**--Benjamin Disraeli**</p>
 
-### **Pre-print**
+### **Preprint**
 
 **QuanEstimation.jl: An open-source Julia framework for quantum parameter estimation** 
 
