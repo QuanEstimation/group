@@ -1,8 +1,7 @@
 # **Publications** 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-> **Every production of genius must be the production of enthusiasm.**
-> <p align='right'>---Benjamin Disraeli</p>
+> **Every production of genius must be the production of enthusiasm.**  <p align='right'>---Benjamin Disraeli</p>
 
 ### **Pre-print**
 
