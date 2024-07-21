@@ -33,7 +33,7 @@
 
 -   IOP Publishing China Top Cited Paper Award (2022)
 
--   Science Research Famous Achievement Award in Higher Institution (2020)
+-   Outstanding Achievement Award for Research in Institutes of Higher Education (2020)
 
 -   Chutian Scholar in Hubei province (2018)
 
