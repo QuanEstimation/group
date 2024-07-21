@@ -35,7 +35,7 @@
 
 -   Outstanding Achievement Award for Research in Institutes of Higher Education (2020)
 
-    高等学校科学研究优秀成果奖
+    高等学校科学研究优秀成果奖（科学技术）
 
 -   Chutian Scholar in Hubei province (2018)
 
