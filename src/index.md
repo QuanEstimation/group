@@ -6,11 +6,11 @@ Hello! Welcome to the home page of QuanEstimation group. We focus on the study o
 
 ### **QuanEstimation** 
 
- [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://quanestimation.github.io/QuanEstimation/) 
+[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://quanestimation.github.io/QuanEstimation/) 
 [![Downloads](https://static.pepy.tech/badge/quanestimation)](https://pepy.tech/project/quanestimation)
 
-QuanEstimation is a comprehensive toolbox for computation and scheme design in quantum parameter estimation. We are committed to develop this tool constantly 
-and bring new features. 
+QuanEstimation is a comprehensive toolbox for computation and scheme design in quantum parameter estimation. We are committed to developing this tool constantly 
+and invoking new features. 
 
 ### **Quantum Metrology and Control**
 
