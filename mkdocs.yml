@@ -3,7 +3,7 @@ site_description: QuanEstimation Homepage
 site_author: QuanEstimation
 site_url: https://quanestimation.github.io/group      
 
-# repo_url: https://github.com/QuanEstimation/group
+repo_url: https://github.com/QuanEstimation/QuanEstimation
 
 docs_dir: src
 
