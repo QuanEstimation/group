@@ -31,15 +31,20 @@
 
 **<font color="Blue">Honors and Awards</font>**   
 
--   2022 IOP Publishing China Top Cited Paper Award
+-   IOP Publishing China Top Cited Paper Award (2022)
 
--   2020 
+-   Science Research Famous Achievement Award in Higher Institution (2020)
 
--   2019 Chutian Scholar in Hubei province
+-   Chutian Scholar in Hubei province (2018)
 
- **<font color="Blue">Professional services</font>**
+**<font color="Blue">Professional services</font>**
 
--   2023 Editorial Board member of Metrology
+-   Editorial services
 
--   2019 Guest editor for the special issue "Quantum multiparameter estimation and metrology" in Journal of Physics A: Mathematical and Theoretical    
+    -   Editorial Board members of Metrology (2023-2025)
 
+    -   Guest editor of Journal of Physics A: Mathematical and Theoretical, special issue "Quantum Multiparameter Estimation and Metrology" (2019)
+
+-   Referee services
+
+    I have reviewed many papers for Science Advances, , ...... More details can be found in [Web of Science](https://webofscience.clarivate.cn/wos/author/record/H-2632-2012)
