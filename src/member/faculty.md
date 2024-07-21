@@ -27,5 +27,7 @@
 
 -   **B.Sc.** (Sep. 2006 - Jun. 2010)
 
-    College of Electronic Information, Hangzhou Dianzi University, Hangzhou, China.
+    School of Electronics and Information Engineering, Hangzhou Dianzi University, Hangzhou, China.
+
+    
 
