@@ -258,8 +258,8 @@ Yanming Che, Jing Liu, Xiao-Ming Lu, and Xiaoguang Wang
 
 *Physical Review A* **99**, 033807 (2019). 
 
-<a href="https://doi.org/10.1103/PhysRevA.99.033807">Publisher page</a> | <a href="https://arxiv.org/abs/1808.04632">arXiv</a> | 
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.99.033807" data-style="large_rectangle" style="display:inline;">
+[Publisher page](https://doi.org/10.1103/PhysRevA.99.033807) | [arXiv](https://arxiv.org/abs/1808.04632) | 
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.99.033807" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: Y. Che, J. Liu, X.-M. Lu, and X. Wang, Phys. Rev. A **99**, 033807 (2019).</font>
 
@@ -271,9 +271,9 @@ Xu Yu, Xiang Zhao, Luyi Shen, Yanyan Shao, Jing Liu, and Xiaoguang Wang
 
 *Optics Express* **26**, 016292 (2018). 
 
-<a href="../Publications/pdf/OE_26_13_016292.pdf">PDF</a> | <a href="https://doi.org/10.1364/OE.26.016292">Publisher page</a> | 
-<a href="https://arxiv.org/abs/1412.4325">arXiv</a> | 
-<span class="__dimensions_badge_embed__" data-doi="10.1364/OE.26.016292" data-style="large_rectangle" style="display:inline;">
+[PDF](../Publications/pdf/OE_26_13_016292.pdf) | [Publisher page](https://doi.org/10.1364/OE.26.016292) | 
+[arXiv](https://arxiv.org/abs/1412.4325) | 
+<span class="__dimensions_badge_embed__" data-doi="10.1364/OE.26.016292" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: X. Yu, X. Zhao, L. Shen, Y. Shao, J. Liu, and X. Wang, Opt. Express **26**, 016292 (2018).</font>
 
@@ -285,8 +285,8 @@ Jing Liu and Haidong Yuan
 
 *Physical Review A* **96**, 012117 (2017). 
 
-<a href="https://doi.org/10.1103/PhysRevA.96.012117">Publisher page</a> | <a href="https://doi.org/10.48550/arXiv.1604.04856">arXiv</a> | 
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.96.012117" data-style="large_rectangle" style="display:inline;">
+[Publisher page](https://doi.org/10.1103/PhysRevA.96.012117) | [arXiv](https://doi.org/10.48550/arXiv.1604.04856) | 
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.96.012117" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: J. Liu and H. Yuan, Phys. Rev. A **96**, 012117 (2017).</font>
 
@@ -298,8 +298,8 @@ Jing Liu and Haidong Yuan
 
 *Physical Review A* **96**, 042114 (2017). 
 
-<a href="https://doi.org/10.1103/PhysRevA.96.042114">Publisher page</a> | <a href="https://doi.org/10.48550/arXiv.1710.06741">arXiv</a> | 
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.96.042114" data-style="large_rectangle" style="display:inline;">
+[Publisher page](https://doi.org/10.1103/PhysRevA.96.042114) | [arXiv](https://doi.org/10.48550/arXiv.1710.06741) | 
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.96.042114" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: J. Liu and H. Yuan, Phys. Rev. A **96**, 042114 (2017).</font>
 
@@ -311,9 +311,9 @@ Jing Liu and Haidong Yuan
 
 *New Journal of Physics* **18**, 093009 (2016). 
 
-<a href="../Publications/pdf/NewJP_18_093009.pdf">PDF</a> | <a href="https://doi.org/10.1088/1367-2630/18/9/093009">Publisher page</a> | 
-<a href="https://doi.org/10.48550/arXiv.1609.01618">arXiv</a> | 
-<span class="__dimensions_badge_embed__" data-doi="10.1088/1367-2630/18/9/093009" data-style="large_rectangle" style="display:inline;">
+[PDF](../Publications/pdf/NewJP_18_093009.pdf) | [Publisher page](https://doi.org/10.1088/1367-2630/18/9/093009) | 
+[arXiv](https://doi.org/10.48550/arXiv.1609.01618) | 
+<span class="__dimensions_badge_embed__" data-doi="10.1088/1367-2630/18/9/093009" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: J. Liu and H. Yuan, New J. Phys. **18**, 093009 (2016).</font>
 
@@ -325,8 +325,8 @@ Jing Liu, Xiao-Ming Lu, Zhe Sun, and Xiaoguang Wang
 
 *Journal of Physics A: Mathematics and Theoretical* **49**, 115302 (2016).
 
-<a href="https://doi.org/10.1088/1751-8113/49/11/115302">Publisher page</a> | <a href="https://doi.org/10.48550/arXiv.1409.6167">arXiv</a> | 
-<span class="__dimensions_badge_embed__" data-doi="10.1088/1751-8113/49/11/115302" data-style="large_rectangle" style="display:inline;">
+[Publisher page](https://doi.org/10.1088/1751-8113/49/11/115302) | [arXiv](https://doi.org/10.48550/arXiv.1409.6167) | 
+<span class="__dimensions_badge_embed__" data-doi="10.1088/1751-8113/49/11/115302" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: J. Liu and H. Yuan, New J. Phys. **18**, 093009 (2016).</font>
 
@@ -338,7 +338,7 @@ Jing Liu, Jie Chen, Xiao-Xing Jing, and Xiaoguang Wang
 
 *Journal of Physics A: Mathematics and Theoretical* **49**, 275302 (2016).
 
-<a href="https://doi.org/10.1088/1751-8113/49/27/275302">Publisher page</a> | <a href="https://doi.org/10.48550/arXiv.1501.04290">arXiv</a> | 
+[Publisher page](https://doi.org/10.1088/1751-8113/49/27/275302) | [arXiv](https://doi.org/10.48550/arXiv.1501.04290) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1751-8113/49/27/275302" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: J. Liu, J. Chen, X.-X. Jing, and X. Wang, J. Phys. A: Math. Theor. **49**, 275302 (2016).</font>
@@ -351,8 +351,8 @@ Jing Liu, Xiao-Xing Jing, and Xiaoguang Wang
 
 *Scientific Reports* **5**, 8565 (2015).
 
-<a href="../Publications/pdf/SciRep_5_8565.pdf">PDF</a> | <a href="https://doi.org/10.1038/srep08565">Publisher page</a> | 
-<a href="https://doi.org/10.48550/arXiv.1409.4057">arXiv</a> | 
+[PDF](../Publications/pdf/SciRep_5_8565.pdf) | [Publisher page](https://doi.org/10.1038/srep08565) | 
+[arXiv](https://doi.org/10.48550/arXiv.1409.4057) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1038/srep08565" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: J. Liu, X.-X. Jing, and X. Wang, Sci. Rep. **5**, 8565 (2015).</font>
@@ -365,7 +365,7 @@ Jing Liu, Kewei Sun, Xiaoguang Wang, and Yang Zhao
 
 *Physical Chemistry Chemical Physics* **17**, 8087-8096 (2015).
 
-<a href="https://doi.org/10.1039/C4CP04922E">Publisher page</a> | <a href="https://doi.org/10.48550/arXiv.1410.5066">arXiv</a> | 
+[Publisher page](https://doi.org/10.1039/C4CP04922E) | [arXiv](https://doi.org/10.48550/arXiv.1410.5066) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1039/C4CP04922E" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: J. Liu, K. Sun, X. Wang, and Y. Zhao, Phys. Chem. Chem. Phys. **17**, 8087 (2015).</font>
@@ -378,7 +378,7 @@ Xiao-Xing Jing, Jing Liu, Heng-Na Xiong, and Xiaoguang Wang
 
 *Physical Review A* **92**, 012312 (2015)
 
-<a href="https://doi.org/10.1103/PhysRevA.92.012312">Publisher page</a> | 
+[Publisher page](https://doi.org/10.1103/PhysRevA.92.012312) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.92.012312" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: X.-X. Jing, J. Liu, H.-N. Xiong, and X. Wang, Phys. Rev. A **92**, 012312 (2015).</font>
@@ -389,7 +389,7 @@ Zhe Sun, Jing Liu, Jian Ma, and Xiaoguang Wang
 
 *Scientific Reports* **5**, 8444 (2015).
 
-<a href="../Publications/pdf/SciRep_5_8444.pdf">PDF</a> | <a href="https://doi.org/10.1038/srep08444">Publisher page</a> | 
+[PDF](../Publications/pdf/SciRep_5_8444.pdf) | [Publisher page](https://doi.org/10.1038/srep08444) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1038/srep08444" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: Z. Sun, J. Liu, J. Ma, and X. Wang, Sci. Rep. **5**, 8444 (2015).</font>
@@ -402,7 +402,7 @@ Yang Zhao, Fulu Zheng, Jing Liu, and Yao Yao
 
 *Physica A: Statistical Mechanics and Its Applications* **423**, 80-96 (2015).
 
-<a href="https://doi.org/10.1016/j.physa.2014.12.028">Publisher page</a> | 
+[Publisher page](https://doi.org/10.1016/j.physa.2014.12.028) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.physa.2014.12.028" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: Y. Zhao, F. Zheng, J. Liu, and Y. Yao, Physica A **423**, 80 (2015).</font>
@@ -415,7 +415,7 @@ Jing Liu, Xiao-Xing Jing, and Xiaoguang Wang
 
 *Communications in Theoretical Physics* **61**, 45 (2014).
 
-<a href="https://doi.org/10.1088/0253-6102/61/1/08">Publisher page</a> | <a href="https://doi.org/10.48550/arXiv.1312.6910">arXiv</a> | 
+[Publisher page](https://doi.org/10.1088/0253-6102/61/1/08) | [arXiv](https://doi.org/10.48550/arXiv.1312.6910) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/0253-6102/61/1/08" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: J. Liu, X.-X. Jing, and X. Wang, Commun. Theor. Phys. **61**, 45 (2014).</font>
@@ -430,7 +430,7 @@ Jing Liu, Heng-Na Xiong, Fei Song, and Xiaoguang Wang
 
 *Physica A: Statistical Mechanics and Its Applications* **410**, 167 (2014).
 
-<a href="https://doi.org/10.1016/j.physa.2014.05.028">Publisher page</a> | <a href="https://doi.org/10.48550/arXiv.1401.3154">arXiv</a> | 
+[Publisher page](https://doi.org/10.1016/j.physa.2014.05.028) | [arXiv](https://doi.org/10.48550/arXiv.1401.3154) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.physa.2014.05.028" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: J. Liu, H.-N. Xiong, F. Song, and X. Wang, Physica A **410**, 167-173 (2014).</font>
@@ -443,7 +443,7 @@ Xiao-Xing Jing, Jing Liu, Wei Zhong, and Xiaoguang Wang
 
 *Communications in Theoretical Physics* **61**, 115 (2014).
 
-<a href="https://doi.org/10.1088/0253-6102/61/1/18">Publisher page</a> | 
+[Publisher page](https://doi.org/10.1088/0253-6102/61/1/18) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/0253-6102/61/1/18" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: X.-X. Jing, J. Liu, W. Zhong, and X. Wang, Commun. Theor. Phys. **61**, 115 (2014).</font>
@@ -456,7 +456,7 @@ Wei Zhong, Jing Liu, Jian Ma and Xiaoguang Wang
 
 *Chinese Physics B* **23**, 060302 (2014).
 
-<a href="https://doi.org/10.1088/1674-1056/23/6/060302">Publisher page</a> | 
+[Publisher page](https://doi.org/10.1088/1674-1056/23/6/060302) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1674-1056/23/6/060302" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: W. Zhong, J. Liu, J. Ma, and X. Wang, Chin. Phys. B **23**, 060302 (2014).</font>
@@ -469,7 +469,7 @@ Wei Zhong, Jian Ma, Jing Liu, and Xiaoguang Wang
 
 *Chinese Physics B* **23**, 090305 (2014).
 
-<a href="https://doi.org/10.1088/1674-1056/23/9/090305">Publisher page</a> | 
+[Publisher page](https://doi.org/10.1088/1674-1056/23/9/090305) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1674-1056/23/9/090305" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: W. Zhong, J. Ma, J. Liu, and X. Wang, Chin. Phys. B **23**, 090305 (2014).</font>
@@ -482,7 +482,7 @@ Jing Liu, Xiao-Xing Jing, and Xiaoguang Wang
 
 *Physical Review A* **88**, 042316 (2013).
 
-<a href="https://doi.org/10.1103/PhysRevA.88.042316">Publisher page</a> | <a href="https://doi.org/10.48550/arXiv.1308.4799">arXiv</a> | 
+[Publisher page](https://doi.org/10.1103/PhysRevA.88.042316) | [arXiv](https://doi.org/10.48550/arXiv.1308.4799) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.88.042316" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: J. Liu, X.-X. Jing, and X. Wang, Phys. Rev. A **88**, 042316 (2013).</font>
@@ -495,7 +495,7 @@ Jing Liu, Xiao-Ming Lu, and Xiaoguang Wang
 
 *Physical Review A* **87**, 042103 (2013).
 
-<a href="https://doi.org/10.1103/PhysRevA.87.042103">Publisher page</a> | <a href="https://doi.org/10.48550/arXiv.1301.5763">arXiv</a> | 
+[Publisher page](https://doi.org/10.1103/PhysRevA.87.042103) | [arXiv](https://doi.org/10.48550/arXiv.1301.5763) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.87.042103" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: J. Liu, X.-M. Lu, and X. Wang, Phys. Rev. A **87**, 042103 (2013).</font>
@@ -508,7 +508,7 @@ Jing Liu, Xiao-Ming Lu, Jian Ma, and Xiaoguang Wang
 
 *Science China: Physics, Mechanics & Astronomy* **55**, 1529-1534 (2012).
 
-<a href="https://doi.org/10.1007/s11433-012-4852-0">Publisher page</a> | 
+[Publisher page](https://doi.org/10.1007/s11433-012-4852-0) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1007/s11433-012-4852-0" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: J. Liu, X.-M. Lu, J. Ma, and X. Wang, Sci. China Phys. Mech. Astron. **55**, 1529 (2012).</font>
