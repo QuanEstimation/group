@@ -35,7 +35,11 @@
 
 -   Outstanding Achievement Award for Research in Institutes of Higher Education (2020)
 
+    高等学校科学研究优秀成果奖
+
 -   Chutian Scholar in Hubei province (2018)
+
+    湖北省楚天学子
 
 **<font color="Blue">Professional services</font>**
 
