@@ -29,5 +29,17 @@
 
     School of Electronics and Information Engineering, Hangzhou Dianzi University, Hangzhou, China.
 
-    
+**<font color="Blue">Honors and Awards</font>**   
+
+-   2022 IOP Publishing China Top Cited Paper Award
+
+-   2020 
+
+-   2019 Chutian Scholar in Hubei province
+
+ **<font color="Blue">Professional services</font>**
+
+-   2023 Editorial Board member of Metrology
+
+-   2019 Guest editor for the special issue "Quantum multiparameter estimation and metrology" in Journal of Physics A: Mathematical and Theoretical    
 
