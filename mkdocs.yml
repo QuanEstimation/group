@@ -84,3 +84,4 @@ nav:
             - "Faculty": member/faculty.md 
             - "Students": member/student.md 
       - "Publications": Publications.md
+      - "Links": links.md
