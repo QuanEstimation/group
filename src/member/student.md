@@ -6,6 +6,8 @@
 
 ### **Alumnus**
 
+3 Ph.D. students and 1 master's student have graduated from our group. Details are given in the table below. 
+
 | Year | Degree | Name | Current position |
 | :---:|     :---:    | :---:| :---: |
 | 2024 | Ph.D. | Jinfeng Qin | |
