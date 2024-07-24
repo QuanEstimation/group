@@ -1,6 +1,6 @@
 # **Students**
 
-### **Current students**
+### **Current Students**
 
 
 
