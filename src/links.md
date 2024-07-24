@@ -1,4 +1,4 @@
-# Links 
+# **Links** 
 
 ### **Journal submission websites**
 
