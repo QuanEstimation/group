@@ -1,7 +1,7 @@
 # Links 
 
-## Journal submission websites
+### **Journal submission websites**
 
-[Physical Review](https://authors.aps.org/Submissions/login/new) 
+- [**Physical Review**](https://authors.aps.org/Submissions/login/new) 
 
-## Tracking the submitted articles 
+### Tracking the submitted articles 
