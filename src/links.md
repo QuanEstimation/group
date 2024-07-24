@@ -2,8 +2,6 @@
 
 ### **Journal submission websites**
 
-- [**arXiv**](https://arxiv.org/user/login)
-
 | Publisher | Journals |   | |
 | :----: | :----: | :----: | :----: |      
 | - | [**arXiv**](https://arxiv.org/user/login) | [**SciPost**](https://scipost.org/login/?next=/submissions/submit_manuscript) | [**Quantum**](https://quantum-journal.org/instructions/authors/) | 
