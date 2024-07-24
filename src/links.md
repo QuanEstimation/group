@@ -9,7 +9,7 @@
 | Springer Nature |[**Nature**](https://mts-nature.nature.com/cgi-bin/main.plex) | [**Nature Physics**](https://mts-nphys.nature.com/cgi-bin/main.plex) |  [**Nature Communications**](https://mts-ncomms.nature.com/cgi-bin/main.plex) |
 |  | [**npj Quantum Information**](https://mts-npjqi.nature.com/cgi-bin/main.plex) | [**Nature Computational Science**](https://mts-natcomputsci.nature.com/cgi-bin/main.plex) | [**Communications Physics**](https://mts-commsphys.nature.com/cgi-bin/main.plex) | 
 | AAAS | [**Science/Science Advances**](https://cts.sciencemag.org/scc/) | | |
-| Optica | [Optica/Optica Quantum/OL/OE](https://prism.optica.org/Account/Login?ReturnUrl=%2F)
+| Optica | [**Optica/OL/OE**](https://prism.optica.org/Account/Login?ReturnUrl=%2F)
   
 
 ### **Tracking the submitted articles**
