@@ -234,7 +234,7 @@ Jing Liu, Haidong Yuan, Xiao-Ming Lu, and Xiaoguang Wang
 
 - **<font color="Red">2022 IOP Publishing China Top Cited Paper Award</font>**
   
-- **<font color="Red">ESI highly cited paper (2020-current)</font>**
+- **<font color="Red">ESI highly Cited Paper (2020-current)</font>**
 
 ---
 
