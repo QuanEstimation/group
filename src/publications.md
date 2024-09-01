@@ -26,6 +26,14 @@ arXiv:2312.01965.
 
 ---
 
+**Quantum-enhanced weak absorption estimation with correlated photons**
+
+Zhucheng Zhang, Xue Zhang, Jing Liu, and Hui Dong
+
+arXiv:2408.13817.
+
+---
+
 **Advantage of quantum coherence in postselected metrology**
 
 Shao-Jie Xiong, Peng-Fei Wei, Huang-Qiu-Chen Wang, Lei Shao, Yong-Nan Sun, Jing Liu, Zhe Sun, and Xiao-Guang Wang
