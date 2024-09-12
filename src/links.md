@@ -12,6 +12,7 @@
 | AAAS | [**Science/Science Advances**](https://cts.sciencemag.org/scc/) | | |
 | Optica | [**Optica/OL/OE**](https://prism.optica.org/Account/Login?ReturnUrl=%2F) | | |
 | Elsevier | [**Science Bulletin**](https://mc03.manuscriptcentral.com/csb?adobe_mc=MCMID%3D21798577064147678921398250812539164583%7CMCORGID%3D4D6368F454EC41940A4C98A6%2540AdobeOrg%7CTS%3D1726130459) | [**Fundamental Research**](https://www.editorialmanager.com/fmre/default.aspx?adobe_mc=MCMID%3D21798577064147678921398250812539164583%7CMCORGID%3D4D6368F454EC41940A4C98A6%2540AdobeOrg%7CTS%3D1726131606) | |
+｜ IOP ｜ [**Journal of Physics A: Mathematical and Theoretical**](https://mc04.manuscriptcentral.com/jphysa-iop)  | [**Communications in Theoretical Physics**](https://mc03.manuscriptcentral.com/ctphys) | [**Classical and Quantum Gravity**](https://mc04.manuscriptcentral.com/cqg-iop) |
    
 
 ### **Tracking the submitted articles**
