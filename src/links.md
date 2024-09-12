@@ -11,7 +11,7 @@
 |  | [**npj Quantum Information**](https://mts-npjqi.nature.com/cgi-bin/main.plex) | [**Nature Communications**](https://mts-ncomms.nature.com/cgi-bin/main.plex) | [**Communications Physics**](https://mts-commsphys.nature.com/cgi-bin/main.plex) | 
 | AAAS | [**Science/Science Advances**](https://cts.sciencemag.org/scc/) | | |
 | Optica | [**Optica/OL/OE**](https://prism.optica.org/Account/Login?ReturnUrl=%2F) | | |
-| Elsevier | [**Science Bulletin**](https://mc03.manuscriptcentral.com/csb?adobe_mc=MCMID%3D21798577064147678921398250812539164583%7CMCORGID%3D4D6368F454EC41940A4C98A6%2540AdobeOrg%7CTS%3D1726130459) | | |
+| Elsevier | [**Science Bulletin**](https://mc03.manuscriptcentral.com/csb?adobe_mc=MCMID%3D21798577064147678921398250812539164583%7CMCORGID%3D4D6368F454EC41940A4C98A6%2540AdobeOrg%7CTS%3D1726130459) | [**Fundamental Research**](https://www.editorialmanager.com/fmre/default.aspx?adobe_mc=MCMID%3D21798577064147678921398250812539164583%7CMCORGID%3D4D6368F454EC41940A4C98A6%2540AdobeOrg%7CTS%3D1726131606) | |
    
 
 ### **Tracking the submitted articles**
