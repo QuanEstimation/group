@@ -24,7 +24,7 @@ quantum information theory, quantum dissipation, and quantum foundations.
 
     Huazhong University of Science and Technology, Wuhan, China
 
--   **Postdoctoral Fellow** (Oct. 2015 - Dec. 2017) 
+-   **Postdoctoral Fellow/Research Associate** (Oct. 2015 - Dec. 2017) 
 
     Department of Mechanical and Automation Engineering,
 
