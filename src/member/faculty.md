@@ -18,7 +18,7 @@ quantum information theory, quantum dissipation, and quantum foundations.
 
     Hainan University, Haikou, China
 
--   **Associate Professor** (Jan. 2018 - current)
+-   **Associate Professor** (Jan. 2018 - Aug. 2024)
 
     National Precise Gravity Measurement Facility, School of Physics, 
 
