@@ -1,6 +1,6 @@
 # **QuanEstimation Group**
 
-Hello! Welcome to the home page of QuanEstimation group. We focus on the study of quantum technology and quantum information theory. 
+Hello! Welcome to the home page of QuanEstimation group. We are a theoretical group in Hainan University. We focus on the study of quantum technology and quantum information theory. 
 
 ## **Research Interests**
 
