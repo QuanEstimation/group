@@ -7,8 +7,8 @@
 
 **Email: liujing@hainanu.edu.cn**
 
-Porf. Liu's current research interest includes selected topics in quantum metrology, quantum control, quantum information theory, quantum dissipation, 
-and quantum foundations.
+Prof. Liu  is now a full-time professor at Hainan University. His current research interest includes selected topics in quantum metrology, quantum control, 
+quantum information theory, quantum dissipation, and quantum foundations.
 
 **<font color="Blue">Employment</font>**
 
