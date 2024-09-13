@@ -2,7 +2,7 @@
 
 ### **Current Students**
 
-
+None for now. 
 
 ### **Alumnus**
 
