@@ -5,12 +5,18 @@
 [**<font size=3>Web of Science</font>**](https://webofscience.clarivate.cn/wos/author/record/H-2632-2012) &emsp; 
 [**<font size=3>Scopus</font>**](https://www.scopus.com/authid/detail.uri?authorId=55888785500)
 
-**Email: zju.liujing@gmail.com**
+**Email: liujing@hainanu.edu.cn**
 
-Dr. Liu's current research interest includes selected topics in quantum metrology, quantum control, quantum information theory, quantum dissipation, 
+Porf. Liu's current research interest includes selected topics in quantum metrology, quantum control, quantum information theory, quantum dissipation, 
 and quantum foundations.
 
 **<font color="Blue">Employment</font>**
+
+-   **Professor** (Sep. 2024 - current)
+
+    Center for Theoretical Physics, School of Physics and Optoelectronic Engineering,
+
+    Hainan University, Haikou, China
 
 -   **Associate Professor** (Jan. 2018 - current)
 
