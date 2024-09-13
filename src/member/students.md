@@ -6,6 +6,7 @@
 
 ### **Alumnus**
 
+#### Hainan University
 
 #### Huazhong University of Science and Technology
 
