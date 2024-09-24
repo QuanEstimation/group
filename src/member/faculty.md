@@ -7,7 +7,7 @@
 
 **Email: liujing@hainanu.edu.cn**
 
-Prof. Liu  is now a full-time professor at Hainan University. His current research interest includes selected topics in quantum metrology, quantum control, 
+Prof. Liu  is now a full-time professor in the Center for Theoretical Physics and School of Physics and Optoelectronic Engineering, Hainan University. His current research interest includes selected topics in quantum metrology, quantum control, 
 quantum information theory, quantum dissipation, and quantum foundations.
 
 **<font color="Blue">Employment</font>**
