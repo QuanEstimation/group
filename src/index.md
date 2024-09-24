@@ -4,7 +4,7 @@ Hello! Welcome to the home page of QuanEstimation group. We are a theoretical gr
 
 ## **Opening positions**
 
-Master and Ph.D. students, postdocs are welcome!
+Master and Ph.D. students, and postdoctors are welcome! Please contact Prof. Jing Liu (liujing@hainanu.edu.cn) for more details. 
 
 ## **Main Research Interests**
 
