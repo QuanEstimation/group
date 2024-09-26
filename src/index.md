@@ -1,6 +1,6 @@
 # **QuanEstimation Group**
 
-Hello! Welcome to the home page of QuanEstimation group. We are a theoretical group in the Center for Theoretical Physics and School of Physics and Optoelectronic Engineering, Hainan University. We focus on the studies in the field of quantum technology and quantum information theory. 
+Hello! Welcome to the home page of QuanEstimation group. We are a theoretical group located in the Center for Theoretical Physics and School of Physics and Optoelectronic Engineering, Hainan University. We focus on the studies in the field of quantum technology and quantum information theory. 
 
 ## **Opening positions**
 
