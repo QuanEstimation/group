@@ -8,7 +8,7 @@ None for now.
 
 #### Hainan University
 
-No student is graduated in Hainan University yet. 
+No student has graduated in Hainan University yet. 
 
 #### Huazhong University of Science and Technology
 
