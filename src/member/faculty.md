@@ -42,7 +42,7 @@ quantum information theory, quantum dissipation, and quantum foundations.
 
 **<font color="Blue">Honors and Awards</font>**   
 
--   World’s Top 2% Scientists (2024)
+-   World’s Top 2% Scientists (2022-2024)
 
 -   IOP Publishing China Top Cited Paper Award (2022)
 
