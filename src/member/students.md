@@ -1,5 +1,7 @@
 # **Students**
 
+> **Cogito ergo sum.**  <p align='right'>**--René Descartes**</p>
+
 ### **Current Students**
 
 None for now. 
