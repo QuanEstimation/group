@@ -14,13 +14,13 @@ quantum information theory, quantum dissipation, and quantum foundations.
 
 **<font color="Blue" size=4.5>Employment</font>**
 
--   **Professor** (Sep. 2024 - current)
+-   **Professor** [教授] (Sep. 2024 - current)
 
     Center for Theoretical Physics, School of Physics and Optoelectronic Engineering,
 
     Hainan University, Haikou, China
 
--   **Associate Professor** (Jan. 2018 - Sep. 2024)
+-   **Associate Professor** [副研究员] (Jan. 2018 - Sep. 2024)
 
     National Precise Gravity Measurement Facility, School of Physics, 
 
