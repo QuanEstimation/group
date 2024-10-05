@@ -56,12 +56,12 @@ quantum information theory, quantum dissipation, and quantum foundations.
 
 **<font color="Blue" size=4>Professional services</font>**
 
--   Editorial services
+-   **Editorial services**
 
     -   Editorial Board members of Metrology (2023-2025)
 
     -   Guest editor of Journal of Physics A: Mathematical and Theoretical, special issue "Quantum Multiparameter Estimation and Metrology" (2019)
 
--   Referee services
+-   **Referee services**
 
     I have reviewed many papers for more than 40 journals. More details can be found in [Web of Science](https://webofscience.clarivate.cn/wos/author/record/H-2632-2012)
