@@ -30,7 +30,7 @@ quantum information theory, quantum dissipation, and quantum foundations.
 
     The Chinese University of Hong Kong, Hong Kong, China
 
-**<font color="Blue">Education</font>**
+**<font color="Blue" size=4>Education</font>**
 
 -   **Ph.D.** (Sep. 2010- Jun. 2015)
 
@@ -40,7 +40,7 @@ quantum information theory, quantum dissipation, and quantum foundations.
 
     School of Electronics and Information Engineering, Hangzhou Dianzi University, Hangzhou, China.
 
-**<font color="Blue">Honors and Awards</font>**   
+**<font color="Blue" size=4>Honors and Awards</font>**   
 
 -   World’s Top 2% Scientists (2022-2024)
 
@@ -54,7 +54,7 @@ quantum information theory, quantum dissipation, and quantum foundations.
 
     湖北省楚天学子
 
-**<font color="Blue">Professional services</font>**
+**<font color="Blue" size=4>Professional services</font>**
 
 -   Editorial services
 
