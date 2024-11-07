@@ -49,12 +49,12 @@ arXiv:2212.05285.
 
 Hongzhen Chen, Yu Chen, Jing Liu, Zibo Miao, and Haidong Yuan
 
-*Physical Review Letters* xx, xx (2024).
+*Physical Review Letters* **133**, 190801 (2024).
 
-[Publisher page]() | [arXiv]() | 
-<span class="__dimensions_badge_embed__" data-doi="" data-style="large_rectangle" style="display:inline;"></span>
+[Publisher page](https://doi.org/10.1103/PhysRevLett.133.190801) | [arXiv]() | 
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevLett.133.190801" data-style="large_rectangle" style="display:inline;"></span>
 
-<font size=2>Cite it: H. Chen, Y. Chen, J. Liu, Z. Miao, and H. Yuan, Phys. Rev. Lett. xx, xx (2024).</font>
+<font size=2>Cite it: H. Chen, Y. Chen, J. Liu, Z. Miao, and H. Yuan, Phys. Rev. Lett. **133**, 190801 (2024).</font>
 -->
 
 **36. Quantum dynamic response-based NV-diamond magnetometry: Robustness to decoherence and applications in motion detection of magnetic nanoparticles**
