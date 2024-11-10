@@ -34,7 +34,7 @@ quantum information theory, quantum dissipation, and quantum foundations.
 
 **<font color="Blue" size=4.5>Education</font>**
 
--   **Ph.D.** (Sep. 2010- Jun. 2015)
+-   **Ph.D.** (Sep. 2010 - Jun. 2015)
 
     Department of Physics, Zhejiang University, Hangzhou, China. 
 
