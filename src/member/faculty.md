@@ -22,7 +22,7 @@ quantum information theory, quantum dissipation, and quantum foundations.
 
 -   **Associate Professor** (Jan. 2018 - Dec. 2024)
 
-    National Precise Gravity Measurement Facility, School of Physics, 
+    National Gravimetry Facility, School of Physics, 
 
     Huazhong University of Science and Technology, Wuhan, China
 
