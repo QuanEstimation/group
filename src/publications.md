@@ -45,7 +45,7 @@ arXiv:2212.05285.
 
 ## **<font color="Blue">2024</font>** 
 
-<!-- **37. Quantum metrology enhanced by leveraging informative noise with error correction**
+**37. Quantum metrology enhanced by leveraging informative noise with error correction**
 
 Hongzhen Chen, Yu Chen, Jing Liu, Zibo Miao, and Haidong Yuan
 
@@ -55,7 +55,6 @@ Hongzhen Chen, Yu Chen, Jing Liu, Zibo Miao, and Haidong Yuan
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevLett.133.190801" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: H. Chen, Y. Chen, J. Liu, Z. Miao, and H. Yuan, Phys. Rev. Lett. **133**, 190801 (2024).</font>
--->
 
 **36. Quantum dynamic response-based NV-diamond magnetometry: Robustness to decoherence and applications in motion detection of magnetic nanoparticles**
 
