@@ -51,7 +51,7 @@ Hongzhen Chen, Yu Chen, Jing Liu, Zibo Miao, and Haidong Yuan
 
 *Physical Review Letters* **133**, 190801 (2024).
 
-[Publisher page](https://doi.org/10.1103/PhysRevLett.133.190801) | [arXiv]() | 
+[Publisher page](https://doi.org/10.1103/PhysRevLett.133.190801) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevLett.133.190801" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: H. Chen, Y. Chen, J. Liu, Z. Miao, and H. Yuan, Phys. Rev. Lett. **133**, 190801 (2024).</font>
