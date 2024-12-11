@@ -43,6 +43,17 @@ arXiv:2212.05285.
 [arXiv](https://doi.org/10.48550/arXiv.2212.05285)
 
 
+## **<font color="Blue">2025</font>**
+
+**38. Time-delay interferometry combinations to suppress two of six test-mass disturbances in space-borne gravitational wave detectors**
+
+Yu-Jie Tan, Wei-Sheng Huang, Pan-Pan Wang, Zhang-Qi Wu, Jean-Michel Le Floch, Han-Zhong Wu, Jing Liu, Cheng-Gang Shao, and Ze-Bing Zhou 
+
+*Physical Review D* (2025).
+
+[Publisher page]() | 
+<span class="__dimensions_badge_embed__" data-doi=" " data-style="large_rectangle" style="display:inline;"></span>
+
 ## **<font color="Blue">2024</font>** 
 
 **37. Quantum metrology enhanced by leveraging informative noise with error correction**
