@@ -45,6 +45,13 @@ and invoking new features.
 5. Control-enhanced multiparameter quantum estimation, *Phys. Rev. A* **96**, 042114 (2017). 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.96.042114" data-style="large_rectangle" style="display:inline;"></span>
 
+6. Quantum Fisher Information for Density Matrices with Arbitrary Ranks, *Commun. Theor. Phys.* **61**, 45 (2014). 
+<span class="__dimensions_badge_embed__" data-doi="10.1088/0253-6102/61/1/08" data-style="large_rectangle" style="display:inline;"></span>
+
+7. Phase-matching condition for enhancement of phase sensitivity in quantum metrology, *Phys. Rev. A* **88**, 042316 (2013).
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.88.042316" data-style="large_rectangle" style="display:inline;"></span>
+
+
 ### **Foundations of Quantum Mechanics**
 
 - Quantum speed limits. ​​ 
