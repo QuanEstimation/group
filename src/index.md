@@ -1,3 +1,5 @@
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
 # **QuanEstimation Group**
 
 Hello! Welcome to the home page of QuanEstimation group. We are a theoretical group located in the Center for Theoretical Physics and School of Physics and Optoelectronic Engineering, Hainan University. We focus on the studies in the field of quantum technology and quantum information theory. 
@@ -26,12 +28,12 @@ and invoking new features.
 
 **Selected papers:**
 
-- QuanEstimation: An open-source toolkit for quantum parameter estimation, *Phys. Rev. Res.* **4**, 043057 (2022). 
+[1] QuanEstimation: An open-source toolkit for quantum parameter estimation, *Phys. Rev. Res.* **4**, 043057 (2022). 
 [PDF](../Publications/pdf/PRResearch_4_043057.pdf) | [Publisher page](https://doi.org/10.1103/PhysRevResearch.4.043057) 
 | [arXiv](https://doi.org/10.48550/arXiv.2205.15588) 
 | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevResearch.4.043057" data-style="large_rectangle" style="display:inline;"></span>
 
--  Optimal Scheme for Quantum Metrology, *Adv. Quantum Technol.* **5**, 2100080 (2022). [Publisher page](https://doi.org/10.1002/qute.202100080)
+[2] Optimal Scheme for Quantum Metrology, *Adv. Quantum Technol.* **5**, 2100080 (2022). [Publisher page](https://doi.org/10.1002/qute.202100080)
 | [arXiv](https://arxiv.org/abs/2111.12279) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1002/qute.202100080" data-style="large_rectangle" style="display:inline;"></span>
 
