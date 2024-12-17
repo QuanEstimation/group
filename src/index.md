@@ -26,6 +26,10 @@ and invoking new features.
 
 **Selected papers:**
 
+Mao Zhang, Huai-Ming Yu, Haidong Yuan, Xiaoguang Wang, Rafał Demkowicz-Dobrzański, and Jing Liu, QuanEstimation: An open-source toolkit for quantum parameter estimation, 
+*Physical Review Research* **4**, 043057 (2022). [PDF](../Publications/pdf/PRResearch_4_043057.pdf) | [Publisher page](https://doi.org/10.1103/PhysRevResearch.4.043057) 
+| [arXiv](https://doi.org/10.48550/arXiv.2205.15588) 
+| <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevResearch.4.043057" data-style="large_rectangle" style="display:inline;"></span>
 
 
 ### **Foundations of Quantum Mechanics**
@@ -39,7 +43,7 @@ and invoking new features.
 **Selected papers:**
 
 Mao Zhang, Huai-Ming Yu, and Jing Liu, Quantum speed limit for complex dynamics, *npj Quantum Information* **9**, 97 (2023). 
-
 [PDF](../Publications/pdf/npjqi_9_97.pdf) | [Publisher page](https://doi.org/10.1038/s41534-023-00768-8) | 
-[arXiv](https://arxiv.org/abs/2301.00566) | <span class="__dimensions_badge_embed__" data-doi="10.1038/s41534-023-00768-8" data-style="large_rectangle" style="display:inline;"></span>
+[arXiv](https://arxiv.org/abs/2301.00566) | 
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41534-023-00768-8" data-style="large_rectangle" style="display:inline;"></span>
 
