@@ -20,7 +20,7 @@ and invoking new features.
 
 **Selected papers:**
 
-[1] QuanEstimation: An open-source toolkit for quantum parameter estimation, *Phys. Rev. Res.* **4**, 043057 (2022). 
+1. QuanEstimation: An open-source toolkit for quantum parameter estimation, *Phys. Rev. Res.* **4**, 043057 (2022). 
 [Publisher page](https://doi.org/10.1103/PhysRevResearch.4.043057) 
 | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevResearch.4.043057" data-style="large_rectangle" style="display:inline;"></span>
 
