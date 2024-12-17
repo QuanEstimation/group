@@ -54,6 +54,8 @@ Yu-Jie Tan, Wei-Sheng Huang, Pan-Pan Wang, Zhang-Qi Wu, Jean-Michel Le Floch, Ha
 [Publisher page]() | 
 <span class="__dimensions_badge_embed__" data-doi=" " data-style="large_rectangle" style="display:inline;"></span>
 
+<font size=2>Cite it: Y.-J. Tan, W.-S. Huang, P.-P. Wang, Z.-Q. Wu, J.-M. Le Floch, H.-Z. Wu, J. Liu, C.-G. Shao, and Z.-B. Zhou, Phys. Rev. D </font>
+
 ## **<font color="Blue">2024</font>** 
 
 **37. Quantum metrology enhanced by leveraging informative noise with error correction**
