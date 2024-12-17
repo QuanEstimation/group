@@ -29,7 +29,6 @@ and invoking new features.
 **Selected papers:**
 
 [1] QuanEstimation: An open-source toolkit for quantum parameter estimation, *Phys. Rev. Res.* **4**, 043057 (2022). 
-
 [Publisher page](https://doi.org/10.1103/PhysRevResearch.4.043057) 
 | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevResearch.4.043057" data-style="large_rectangle" style="display:inline;"></span>
 
@@ -39,7 +38,6 @@ and invoking new features.
 | <span class="__dimensions_badge_embed__" data-doi="10.1002/qute.202100080" data-style="large_rectangle" style="display:inline;"></span>
 
 [3] Quantum Fisher information matrix and multiparameter estimation, *J. Phys. A: Math. Theor.* **53**, 023001 (2020). 
-
 [Publisher page](https://doi.org/10.1088/1751-8121/ab5d4d) 
 | <span class="__dimensions_badge_embed__" data-doi="10.1088/1751-8121/ab5d4d" data-style="large_rectangle" style="display:inline;"></span>
 
