@@ -22,7 +22,11 @@ and invoking new features.
 
 - Parameter estimations in atomic interferometers, such as Bose-Einstein condensate.
 
-- Controlled schemes to improve the precision of parameter estimations in various systems. 
+- Controlled schemes to improve the precision of parameter estimations in various systems.
+
+**Selected papers:**
+
+
 
 ### **Foundations of Quantum Mechanics**
 
@@ -31,4 +35,11 @@ and invoking new features.
 - Quantum correlation, including the criteria, witness, and the dynamical behavior of entanglement and quantum discord.
 
 - Spin squeezing.
+
+**Selected papers:**
+
+Mao Zhang, Huai-Ming Yu, and Jing Liu, Quantum speed limit for complex dynamics, *npj Quantum Information* **9**, 97 (2023). 
+
+[PDF](../Publications/pdf/npjqi_9_97.pdf) | [Publisher page](https://doi.org/10.1038/s41534-023-00768-8) | 
+[arXiv](https://arxiv.org/abs/2301.00566) | <span class="__dimensions_badge_embed__" data-doi="10.1038/s41534-023-00768-8" data-style="large_rectangle" style="display:inline;"></span>
 
