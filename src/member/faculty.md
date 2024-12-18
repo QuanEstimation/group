@@ -48,12 +48,10 @@ quantum information theory, quantum dissipation, and quantum foundations.
 
 -   IOP Publishing China Top Cited Paper Award (2022)
 
--   Outstanding Achievement Award for Research in Institutes of Higher Education (2020)
-
+-   Outstanding Achievement Award for Research in Institutes of Higher Education (2020) <br>
     高等学校科学研究优秀成果奖（科学技术）
 
--   Chutian Scholar in Hubei province (2018)
-
+-   Chutian Scholar in Hubei province (2018) <br>
     湖北省楚天学子
 
 **<font color="Blue" size=4.5>Professional services</font>**
@@ -62,7 +60,7 @@ quantum information theory, quantum dissipation, and quantum foundations.
 
     -   Editorial Board Member of Metrology (2023-2025)
 
-    -   Yong Editorial Board Member of Natural Science Journal of Hainan University (2025-now)
+    -   Yong Editorial Board Member of Natural Science Journal of Hainan University (2025-now) <br>
         海南大学学报（自然科学版）青年编委
 
     -   Guest editor of Journal of Physics A: Mathematical and Theoretical, special issue "Quantum Multiparameter Estimation and Metrology" (2019)
