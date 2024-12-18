@@ -58,12 +58,12 @@ quantum information theory, quantum dissipation, and quantum foundations.
 
 -   **Editorial services**
 
-    -   Editorial Board Member of Metrology (2023-2025)
+    Editorial Board Member of Metrology (2023-2025)
 
-    -   Yong Editorial Board Member of Natural Science Journal of Hainan University (2025-now) <br>
-        海南大学学报（自然科学版）青年编委
+    Yong Editorial Board Member of Natural Science Journal of Hainan University (2025-now) <br>
+    海南大学学报（自然科学版）青年编委
 
-    -   Guest editor of Journal of Physics A: Mathematical and Theoretical, special issue "Quantum Multiparameter Estimation and Metrology" (2019)
+    Guest editor of Journal of Physics A: Mathematical and Theoretical, special issue "Quantum Multiparameter Estimation and Metrology" (2019)
 
 -   **Referee services**
 
