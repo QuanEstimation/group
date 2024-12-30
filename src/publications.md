@@ -16,7 +16,7 @@ arXiv: 2405.12066.
 
 ---
 
-**Optimal Phase Estimation in Finite-dimensional Fock Space**
+**Optimal finite-dimensional probe states for quantum phase estimation**
 
 Jin-Feng Qin, Yuqian Xu, and Jing Liu
 
