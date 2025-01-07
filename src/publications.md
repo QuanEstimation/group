@@ -52,7 +52,7 @@ Yu-Jie Tan, Wei-Sheng Huang, Pan-Pan Wang, Zhang-Qi Wu, Jean-Michel Le Floch, Ha
 *Physical Review D* **111**, 024011 (2025).
 
 [Publisher page]() | 
-<span class="__dimensions_badge_embed__" data-doi=" " data-style="large_rectangle" style="display:inline;"></span>
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.111.024011" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: Y.-J. Tan, W.-S. Huang, P.-P. Wang, Z.-Q. Wu, J.-M. Le Floch, H.-Z. Wu, J. Liu, C.-G. Shao, and Z.-B. Zhou, Phys. Rev. D **111**, 024011 (2025).</font>
 
