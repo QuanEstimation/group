@@ -10,16 +10,19 @@ Master and Ph.D. students, and postdoctors are welcome! Please contact Prof. Jin
 
 ## **Main Research Interests**
 
-### **QuanEstimation** 
+### **Development of packages for quantum parameter estimation**
+
+- **QuanEstimation** 
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/QuanEstimation/QuanEstimation)
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://quanestimation.github.io/QuanEstimation/) 
 [![Downloads](https://static.pepy.tech/badge/quanestimation)](https://pepy.tech/project/quanestimation)
 
-QuanEstimation is a comprehensive toolbox for computation and scheme design in quantum parameter estimation. We are committed to developing this tool constantly 
-and invoking new features. 
+  QuanEstimation is a comprehensive toolbox for computation and scheme design in quantum parameter estimation. We are committed to developing this tool constantly 
+  and invoking new features. 
 
-### QuanEstimation.jl
+- **QuanEstimation.jl**
+  
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/QuanEstimation/QuanEstimation.jl)
 [![][docs-img]][docs-url]
 [![][action-img]][action-url]
@@ -33,7 +36,7 @@ and invoking new features.
 [docs-img]: https://img.shields.io/badge/docs-stable-blue.svg
 [docs-url]: https://quanestimation.github.io/QuanEstimation/
 
-QuanEstimation.jl is the computional core and also an independent Julia package for quantum parameter estimation.
+  QuanEstimation.jl is the computional core and also an independent Julia package for quantum parameter estimation.
 
 **Selected papers:**
 
