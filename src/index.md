@@ -19,6 +19,22 @@ Master and Ph.D. students, and postdoctors are welcome! Please contact Prof. Jin
 QuanEstimation is a comprehensive toolbox for computation and scheme design in quantum parameter estimation. We are committed to developing this tool constantly 
 and invoking new features. 
 
+### QuanEstimation.jl
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/QuanEstimation/QuanEstimation.jl)
+[![][docs-img]][docs-url]
+[![][action-img]][action-url]
+[![][codecov-img]][codecov-url]
+[![Downloads](https://img.shields.io/badge/dynamic/json?url=http%3A%2F%2Fjuliapkgstats.com%2Fapi%2Fv1%2Ftotal_downloads%2FQuanEstimation&query=total_requests&suffix=%2Ftotal&label=Downloads)](https://juliapkgstats.com/pkg/QuanEstimation)
+
+[action-img]: https://github.com/QuanEstimation/QuanEstimation.jl/actions/workflows/CI_QuanEstimation.yml/badge.svg
+[action-url]: https://github.com/QuanEstimation/QuanEstimation.jl/actions
+[codecov-img]: https://codecov.io/gh/QuanEstimation/QuanEstimation.jl/graph/badge.svg
+[codecov-url]: https://codecov.io/gh/QuanEstimation/QuanEstimation.jl
+[docs-img]: https://img.shields.io/badge/docs-stable-blue.svg
+[docs-url]: https://quanestimation.github.io/QuanEstimation/
+
+QuanEstimation.jl is the computional core and also an independent Julia package for quantum parameter estimation.
+
 **Selected papers:**
 
 1. QuanEstimation: An open-source toolkit for quantum parameter estimation, <br>
