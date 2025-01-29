@@ -10,7 +10,7 @@ Master and Ph.D. students, and postdoctors are welcome! Please contact Prof. Jin
 
 ## **Main Research Interests**
 
-### **Package development for quantum parameter estimation**
+### **1. Package development for quantum parameter estimation**
 
 **QuanEstimation** 
 
@@ -43,7 +43,7 @@ QuanEstimation.jl is the computional core and also an independent Julia package 
 1. QuanEstimation: An open-source toolkit for quantum parameter estimation, <br>
 *Phys. Rev. Res.* **4**, 043057 (2022). <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevResearch.4.043057" data-style="large_rectangle" style="display:inline;"></span>
 
-### **Quantum Metrology and Control**
+### **2. Quantum Metrology and Control**
 
 - Quantum phase estimations, including single and multiple phase estimations in optical interferometers.
 
@@ -72,7 +72,7 @@ QuanEstimation.jl is the computional core and also an independent Julia package 
 *Phys. Rev. A* **88**, 042316 (2013). <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.88.042316" data-style="large_rectangle" style="display:inline;"></span>
 
 
-### **Foundations of Quantum Mechanics**
+### **3. Foundations of Quantum Mechanics**
 
 - Quantum speed limits. ​​ 
 
