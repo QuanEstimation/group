@@ -10,7 +10,7 @@ Master and Ph.D. students, and postdoctors are welcome! Please contact Prof. Jin
 
 ## **Main Research Interests**
 
-### **Development of packages for quantum parameter estimation**
+### **Package development for quantum parameter estimation**
 
 **QuanEstimation** 
 
