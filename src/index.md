@@ -10,9 +10,9 @@ Master and Ph.D. students, and postdoctors are welcome! Please contact Prof. Jin
 
 ## **Main Research Interests**
 
-### **Development of packages for quantum parameter estimation**
+## **Development of packages for quantum parameter estimation**
 
-## **QuanEstimation** 
+### **QuanEstimation** 
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/QuanEstimation/QuanEstimation)
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://quanestimation.github.io/QuanEstimation/) 
@@ -21,7 +21,7 @@ Master and Ph.D. students, and postdoctors are welcome! Please contact Prof. Jin
 QuanEstimation is a comprehensive toolbox for computation and scheme design in quantum parameter estimation. We are committed to developing this tool constantly 
 and invoking new features. 
 
-## **QuanEstimation.jl**
+### **QuanEstimation.jl**
   
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/QuanEstimation/QuanEstimation.jl)
 [![][docs-img]][docs-url]
