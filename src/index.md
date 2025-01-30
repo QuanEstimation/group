@@ -27,7 +27,7 @@ and invoking new features.
 [![][docs-img]][docs-url]
 [![][action-img]][action-url]
 [![][codecov-img]][codecov-url]
-[![Downloads](https://img.shields.io/badge/dynamic/json?url=http%3A%2F%2Fjuliapkgstats.com%2Fapi%2Fv1%2Ftotal_downloads%2FQuanEstimation&query=total_requests&suffix=%2Ftotal&label=Downloads)](https://juliapkgstats.com/pkg/QuanEstimation)
+[![Downloads](https://img.shields.io/badge/dynamic/json?url=http%3A%2F%2Fjuliapkgstats.com%2Fapi%2Fv1%2Ftotal_downloads%2FQuanEstimation&query=total_requests&suffix=%2Ftotal&label=downloads)](https://juliapkgstats.com/pkg/QuanEstimation)
 
 [action-img]: https://github.com/QuanEstimation/QuanEstimation.jl/actions/workflows/CI_QuanEstimation.yml/badge.svg
 [action-url]: https://github.com/QuanEstimation/QuanEstimation.jl/actions
