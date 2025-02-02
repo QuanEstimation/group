@@ -4,7 +4,7 @@
 
 > **Every production of genius must be the production of enthusiasm.**  <p align='right'>**--Benjamin Disraeli**</p>
 
-### **Preprint**
+### **Preprint and submitted**
 
 **QuanEstimation.jl: An open-source Julia framework for quantum parameter estimation** 
 
@@ -22,7 +22,15 @@ Jin-Feng Qin, Yuqian Xu, and Jing Liu
 
 arXiv:2312.01965.
 
-[arXiv](https://arxiv.org/abs/2312.01965)
+[arXiv](https://doi.org/10.48550/arXiv.2312.01965)
+
+---
+
+**Experimental observation of the quantum speed limit as the true evolution time**
+
+Ben Wang, Qianyi Wang, Huai-Ming Yu, Jun Wang, Liang Xu, Jing Liu, and Lijian Zhang, 
+
+submitted.
 
 ---
 
@@ -31,6 +39,8 @@ arXiv:2312.01965.
 Zhucheng Zhang, Xue Zhang, Jing Liu, and Hui Dong
 
 arXiv:2408.13817.
+
+[arXiv](https://doi.org/10.48550/arXiv.2408.13817)
 
 ---
 
