@@ -16,7 +16,7 @@ Master and Ph.D. students, and postdoctors are welcome! Please contact Prof. Jin
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/QuanEstimation/QuanEstimation)
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://quanestimation.github.io/QuanEstimation/) 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD--3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Downloads](https://static.pepy.tech/badge/quanestimation)](https://pepy.tech/project/quanestimation)
 
 QuanEstimation is a comprehensive toolbox for computation and scheme design in quantum parameter estimation. We are committed to developing this tool constantly 
@@ -26,7 +26,7 @@ and invoking new features.
   
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/QuanEstimation/QuanEstimation.jl)
 [![][docs-img]][docs-url]
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD--3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![][action-img]][action-url]
 [![][codecov-img]][codecov-url]
 [![Downloads](https://img.shields.io/badge/dynamic/json?url=http%3A%2F%2Fjuliapkgstats.com%2Fapi%2Fv1%2Ftotal_downloads%2FQuanEstimation&query=total_requests&suffix=%2Ftotal&label=downloads)](https://juliapkgstats.com/pkg/QuanEstimation)
