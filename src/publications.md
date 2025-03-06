@@ -6,16 +6,6 @@
 
 ### **Preprint and submitted**
 
-**QuanEstimation.jl: An open-source Julia framework for quantum parameter estimation** 
-
-Huai-Ming Yu and Jing Liu
-
-arXiv: 2405.12066. 
-
-[arXiv](https://arxiv.org/abs/2405.12066)
-
----
-
 **Optimal finite-dimensional probe states for quantum phase estimation**
 
 Jin-Feng Qin, Yuqian Xu, and Jing Liu
@@ -54,6 +44,16 @@ arXiv:2212.05285.
 
 
 ## **<font color="Blue">2025</font>**
+
+**39. QuanEstimation.jl: An open-source Julia framework for quantum parameter estimation** 
+
+Huai-Ming Yu and Jing Liu
+
+*Fundamental Research* in production 
+
+[Publisher page]() | [arXiv](https://arxiv.org/abs/2405.12066) | <span class="__dimensions_badge_embed__" data-doi="" data-style="large_rectangle" style="display:inline;"></span>
+
+<font size=2>Cite it: H.-M. Yu and J. Liu, Fundam. Res. **xx**, xx (2025).</font>
 
 **38. Time-delay interferometry combinations to suppress two of six test-mass disturbances in space-borne gravitational wave detectors**
 
