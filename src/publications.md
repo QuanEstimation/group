@@ -39,7 +39,7 @@ arXiv:2212.05285.
 
 Huai-Ming Yu and Jing Liu
 
-*Fundamental Research* in production 
+*Fundamental Research* **xx**, xx (2025). 
 
 [Publisher page]() | [arXiv](https://arxiv.org/abs/2405.12066) | <span class="__dimensions_badge_embed__" data-doi="" data-style="large_rectangle" style="display:inline;"></span>
 
@@ -70,6 +70,7 @@ Yu-Jie Tan, Wei-Sheng Huang, Pan-Pan Wang, Zhang-Qi Wu, Jean-Michel Le Floch, Ha
 
 <font size=2>Cite it: Y.-J. Tan, W.-S. Huang, P.-P. Wang, Z.-Q. Wu, J.-M. Le Floch, H.-Z. Wu, J. Liu, C.-G. Shao, and Z.-B. Zhou, Phys. Rev. D **111**, 024011 (2025).</font>
 
+
 ## **<font color="Blue">2024</font>** 
 
 **37. Quantum metrology enhanced by leveraging informative noise with error correction**
@@ -97,8 +98,6 @@ Wenkui Ding, Xingyu Zhang, Jing Liu, Aixi Chen, and Xiaoguang Wang
 <font size=2>Cite it: W. Ding, X. Zhang, J. Liu, A. Chen, and X. Wang, Phys. Rev. B **110**, 045202 (2024).</font>
 
 ## **<font color="Blue">2023</font>** 
-
----
 
 **35. Quantum speed limit for complex dynamics**
 
