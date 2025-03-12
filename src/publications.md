@@ -24,16 +24,6 @@ submitted.
 
 ---
 
-**Quantum-enhanced weak absorption estimation with correlated photons**
-
-Zhucheng Zhang, Xue Zhang, Jing Liu, and Hui Dong
-
-arXiv:2408.13817.
-
-[arXiv](https://doi.org/10.48550/arXiv.2408.13817)
-
----
-
 **Advantage of quantum coherence in postselected metrology**
 
 Shao-Jie Xiong, Peng-Fei Wei, Huang-Qiu-Chen Wang, Lei Shao, Yong-Nan Sun, Jing Liu, Zhe Sun, and Xiao-Guang Wang
@@ -45,7 +35,7 @@ arXiv:2212.05285.
 
 ## **<font color="Blue">2025</font>**
 
-**39. QuanEstimation.jl: An open-source Julia framework for quantum parameter estimation** 
+**40. QuanEstimation.jl: An open-source Julia framework for quantum parameter estimation** 
 
 Huai-Ming Yu and Jing Liu
 
@@ -54,6 +44,20 @@ Huai-Ming Yu and Jing Liu
 [Publisher page]() | [arXiv](https://arxiv.org/abs/2405.12066) | <span class="__dimensions_badge_embed__" data-doi="" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: H.-M. Yu and J. Liu, Fundam. Res. **xx**, xx (2025).</font>
+
+---
+
+**39. Quantum-enhanced weak absorption estimation with correlated photons**
+
+Zhucheng Zhang, Xue Zhang, Jing Liu, and Hui Dong
+
+*Physical Review Letters* **xx**, xxxx (2025).
+
+[Publisher page]() | [arXiv](https://doi.org/10.48550/arXiv.2408.13817) | <span class="__dimensions_badge_embed__" data-doi="" data-style="large_rectangle" style="display:inline;"></span>
+
+<font size=2>Cite it: Z. Zhang, X. Zhang, J. Liu, and H. Dong, Phys. Rev. Lett. **xx**, xx (2025).</font>
+
+---
 
 **38. Time-delay interferometry combinations to suppress two of six test-mass disturbances in space-borne gravitational wave detectors**
 
@@ -78,6 +82,8 @@ Hongzhen Chen, Yu Chen, Jing Liu, Zibo Miao, and Haidong Yuan
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevLett.133.190801" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: H. Chen, Y. Chen, J. Liu, Z. Miao, and H. Yuan, Phys. Rev. Lett. **133**, 190801 (2024).</font>
+
+---
 
 **36. Quantum dynamic response-based NV-diamond magnetometry: Robustness to decoherence and applications in motion detection of magnetic nanoparticles**
 
