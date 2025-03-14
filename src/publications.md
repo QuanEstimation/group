@@ -319,7 +319,7 @@ Xu Yu, Xiang Zhao, Luyi Shen, Yanyan Shao, Jing Liu, and Xiaoguang Wang
 
 *Optics Express* **26**, 016292 (2018). 
 
-[PDF](../Publications/pdf/OE_26_13_016292.pdf) | [Publisher page](https://doi.org/10.1364/OE.26.016292) | [arXiv](https://arxiv.org/abs/1412.4325) | 
+[PDF](../Publications/pdf/OE_26_13_016292.pdf) | [Publisher page](https://doi.org/10.1364/OE.26.016292) | [arXiv](https://doi.org/10.48550/arXiv.1412.4325) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1364/OE.26.016292" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: X. Yu, X. Zhao, L. Shen, Y. Shao, J. Liu, and X. Wang, Opt. Express **26**, 016292 (2018).</font>
