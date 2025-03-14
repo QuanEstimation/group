@@ -159,7 +159,7 @@ Jing Liu, Mao Zhang, Hongzhen Chen, Lingna Wang, and Haidong Yuan
 
 *Advanced Quantum Technologies* **5**, 2100080 (2022). 
 
-[Publisher page](https://doi.org/10.1002/qute.202100080) | [arXiv](https://arxiv.org/abs/2111.12279) | 
+[Publisher page](https://doi.org/10.1002/qute.202100080) | [arXiv](https://doi.org/10.48550/arXiv.2111.12279) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1002/qute.202100080" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: J. Liu, M. Zhang, H. Chen, L. Wang, and H. Yuan, Adv. Quantum Technol. **5**, 2100080 (2022).</font>
@@ -172,7 +172,7 @@ Gui-Lei Zhu, Jing Liu, Ying Wu, and Xin-You Lü
 
 *Laser & Photonics Reviews* **16**, 2100636 (2022). 
 
-[Publisher page](https://doi.org/10.1002/lpor.202100636) | [arXiv](https://arxiv.org/abs/2205.00433) | 
+[Publisher page](https://doi.org/10.1002/lpor.202100636) | [arXiv](https://doi.org/10.48550/arXiv.2205.00433) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1002/lpor.202100636" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: G.-L. Zhu, J. Liu, Y. Wu, and X.-Y. Lü, Laser Photonics Rev. **16**, 2100636 (2022).</font>
@@ -185,7 +185,8 @@ Qing-Shou Tan, Wei Wu, Lan Xu, Jing Liu, and Le-Man Kuang
 
 *Physical Review A* **106**, 032602 (2022). 
 
-[Publisher page](https://doi.org/10.1103/PhysRevA.106.032602)  | <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.106.032602" data-style="large_rectangle" style="display:inline;"></span>
+[Publisher page](https://doi.org/10.1103/PhysRevA.106.032602)  | 
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.106.032602" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: Q.-S. Tan, W. Wu, L. Xu, J. Liu, and L.-M. Kuang, Phys. Rev. A **106**, 032602 (2022).</font>
 
@@ -197,7 +198,7 @@ Jing Liu, Zibo Miao, Libin Fu, and Xiaoguang Wang
 
 *Physical Review A* **104**, 052432 (2021).
 
-[Publisher page](https://doi.org/10.1103/PhysRevA.104.052432) | [arXiv](https://arxiv.org/abs/2108.00169) | 
+[Publisher page](https://doi.org/10.1103/PhysRevA.104.052432) | [arXiv](https://doi.org/10.48550/arXiv.2108.00169) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.104.052432" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: J. Liu, Z. Miao, L. Fu, and X. Wang, Phys. Rev. A **104**, 052432 (2021).</font>
