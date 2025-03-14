@@ -319,8 +319,7 @@ Xu Yu, Xiang Zhao, Luyi Shen, Yanyan Shao, Jing Liu, and Xiaoguang Wang
 
 *Optics Express* **26**, 016292 (2018). 
 
-[PDF](../Publications/pdf/OE_26_13_016292.pdf) | [Publisher page](https://doi.org/10.1364/OE.26.016292) | 
-[arXiv](https://arxiv.org/abs/1412.4325) | 
+[PDF](../Publications/pdf/OE_26_13_016292.pdf) | [Publisher page](https://doi.org/10.1364/OE.26.016292) | [arXiv](https://arxiv.org/abs/1412.4325) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1364/OE.26.016292" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: X. Yu, X. Zhao, L. Shen, Y. Shao, J. Liu, and X. Wang, Opt. Express **26**, 016292 (2018).</font>
@@ -359,8 +358,7 @@ Jing Liu and Haidong Yuan
 
 *New Journal of Physics* **18**, 093009 (2016). 
 
-[PDF](../Publications/pdf/NewJP_18_093009.pdf) | [Publisher page](https://doi.org/10.1088/1367-2630/18/9/093009) | 
-[arXiv](https://doi.org/10.48550/arXiv.1609.01618) | 
+[PDF](../Publications/pdf/NewJP_18_093009.pdf) | [Publisher page](https://doi.org/10.1088/1367-2630/18/9/093009) | [arXiv](https://doi.org/10.48550/arXiv.1609.01618) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1367-2630/18/9/093009" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: J. Liu and H. Yuan, New J. Phys. **18**, 093009 (2016).</font>
@@ -399,8 +397,7 @@ Jing Liu, Xiao-Xing Jing, and Xiaoguang Wang
 
 *Scientific Reports* **5**, 8565 (2015).
 
-[PDF](../Publications/pdf/SciRep_5_8565.pdf) | [Publisher page](https://doi.org/10.1038/srep08565) | 
-[arXiv](https://doi.org/10.48550/arXiv.1409.4057) | 
+[PDF](../Publications/pdf/SciRep_5_8565.pdf) | [Publisher page](https://doi.org/10.1038/srep08565) | [arXiv](https://doi.org/10.48550/arXiv.1409.4057) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1038/srep08565" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: J. Liu, X.-X. Jing, and X. Wang, Sci. Rep. **5**, 8565 (2015).</font>
