@@ -277,7 +277,7 @@ Jing Liu, Haidong Yuan, Xiao-Ming Lu, and Xiaoguang Wang
 *Journal of Physics A: Mathematical and Theoretical* **53**, 023001 (2020).
 
 [PDF](../Publications/pdf/JPA_53_023001.pdf) | [Publisher page](https://doi.org/10.1088/1751-8121/ab5d4d) | 
-[arXiv](https://arxiv.org/abs/1907.08037) | <span class="__dimensions_badge_embed__" data-doi="10.1088/1751-8121/ab5d4d" data-style="large_rectangle" style="display:inline;"></span>
+[arXiv](https://doi.org/10.48550/arXiv.1907.08037) | <span class="__dimensions_badge_embed__" data-doi="10.1088/1751-8121/ab5d4d" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: J. Liu, H. Yuan, X.-M. Lu, and X. Wang, J. Phys. A: Math. Theor. **53**, 023001 (2020).</font>
 
