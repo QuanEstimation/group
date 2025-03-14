@@ -93,7 +93,7 @@ Wenkui Ding, Xingyu Zhang, Jing Liu, Aixi Chen, and Xiaoguang Wang
 
 *Physical Review B* **110**, 045202 (2024).
 
-[Publisher page](https://doi.org/10.1103/PhysRevB.110.045202) | [arXiv](https://arxiv.org/abs/2307.05255) | 
+[Publisher page](https://doi.org/10.1103/PhysRevB.110.045202) | [arXiv](https://doi.org/10.48550/arXiv.2307.05255) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevB.110.045202" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: W. Ding, X. Zhang, J. Liu, A. Chen, and X. Wang, Phys. Rev. B **110**, 045202 (2024).</font>
@@ -107,7 +107,7 @@ Mao Zhang, Huai-Ming Yu, and Jing Liu
 *npj Quantum Information* **9**, 97 (2023). 
 
 [PDF](../Publications/pdf/npjqi_9_97.pdf) | [Publisher page](https://doi.org/10.1038/s41534-023-00768-8) | 
-[arXiv](https://arxiv.org/abs/2301.00566) | <span class="__dimensions_badge_embed__" data-doi="10.1038/s41534-023-00768-8" data-style="large_rectangle" style="display:inline;"></span>
+[arXiv](https://doi.org/10.48550/arXiv.2301.00566) | <span class="__dimensions_badge_embed__" data-doi="10.1038/s41534-023-00768-8" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: M. Zhang, H.-M. Yu, and J. Liu, npj Quantum Inf. **9**, 97 (2023).</font>
 
