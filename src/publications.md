@@ -211,7 +211,7 @@ Qing-Shou Tan, Mao Zhang, Yu Chen, Jie-Qiao Liao, and Jing Liu
 
 *Physical Review A* **103**, 032601 (2021).
 
-[Publisher page](https://doi.org/10.1103/PhysRevA.103.032601) | [arXiv](https://arxiv.org/abs/2010.13444) | 
+[Publisher page](https://doi.org/10.1103/PhysRevA.103.032601) | [arXiv](https://doi.org/10.48550/arXiv.2010.13444) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.103.032601" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: Q.-S. Tan, M. Zhang, Y. Chen, J.-Q. Liao, and J. Liu, Phys. Rev. A **103**, 032601 (2021).</font>
@@ -224,7 +224,7 @@ Xing Deng, Shou-Long Chen, Mao Zhang, Xiao-Fan Xu, Jing Liu, Zhi Gao, Xiao-Chun 
 
 *Physical Review A* **104**, 012607 (2021). 
 
-[Publisher page](https://doi.org/10.1103/PhysRevA.104.012607) | [arXiv](https://arxiv.org/abs/2102.07079) | 
+[Publisher page](https://doi.org/10.1103/PhysRevA.104.012607) | [arXiv](https://doi.org/10.48550/arXiv.2102.07079) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.104.012607" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: X. Deng et al., Phys. Rev. A **104**, 012607 (2021).</font>
@@ -237,7 +237,7 @@ Zhucheng Zhang, Lei Shao, Wangjun Lu, Yuguo Su, Yi-Ping Wang, Jing Liu, and Xiao
 
 *Physical Review A* **104**, 053517 (2021). 
 
-[Publisher page](https://doi.org/10.1103/PhysRevA.104.053517) | [arXiv](https://arxiv.org/abs/2109.05692) | 
+[Publisher page](https://doi.org/10.1103/PhysRevA.104.053517) | [arXiv](https://doi.org/10.48550/arXiv.2109.05692) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.104.053517" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: Z. Zhang, L. Shao, W. Lu, Y. Su, Y.-P. Wang, J. Liu, and X. Wang, Phys. Rev. A **104**, 053517 (2021).</font>
