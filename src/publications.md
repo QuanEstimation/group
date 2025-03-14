@@ -54,7 +54,8 @@ Zhucheng Zhang, Xue Zhang, Jing Liu, and Hui Dong
 
 *Physical Review Letters* **xx**, xxxx (2025).
 
-[Publisher page]() | [arXiv](https://doi.org/10.48550/arXiv.2408.13817) | <span class="__dimensions_badge_embed__" data-doi="" data-style="large_rectangle" style="display:inline;"></span>
+[Publisher page]() | [arXiv](https://doi.org/10.48550/arXiv.2408.13817) | 
+<span class="__dimensions_badge_embed__" data-doi="" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: Z. Zhang, X. Zhang, J. Liu, and H. Dong, Phys. Rev. Lett. **xx**, xx (2025).</font>
 
@@ -106,8 +107,8 @@ Mao Zhang, Huai-Ming Yu, and Jing Liu
 
 *npj Quantum Information* **9**, 97 (2023). 
 
-[PDF](../Publications/pdf/npjqi_9_97.pdf) | [Publisher page](https://doi.org/10.1038/s41534-023-00768-8) | 
-[arXiv](https://doi.org/10.48550/arXiv.2301.00566) | <span class="__dimensions_badge_embed__" data-doi="10.1038/s41534-023-00768-8" data-style="large_rectangle" style="display:inline;"></span>
+[PDF](../Publications/pdf/npjqi_9_97.pdf) | [Publisher page](https://doi.org/10.1038/s41534-023-00768-8) | [arXiv](https://doi.org/10.48550/arXiv.2301.00566) | 
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41534-023-00768-8" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: M. Zhang, H.-M. Yu, and J. Liu, npj Quantum Inf. **9**, 97 (2023).</font>
 
@@ -145,8 +146,7 @@ Mao Zhang, Huai-Ming Yu, Haidong Yuan, Xiaoguang Wang, Rafał Demkowicz-Dobrzań
 
 *Physical Review Research* **4**, 043057 (2022). 
 
-[PDF](../Publications/pdf/PRResearch_4_043057.pdf) | [Publisher page](https://doi.org/10.1103/PhysRevResearch.4.043057) | 
-[arXiv](https://doi.org/10.48550/arXiv.2205.15588) | 
+[PDF](../Publications/pdf/PRResearch_4_043057.pdf) | [Publisher page](https://doi.org/10.1103/PhysRevResearch.4.043057) | [arXiv](https://doi.org/10.48550/arXiv.2205.15588) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevResearch.4.043057" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: X. Zhang, H.-M. Yu, H. Yuan, X. Wang, R. Demkowicz-Dobrzański, and J. Liu, Phys. Rev. Res. **4**, 043057 (2022).</font>
@@ -306,7 +306,7 @@ Yanming Che, Jing Liu, Xiao-Ming Lu, and Xiaoguang Wang
 
 *Physical Review A* **99**, 033807 (2019). 
 
-[Publisher page](https://doi.org/10.1103/PhysRevA.99.033807) | [arXiv](https://arxiv.org/abs/1808.04632) | 
+[Publisher page](https://doi.org/10.1103/PhysRevA.99.033807) | [arXiv](https://doi.org/10.48550/arXiv.1808.04632) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.99.033807" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: Y. Che, J. Liu, X.-M. Lu, and X. Wang, Phys. Rev. A **99**, 033807 (2019).</font>
