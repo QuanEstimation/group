@@ -276,8 +276,8 @@ Jing Liu, Haidong Yuan, Xiao-Ming Lu, and Xiaoguang Wang
 
 *Journal of Physics A: Mathematical and Theoretical* **53**, 023001 (2020).
 
-[PDF](../Publications/pdf/JPA_53_023001.pdf) | [Publisher page](https://doi.org/10.1088/1751-8121/ab5d4d) | 
-[arXiv](https://doi.org/10.48550/arXiv.1907.08037) | <span class="__dimensions_badge_embed__" data-doi="10.1088/1751-8121/ab5d4d" data-style="large_rectangle" style="display:inline;"></span>
+[PDF](../Publications/pdf/JPA_53_023001.pdf) | [Publisher page](https://doi.org/10.1088/1751-8121/ab5d4d) | [arXiv](https://doi.org/10.48550/arXiv.1907.08037) | 
+<span class="__dimensions_badge_embed__" data-doi="10.1088/1751-8121/ab5d4d" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: J. Liu, H. Yuan, X.-M. Lu, and X. Wang, J. Phys. A: Math. Theor. **53**, 023001 (2020).</font>
 
@@ -293,8 +293,7 @@ Yanyan Shao, Bo Liu, Mao Zhang, Haidong Yuan, and Jing Liu
 
 *Physical Review Research* **2**, 023299 (2020). 
 
-[PDF](../Publications/pdf/PRResearch_2_023299.pdf) | [Publisher page](https://doi.org/10.1103/PhysRevResearch.2.023299) | 
-[arXiv](https://arxiv.org/abs/2002.10822) | 
+[PDF](../Publications/pdf/PRResearch_2_023299.pdf) | [Publisher page](https://doi.org/10.1103/PhysRevResearch.2.023299) | [arXiv](https://doi.org/10.48550/arXiv.2002.10822) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevResearch.2.023299" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: Y. Shao, B. Liu, M. Zhang, H. Yuan, and J. Liu, Phys. Rev. Res. **2**, 023299 (2020).</font>
