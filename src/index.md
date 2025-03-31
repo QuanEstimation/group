@@ -45,6 +45,9 @@ QuanEstimation.jl is the computional core and also an independent Julia package 
 1. QuanEstimation: An open-source toolkit for quantum parameter estimation, <br>
 *Phys. Rev. Res.* **4**, 043057 (2022). <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevResearch.4.043057" data-style="large_rectangle" style="display:inline;"></span>
 
+2. QuanEstimation.jl: An open-source Julia framework for quantum parameter estimation, <br>
+*Fundam. Res.* **xx**, xxxx (2025).
+
 ### **2. Quantum Metrology and Control**
 
 - Quantum phase estimations, including single and multiple phase estimations in optical interferometers.
