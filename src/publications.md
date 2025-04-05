@@ -52,12 +52,12 @@ Huai-Ming Yu and Jing Liu
 
 Zhucheng Zhang, Xue Zhang, Jing Liu, and Hui Dong
 
-*Physical Review Letters* **xx**, xxxx (2025).
+*Physical Review Letters* **134**, 133604 (2025).
 
-[Publisher page]() | [arXiv](https://doi.org/10.48550/arXiv.2408.13817) | 
-<span class="__dimensions_badge_embed__" data-doi="" data-style="large_rectangle" style="display:inline;"></span>
+[Publisher page](https://doi.org/10.1103/PhysRevLett.134.133604) | [arXiv](https://doi.org/10.48550/arXiv.2408.13817) | 
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevLett.134.133604" data-style="large_rectangle" style="display:inline;"></span>
 
-<font size=2>Cite it: Z. Zhang, X. Zhang, J. Liu, and H. Dong, Phys. Rev. Lett. **xx**, xx (2025).</font>
+<font size=2>Cite it: Z. Zhang, X. Zhang, J. Liu, and H. Dong, Phys. Rev. Lett. **134**, 133604 (2025).</font>
 
 ---
 
