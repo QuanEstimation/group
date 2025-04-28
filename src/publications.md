@@ -22,16 +22,6 @@ Ben Wang, Qianyi Wang, Huai-Ming Yu, Jun Wang, Liang Xu, Jing Liu, and Lijian Zh
 
 submitted.
 
----
-
-**Advantage of quantum coherence in postselected metrology**
-
-Shao-Jie Xiong, Peng-Fei Wei, Huang-Qiu-Chen Wang, Lei Shao, Yong-Nan Sun, Jing Liu, Zhe Sun, and Xiao-Guang Wang
-
-arXiv:2212.05285. 
-
-[arXiv](https://doi.org/10.48550/arXiv.2212.05285)
-
 
 ## **<font color="Blue">2025</font>**
 
@@ -39,7 +29,7 @@ arXiv:2212.05285.
 
 Huai-Ming Yu and Jing Liu
 
-*Fundamental Research* **xx**, xx (2025). 
+*Fundamental Research* (2025). 
 
 [PDF]() | [Publisher page](https://doi.org/10.1016/j.fmre.2025.02.020) | [arXiv](https://doi.org/10.48550/arXiv.2405.12066) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.fmre.2025.02.020" data-style="large_rectangle" style="display:inline;"></span>
