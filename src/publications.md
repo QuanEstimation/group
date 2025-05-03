@@ -31,7 +31,7 @@ Huai-Ming Yu and Jing Liu
 
 *Fundamental Research* (2025). 
 
-[PDF]() | [Publisher page](https://doi.org/10.1016/j.fmre.2025.02.020) | [arXiv](https://doi.org/10.48550/arXiv.2405.12066) | 
+[PDF](../Publications/pdf/FR.pdf) | [Publisher page](https://doi.org/10.1016/j.fmre.2025.02.020) | [arXiv](https://doi.org/10.48550/arXiv.2405.12066) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.fmre.2025.02.020" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: H.-M. Yu and J. Liu, Fundam. Res. **xx**, xx (2025).</font>
