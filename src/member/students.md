@@ -4,6 +4,8 @@
 
 ### **Current Students**
 
+Xin-Yu Hao (Master student, 2025-2028)
+
 Zheng-Wei An (visiting student).
 
 ### **Alumnus**
