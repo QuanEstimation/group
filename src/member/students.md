@@ -4,9 +4,17 @@
 
 ### **Current Students**
 
-- Xin-Yu Hao (Master student, 2025-2028)
+## **Master students**
 
-- Zheng-Wei An (visiting student).
+- Xin-Yu Hao (2025-2028, graduated from Huazhong University of Science and Technology)
+
+## **Ph.D. students**
+
+None
+
+### **Research assistant**
+
+- Zheng-Wei An (graduated from Huazhong University of Science and Technology)
 
 ### **Alumnus**
 
