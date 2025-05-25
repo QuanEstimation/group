@@ -20,11 +20,11 @@
 
 - #### Hainan University
 
-No student has graduated at Hainan University yet. 
+    No student has graduated at Hainan University yet. 
 
 - #### Huazhong University of Science and Technology
 
-3 Ph.D. students and 1 master's student have graduated from our group at Huazhong University of Science and Technology. Details are given in the table below. 
+    3 Ph.D. students and 1 master's student have graduated from our group at Huazhong University of Science and Technology. Details are given in the table below. 
 
 | Year | Degree | Name | Current position |
 | :---:|     :---:    | :---:| :---: |
