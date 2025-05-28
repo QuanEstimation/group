@@ -91,7 +91,9 @@ QuanEstimation.jl is the computional core and also an independent Julia package 
 1. Quantum speed limit for complex dynamics, <br>
 *npj Quantum Inf.* **9**, 97 (2023). <span class="__dimensions_badge_embed__" data-doi="10.1038/s41534-023-00768-8" data-style="large_rectangle" style="display:inline;"></span>
 
-2. Bhatia-Davis 
+2. Bhatia-Davis formula in quantum speed limit, <br>
+*Phys. Rev. A* **104**, 052432 (2021). <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.104.052432" data-style="large_rectangle" style="display:inline;"></span>  
 
 3. Operational definition of a quantum speed limit, <br>
 *Phys. Rev. Res.* **2**, 023299 (2020). <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevResearch.2.023299" data-style="large_rectangle" style="display:inline;"></span>
+
