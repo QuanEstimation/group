@@ -23,7 +23,7 @@ Master students, Ph.D. students, and postdoctors are welcome! Please contact Pro
 QuanEstimation is a comprehensive toolbox for computation and scheme design in quantum parameter estimation. We are committed to developing this tool constantly 
 and invoking new features. 
 
-**QuanEstimation.jl**
+**QuanEstimation.jl** [Tutorial](https://github.com/QuanEstimation/tutorial)
   
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/QuanEstimation/QuanEstimation.jl)
 [![][docs-img]][docs-url]
