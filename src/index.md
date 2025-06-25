@@ -13,12 +13,13 @@ Master students, Ph.D. students, and postdoctors are welcome! Please contact Pro
 
 ### **1. Package development for quantum parameter estimation**
 
-**QuanEstimation** [**\[Tutorial\]**](https://github.com/QuanEstimation/tutorial)
+**QuanEstimation** 
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/QuanEstimation/QuanEstimation)
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://quanestimation.github.io/QuanEstimation/) 
 [![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD--3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Downloads](https://static.pepy.tech/badge/quanestimation)](https://pepy.tech/project/quanestimation)
+[![Tutorial](https://img.shields.io/badge/Tutorial-Link-brightgreen)](https://github.com/QuanEstimation/tutorial/tree/main)
 
 QuanEstimation is a comprehensive toolbox for computation and scheme design in quantum parameter estimation. We are committed to developing this tool constantly 
 and invoking new features. 
