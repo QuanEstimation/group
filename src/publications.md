@@ -12,6 +12,8 @@ Jin-Feng Qin and Jing Liu
 
 submitted.
 
+[Publisher page]() 
+
 ---
 
 **2. Optimal finite-dimensional probe states for quantum phase estimation**
@@ -20,7 +22,7 @@ Jin-Feng Qin, Yuqian Xu, and Jing Liu
 
 arXiv:2312.01965.
 
-[arXiv](https://doi.org/10.48550/arXiv.2312.01965)
+[Publisher page]() | [arXiv](https://doi.org/10.48550/arXiv.2312.01965)
 
 ---
 
@@ -29,6 +31,8 @@ arXiv:2312.01965.
 Ben Wang, Qianyi Wang, Huai-Ming Yu, Jun Wang, Liang Xu, Jing Liu, and Lijian Zhang
 
 submitted.
+
+[Publisher page]() 
 
 
 ## **<font color="Blue">2025</font>**
