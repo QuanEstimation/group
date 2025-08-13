@@ -28,7 +28,7 @@
 
 | Year | Degree | Name | Current position |
 | :---:|     :---:    | :---:| :---: |
-| 2024 | Ph.D. | Jinfeng Qin | - |
+| 2024 | Ph.D. | Jinfeng Qin | Lecturer@Chengdu Technological University |
 | 2023 | Ph.D. | Hong Tao | Lecturer@Dongguan University of Technology |
 | 2023 | Ph.D. | Mao Zhang | Employee in industry  |
 | 2020 | Master | Yanyan Shao | High school teacher |
