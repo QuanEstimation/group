@@ -44,7 +44,7 @@ His current research interests include selected topics in quantum metrology, qua
 
 **<font color="Blue" size=4.5>Honors and Awards</font>**   
 
--   World’s Top 2% Scientists (2022-2024)
+-   World’s Top 2% Scientists (2022-2025)
 
 -   IOP Publishing China Top Cited Paper Award (2022)
 
