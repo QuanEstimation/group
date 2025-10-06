@@ -7,7 +7,7 @@
 [**<font size=3>Web of Science</font>**](https://webofscience.clarivate.cn/wos/author/record/H-2632-2012) &emsp; 
 [**<font size=3>Scopus</font>**](https://www.scopus.com/authid/detail.uri?authorId=55888785500)
 
-**Email: liujing@hainanu.edu.cn**
+**Email: jing.liu@hainanu.edu.cn/liujing@hainanu.edu.cn**
 
 Prof. Liu  is now a full-time professor in the Center for Theoretical Physics and School of Physics and Optoelectronic Engineering, Hainan University. 
 His current research interests include selected topics in quantum metrology, quantum control, quantum information theory, quantum dissipation, and quantum foundations.
