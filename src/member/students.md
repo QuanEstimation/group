@@ -6,7 +6,7 @@
 
 - #### **Master students**
 
-    - Xin-Yu Hao (2025 - 2028)
+    - Xin-Yu Hao (2025 - 2028, graduated from Huazhong University of Science and Technology)
 
 - #### **Ph.D. students**
 
