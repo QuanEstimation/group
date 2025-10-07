@@ -6,8 +6,7 @@
 
 - #### **Master students**
 
-    - Xin-Yu Hao (2025 - 2028) 
-      Xin-Yu Hao was graduted from Huazhong University of Science and Technology and now is a graduated student in the group.
+    - Xin-Yu Hao (2025 - 2028, graduated from HUST)
 
 - #### **Ph.D. students**
 
@@ -15,7 +14,7 @@
 
 ### **Research assistants**
 
-- Zheng-Wei An (2025 - now)
+- Zheng-Wei An (2025 - now, graduated from HUST)
 
 ### **Alumnus**
 
