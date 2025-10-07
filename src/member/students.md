@@ -7,7 +7,6 @@
 - #### **Master students**
 
     - Xin-Yu Hao (2025 - 2028) 
-      
       Xin-Yu Hao was graduted from Huazhong University of Science and Technology and now is a graduated student in the group.
 
 - #### **Ph.D. students**
