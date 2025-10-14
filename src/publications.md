@@ -6,7 +6,7 @@
 
 ### **Preprint and submitted**
 
-**3. Optimal noisy quantum phase estimation with finite-dimensional states**
+**2. Optimal noisy quantum phase estimation with finite-dimensional states**
 
 Jin-Feng Qin and Jing Liu
 
@@ -15,14 +15,6 @@ submitted.
 [Publisher page]() 
 
 ---
-
-**2. Optimal finite-dimensional probe states for quantum phase estimation**
-
-Jin-Feng Qin, Yuqian Xu, and Jing Liu
-
-arXiv:2312.01965.
-
-[Publisher page]() | [arXiv](https://doi.org/10.48550/arXiv.2312.01965)
 
 ---
 
@@ -36,6 +28,18 @@ submitted.
 
 
 ## **<font color="Blue">2025</font>**
+
+**41. Optimal finite-dimensional probe states for quantum phase estimation**
+
+Jin-Feng Qin, Yuqian Xu, and Jing Liu
+
+*Physical Review A* xx, xx (2025).
+
+[Publisher page]() | [arXiv](https://doi.org/10.48550/arXiv.2312.01965)
+
+<font size=2>Cite it: J.-F. Qin, Y. Xu, and J. Liu, Phys. Rev. A **xx**, xx (2025).</font>
+
+---
 
 **40. QuanEstimation.jl: An open-source Julia framework for quantum parameter estimation** 
 
