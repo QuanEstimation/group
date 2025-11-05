@@ -75,7 +75,7 @@ His current research interests include selected topics in quantum metrology, qua
     Yong Editorial Board Member of Natural Science Journal of Hainan University (2025 - now) <br>
     海南大学学报（自然科学版）青年编委 
 
-    Special Issue Editor of Entropy, special issue "[Quantum Measurement, Gravity and Entropy](https://www.mdpi.com/journal/entropy/special_issues/WEM41CQYL3)" (2025)
+    Guest editor of Entropy, special issue "[Quantum Measurement, Gravity and Entropy](https://www.mdpi.com/journal/entropy/special_issues/WEM41CQYL3)" (2025)
 
     Guest editor of Journal of Physics A: Mathematical and Theoretical, special issue "[Quantum Multiparameter Estimation and Metrology](https://iopscience.iop.org/journal/1751-8121/page/Quantum-multiparameter-estimation-and-metrology)" (2019)
 
