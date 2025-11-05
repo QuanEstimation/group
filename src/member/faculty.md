@@ -14,7 +14,7 @@ His current research interests include selected topics in quantum metrology, qua
 
 **<font color="Blue" size=4.5>Employment</font>**
 
--   **Professor** (Jan. 2025 - current)
+-   **Professor** (Jan. 2025 - now)
 
     Center for Theoretical Physics, School of Physics and Optoelectronic Engineering,
 
@@ -44,7 +44,7 @@ His current research interests include selected topics in quantum metrology, qua
 
 **<font color="Blue" size=4.5>Honors and Awards</font>**   
 
--   World’s Top 2% Scientists (2022-2025)
+-   World’s Top 2% Scientists (2022 - 2025)
 
 -   IOP Publishing China Top Cited Paper Award (2022)
 
@@ -72,7 +72,7 @@ His current research interests include selected topics in quantum metrology, qua
 
     Editorial Board Member of Metrology (2023 - now)
 
-    Yong Editorial Board Member of Natural Science Journal of Hainan University (2025-now) <br>
+    Yong Editorial Board Member of Natural Science Journal of Hainan University (2025 - now) <br>
     海南大学学报（自然科学版）青年编委 
 
     Guest editor of Journal of Physics A: Mathematical and Theoretical, special issue "Quantum Multiparameter Estimation and Metrology" (2019)
