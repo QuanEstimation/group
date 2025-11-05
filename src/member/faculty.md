@@ -58,6 +58,14 @@ His current research interests include selected topics in quantum metrology, qua
 
 - IEEE member (2023 - now)
 
+- Committee member of IEEE CSS Quantum Computing, Systems and Control (2024 - now)
+
+- Program Committee member of 2025 IEEE International Conference on Quantum Control, Computing and Learning 
+
+- IEEE Control Systems Society member (2023 - now)
+
+- IEEE Information Theory Society member (2024 - now)
+
 **<font color="Blue" size=4.5>Professional services</font>**
 
 -   **Editorial services**
