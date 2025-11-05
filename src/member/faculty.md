@@ -54,6 +54,10 @@ His current research interests include selected topics in quantum metrology, qua
 -   Chutian Scholar in Hubei province (2018) <br>
     湖北省楚天学子
 
+**<font color="Blue" size=4.5>Membership</font>**     
+
+- IEEE member (2023 - now)
+
 **<font color="Blue" size=4.5>Professional services</font>**
 
 -   **Editorial services**
