@@ -35,7 +35,8 @@ Jin-Feng Qin, Yuqian Xu, and Jing Liu
 
 *Physical Review A* **112**, 052428 (2025).
 
-[Publisher page](https://doi.org/10.1103/953x-1rkm) | [arXiv](https://doi.org/10.48550/arXiv.2312.01965)
+[Publisher page](https://doi.org/10.1103/953x-1rkm) | [arXiv](https://doi.org/10.48550/arXiv.2312.01965) | 
+<span class="__dimensions_badge_embed__" data-doi="10.1103/953x-1rkm" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: J.-F. Qin, Y. Xu, and J. Liu, Phys. Rev. A **112**, 052428 (2025).</font>
 
