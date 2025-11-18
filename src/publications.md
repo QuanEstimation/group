@@ -16,8 +16,6 @@ submitted.
 
 ---
 
----
-
 **1. Experimental observation of the quantum speed limit as the true evolution time**
 
 Ben Wang, Qianyi Wang, Huai-Ming Yu, Jun Wang, Liang Xu, Jing Liu, and Lijian Zhang
