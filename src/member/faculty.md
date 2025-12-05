@@ -56,17 +56,17 @@ His current research interests include selected topics in quantum metrology, qua
 
 **<font color="Blue" size=4.5>Membership</font>**     
 
-- IEEE senior member (2025 - now)
+- IEEE Senior Member (2025 - now)
 
-- IEEE member (2023 - now)
+- IEEE Member (2023 - now)
 
-- Committee member of IEEE CSS Quantum Computing, Systems and Control (2024 - now)
+- Committee Member of IEEE CSS Quantum Computing, Systems and Control (2024 - now)
 
-- Program Committee member of 2025 IEEE International Conference on Quantum Control, Computing and Learning 
+- Program Committee Member of 2025 IEEE International Conference on Quantum Control, Computing and Learning 
 
-- IEEE Control Systems Society member (2023 - now)
+- IEEE Control Systems Society Member (2023 - now)
 
-- IEEE Information Theory Society member (2024 - now)
+- IEEE Information Theory Society Member (2024 - now)
 
 **<font color="Blue" size=4.5>Professional services</font>**
 
