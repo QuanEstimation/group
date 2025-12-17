@@ -9,7 +9,7 @@ Hainan University. We focus on the studies in the field of quantum technology, q
 
 ## **Opening positions**
 
-Master students, Ph.D. students, and postdoctors are welcome! Please contact Prof. Jing Liu (liujing@hainanu.edu.cn) for more details. 
+Master students, Ph.D. students, and postdoctors are welcome! Please contact Prof. Jing Liu (jing.liu@hainanu.edu.cn) for more details. 
 
 ## **Main Research Interests**
 
