@@ -9,7 +9,7 @@
 
 **Email: jing.liu@hainanu.edu.cn/liujing@hainanu.edu.cn**
 
-Prof. Liu  is now a full-time professor in the Center for Theoretical Physics and School of Physics and Optoelectronic Engineering, Hainan University. 
+Prof. Liu  is now a full-time professor in the Center for Theoretical Physics and Vice Dean of the School of Physics and Optoelectronic Engineering, Hainan University. 
 His current research interests include selected topics in quantum metrology, quantum control, quantum information theory, quantum dissipation, and quantum foundations.
 
 **<font color="Blue" size=4.5>Employment</font>**
