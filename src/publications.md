@@ -53,7 +53,7 @@ Huai-Ming Yu and Jing Liu
 
 ---
 
-**39. Quantum-enhanced weak absorption estimation with correlated photons**
+**39. Quantum-Enhanced Weak Absorption Estimation with Correlated Photons**
 
 Zhucheng Zhang, Xue Zhang, Jing Liu, and Hui Dong
 
@@ -80,7 +80,7 @@ Yu-Jie Tan, Wei-Sheng Huang, Pan-Pan Wang, Zhang-Qi Wu, Jean-Michel Le Floch, Ha
 
 ## **<font color="Blue">2024</font>** 
 
-**37. Quantum metrology enhanced by leveraging informative noise with error correction**
+**37. Quantum Metrology Enhanced by Leveraging Informative Noise with Error Correction**
 
 Hongzhen Chen, Yu Chen, Jing Liu, Zibo Miao, and Haidong Yuan
 
