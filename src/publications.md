@@ -24,6 +24,19 @@ submitted.
 
 [Publisher page]() 
 
+## **<font color="Blue">2026</font>**
+
+**42. Double Wilczek-Zee Connection and Mixed-State Quantum Geometric Tensor**
+
+Xiaoguang Wang, Xiao-Ming Lu, Jing Liu, Wenkui Ding, and Libin Fu
+
+*Chinese Physics B* **35**, 020203 (2026).
+
+[Publisher page](https://doi.org/10.1088/1674-1056/adf4b0) |  
+<span class="__dimensions_badge_embed__" data-doi="10.1088/1674-1056/adf4b0" data-style="large_rectangle" style="display:inline;"></span>
+
+<font size=2>Cite it: X. Wang, X.-M. Lu, J. Liu, W. Ding, and L. Fu, Chin. Phys. B **35**, 020203 (2026).</font>
+
 
 ## **<font color="Blue">2025</font>**
 
