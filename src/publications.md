@@ -4,7 +4,7 @@
 
 > **Every production of genius must be the production of enthusiasm.**  <p align='right'>**--Benjamin Disraeli**</p>
 
-### **Preprint and submitted**
+### **Preprint and submission**
 
 **2. Optimal noisy quantum phase estimation with finite-dimensional states**
 
