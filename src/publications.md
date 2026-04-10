@@ -6,16 +6,6 @@
 
 ### **Preprint and submission**
 
-**2. Optimal noisy quantum phase estimation with finite-dimensional states**
-
-Jin-Feng Qin and Jing Liu
-
-submitted.
-
-[Publisher page]() 
-
----
-
 **1. Experimental observation of the quantum speed limit as the true evolution time**
 
 Ben Wang, Qianyi Wang, Huai-Ming Yu, Jun Wang, Liang Xu, Jing Liu, and Lijian Zhang
@@ -25,6 +15,17 @@ submitted.
 [Publisher page]() 
 
 ## **<font color="Blue">2026</font>**
+
+**43. Optimal noisy quantum phase estimation with finite-dimensional states**
+
+Jin-Feng Qin and Jing Liu
+
+*Physical Review Research* (2026)
+
+[Publisher page]() | [arXiv](https://doi.org/10.48550/arXiv.2604.07828) | 
+<span class="__dimensions_badge_embed__" data-doi="" data-style="large_rectangle" style="display:inline;"></span>
+
+<font size=2>Cite it: J.-F. Qin and J. Liu, Phys. Rev. Res. **xx**, xx (2026).</font>
 
 **42. Double Wilczek-Zee Connection and Mixed-State Quantum Geometric Tensor**
 
