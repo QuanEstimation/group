@@ -20,12 +20,12 @@ submitted.
 
 Jin-Feng Qin and Jing Liu
 
-*Physical Review Research* **xx**, xx (2026) (2026)
+*Physical Review Research* **8**, xx (2026) (2026)
 
 [PDF]() | [Publisher page]() | [arXiv](https://doi.org/10.48550/arXiv.2604.07828) | 
 <span class="__dimensions_badge_embed__" data-doi="" data-style="large_rectangle" style="display:inline;"></span>
 
-<font size=2>Cite it: J.-F. Qin and J. Liu, Phys. Rev. Res. **xx**, xx (2026).</font>
+<font size=2>Cite it: J.-F. Qin and J. Liu, Phys. Rev. Res. **8**, xx (2026).</font>
 
 **42. Double Wilczek-Zee Connection and Mixed-State Quantum Geometric Tensor**
 
