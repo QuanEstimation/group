@@ -20,9 +20,9 @@ submitted.
 
 Jin-Feng Qin and Jing Liu
 
-*Physical Review Research* (2026)
+*Physical Review Research* **xx**, xx (2026) (2026)
 
-[Publisher page]() | [arXiv](https://doi.org/10.48550/arXiv.2604.07828) | 
+[PDF]() | [Publisher page]() | [arXiv](https://doi.org/10.48550/arXiv.2604.07828) | 
 <span class="__dimensions_badge_embed__" data-doi="" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: J.-F. Qin and J. Liu, Phys. Rev. Res. **xx**, xx (2026).</font>
