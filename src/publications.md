@@ -22,7 +22,7 @@ Jin-Feng Qin and Jing Liu
 
 *Physical Review Research* **8**, 023125 (2026).
 
-[PDF](../Publications/pdf/PRResearch_8_023125.pdf) | [Publisher page]() | [arXiv](https://doi.org/10.48550/arXiv.2604.07828) | 
+[PDF](../Publications/pdf/PRResearch_8_023125.pdf) | [Publisher page](https://doi.org/10.1103/l752-sl6p) | [arXiv](https://doi.org/10.48550/arXiv.2604.07828) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/l752-sl6p" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: J.-F. Qin and J. Liu, Phys. Rev. Res. **8**, 023125 (2026).</font>
