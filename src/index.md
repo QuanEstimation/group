@@ -64,25 +64,25 @@ QuanEstimation.jl is the computional core and also an independent Julia package 
 
 <font size=2>Cite it: J.-F. Qin, Y. Xu, and J. Liu, Phys. Rev. A **112**, 052428 (2025).</font>
 
-1. Optimal Scheme for Quantum Metrology, <br>
+3. Optimal Scheme for Quantum Metrology, <br>
 *Adv. Quantum Technol.* **5**, 2100080 (2022). <span class="__dimensions_badge_embed__" data-doi="10.1002/qute.202100080" data-style="large_rectangle" style="display:inline;"></span>
 
-2. Quantum Fisher information matrix and multiparameter estimation,  <br>
+4. Quantum Fisher information matrix and multiparameter estimation,  <br>
 *J. Phys. A: Math. Theor.* **53**, 023001 (2020). <span class="__dimensions_badge_embed__" data-doi="10.1088/1751-8121/ab5d4d" data-style="large_rectangle" style="display:inline;"></span>
 
-3. Quantum parameter estimation with optimal control,  <br>
+5. Quantum parameter estimation with optimal control,  <br>
 *Phys. Rev. A* **96**, 012117 (2017). <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.96.012117" data-style="large_rectangle" style="display:inline;"></span>
 
-4. Control-enhanced multiparameter quantum estimation, <br>
+6. Control-enhanced multiparameter quantum estimation, <br>
 *Phys. Rev. A* **96**, 042114 (2017). <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.96.042114" data-style="large_rectangle" style="display:inline;"></span>
 
-5. Quantum metrology with unitary parametrization processes, <br>
+7. Quantum metrology with unitary parametrization processes, <br>
 *Sci. Rep.* **5**, 8565 (2015). <span class="__dimensions_badge_embed__" data-doi="10.1038/srep08565" data-style="large_rectangle" style="display:inline;"></span>
 
-6. Quantum Fisher Information for Density Matrices with Arbitrary Ranks, <br>
+8. Quantum Fisher Information for Density Matrices with Arbitrary Ranks, <br>
 *Commun. Theor. Phys.* **61**, 45 (2014). <span class="__dimensions_badge_embed__" data-doi="10.1088/0253-6102/61/1/08" data-style="large_rectangle" style="display:inline;"></span>
 
-7. Phase-matching condition for enhancement of phase sensitivity in quantum metrology, <br>
+9. Phase-matching condition for enhancement of phase sensitivity in quantum metrology, <br>
 *Phys. Rev. A* **88**, 042316 (2013). <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevA.88.042316" data-style="large_rectangle" style="display:inline;"></span>
 
 
