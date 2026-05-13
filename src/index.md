@@ -62,8 +62,6 @@ QuanEstimation.jl is the computional core and also an independent Julia package 
 2. Optimal finite-dimensional probe states for quantum phase estimation, <br>
 *Physical Review A* **112**, 052428 (2025). <span class="__dimensions_badge_embed__" data-doi="10.1103/953x-1rkm" data-style="large_rectangle" style="display:inline;"></span>
 
-<font size=2>Cite it: J.-F. Qin, Y. Xu, and J. Liu, Phys. Rev. A **112**, 052428 (2025).</font>
-
 3. Optimal Scheme for Quantum Metrology, <br>
 *Adv. Quantum Technol.* **5**, 2100080 (2022). <span class="__dimensions_badge_embed__" data-doi="10.1002/qute.202100080" data-style="large_rectangle" style="display:inline;"></span>
 
