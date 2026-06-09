@@ -57,7 +57,7 @@ His current research interests include selected topics in quantum metrology, qua
 
 **<font color="Blue" size=4.5>Membership</font>**     
 
-- IEEE Senior Member (2025 - now)
+- **IEEE Senior Member** (2025 - now)
 
 - IEEE Member (2023 - now)
 
