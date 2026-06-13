@@ -519,7 +519,7 @@ Wei Zhong, Jing Liu, Jian Ma and Xiaoguang Wang
 
 *Chinese Physics B* **23**, 060302 (2014).
 
-[Publisher page](https://doi.org/10.1088/1674-1056/23/6/060302) | 
+[Publisher page](https://doi.org/10.1088/1674-1056/23/6/060302) | [arXiv](https://doi.org/10.48550/arXiv.1309.4842) |
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1674-1056/23/6/060302" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: W. Zhong, J. Liu, J. Ma, and X. Wang, Chin. Phys. B **23**, 060302 (2014).</font>
