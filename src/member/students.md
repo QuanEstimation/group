@@ -7,14 +7,10 @@
 - #### **Master students**
 
     - Xin-Yu Hao (2025 - now, graduated from HUST)
-    
+
     - Zheng-Wei An (2026 - now, graduated from HUST)
 
 - #### **Ph.D. students**
-
-    - None
-
-### **Postdoctoral Fellows**
 
     - None
 
