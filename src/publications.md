@@ -6,7 +6,7 @@
 
 ### **Preprint and submission**
 
-**1. Experimental observation of the quantum speed limit as the true evolution time**
+**1. Experimental observation of the operational quantum speed limit**
 
 Ben Wang, Qianyi Wang, Huai-Ming Yu, Jun Wang, Liang Xu, Jing Liu, and Lijian Zhang
 
