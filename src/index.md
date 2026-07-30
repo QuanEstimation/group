@@ -43,7 +43,7 @@ QuanEstimation.jl is the computional core and also an independent Julia package 
 1. QuanEstimation: An open-source toolkit for quantum parameter estimation, <br>
 *Phys. Rev. Res.* **4**, 043057 (2022). <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevResearch.4.043057" data-style="large_rectangle" style="display:inline;"></span>
 
-2. QuanEstimation.jl: An open-source Julia framework for quantum parameter estimation, <br>
+2. Quanestimation.jl: An open-source Julia framework for quantum parameter estimation, <br>
 *Fundam. Res.* **6**, 2167-2174 (2026). <span class="__dimensions_badge_embed__" data-doi="10.1016/j.fmre.2025.02.020" data-style="large_rectangle" style="display:inline;"></span>
 
 ### **2. Quantum Metrology and Control**
