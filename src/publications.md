@@ -16,7 +16,7 @@ submitted.
 
 ## **<font color="Blue">2026</font>**
 
-**43. QuanEstimation.jl: An open-source Julia framework for quantum parameter estimation** 
+**43. Quanestimation.jl: An open-source Julia framework for quantum parameter estimation** 
 
 Huai-Ming Yu and Jing Liu
 
