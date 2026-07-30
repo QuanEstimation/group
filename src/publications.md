@@ -16,7 +16,20 @@ submitted.
 
 ## **<font color="Blue">2026</font>**
 
-**43. Optimal noisy quantum phase estimation with finite-dimensional states**
+**43. QuanEstimation.jl: An open-source Julia framework for quantum parameter estimation** 
+
+Huai-Ming Yu and Jing Liu
+
+*Fundamental Research* **6**, 2167-2174 (2026). 
+
+[PDF](../Publications/pdf/FR.pdf) | [Publisher page](https://doi.org/10.1016/j.fmre.2025.02.020) | [arXiv](https://doi.org/10.48550/arXiv.2405.12066) | 
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.fmre.2025.02.020" data-style="large_rectangle" style="display:inline;"></span>
+
+<font size=2>Cite it: H.-M. Yu and J. Liu, Fundam. Res. **6**, 2167-2174 (2026).</font>
+
+---
+
+**42. Optimal noisy quantum phase estimation with finite-dimensional states**
 
 Jin-Feng Qin and Jing Liu
 
@@ -27,7 +40,9 @@ Jin-Feng Qin and Jing Liu
 
 <font size=2>Cite it: J.-F. Qin and J. Liu, Phys. Rev. Res. **8**, 023125 (2026).</font>
 
-**42. Double Wilczek-Zee Connection and Mixed-State Quantum Geometric Tensor**
+---
+
+**41. Double Wilczek-Zee Connection and Mixed-State Quantum Geometric Tensor**
 
 Xiaoguang Wang, Xiao-Ming Lu, Jing Liu, Wenkui Ding, and Libin Fu
 
@@ -40,7 +55,7 @@ Xiaoguang Wang, Xiao-Ming Lu, Jing Liu, Wenkui Ding, and Libin Fu
 
 ## **<font color="Blue">2025</font>**
 
-**41. Optimal finite-dimensional probe states for quantum phase estimation**
+**40. Optimal finite-dimensional probe states for quantum phase estimation**
 
 Jin-Feng Qin, Yuqian Xu, and Jing Liu
 
@@ -50,19 +65,6 @@ Jin-Feng Qin, Yuqian Xu, and Jing Liu
 <span class="__dimensions_badge_embed__" data-doi="10.1103/953x-1rkm" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: J.-F. Qin, Y. Xu, and J. Liu, Phys. Rev. A **112**, 052428 (2025).</font>
-
----
-
-**40. QuanEstimation.jl: An open-source Julia framework for quantum parameter estimation** 
-
-Huai-Ming Yu and Jing Liu
-
-*Fundamental Research* (2025). 
-
-[PDF](../Publications/pdf/FR.pdf) | [Publisher page](https://doi.org/10.1016/j.fmre.2025.02.020) | [arXiv](https://doi.org/10.48550/arXiv.2405.12066) | 
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.fmre.2025.02.020" data-style="large_rectangle" style="display:inline;"></span>
-
-<font size=2>Cite it: H.-M. Yu and J. Liu, Fundam. Res. **xx**, xx (2025).</font>
 
 ---
 
