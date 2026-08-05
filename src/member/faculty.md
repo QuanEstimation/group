@@ -11,7 +11,9 @@
 <a href="https://scholar.google.com/citations?user=HHyXi-8AAAAJ" target="_blank">
     <i class="fa-brands fa-google-scholar"></i> **Google Scholar**
 </a>  &emsp; 
-[**<font size=3>ResearcherID</font>**](https://webofscience.clarivate.cn/wos/author/record/H-2632-2012) &emsp; 
+<a href="https://researcherid.com/rid/H-2632-2012" target="_blank" rel="noopener noreferrer">
+  <img src="https://researcherid.com/widgets/H-2632-2012.png" alt="ResearcherID">
+</a> &emsp; 
 [**<font size=3>Scopus</font>**](https://www.scopus.com/authid/detail.uri?authorId=55888785500) &emsp;
 <a href="https://github.com/LiuJPhys" target="_blank">
   <i class="fab fa-github"></i> **GitHub**
