@@ -1,6 +1,7 @@
 # **Faculty**
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 > **L'enfer, c'est les autres.**  <p align='right'>**--Jean-Paul Sartre**</p>
 
@@ -13,8 +14,9 @@
 </a>  &emsp; 
 [**<font size=3>ResearcherID</font>**](https://webofscience.clarivate.cn/wos/author/record/H-2632-2012) &emsp; 
 [**<font size=3>Scopus</font>**](https://www.scopus.com/authid/detail.uri?authorId=55888785500) &emsp;
-[![**GitHub**](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]
-(https://github.com/your-username)
+<a href="https://github.com/LiuJPhys" target="_blank">
+  <i class="fab fa-github"></i> **GitHub**
+</a>
 
 **Email: jing.liu@hainanu.edu.cn**
 
