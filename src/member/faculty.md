@@ -14,7 +14,7 @@
 [**<font size=3>ResearcherID</font>**](https://webofscience.clarivate.cn/wos/author/record/H-2632-2012) &emsp; 
 [**<font size=3>Scopus</font>**](https://www.scopus.com/authid/detail.uri?authorId=55888785500) &emsp;
 <a href="https://github.com/LiuJPhys" target="_blank">
-    <i class="fab fa-github" style="font-size: 24px;"></i> **GitHub** 
+    <i class="ai ai-github" style="font-size: 24px;"></i> **GitHub** 
 </a>
 
 **Email: jing.liu@hainanu.edu.cn**
