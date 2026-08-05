@@ -7,7 +7,6 @@
 
 **<font size=5>Prof. Dr. Jing Liu</font>** <a href="https://orcid.org/0000-0001-9944-4493">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> &emsp;
-[**<font size=3>Google Scholar</font>**](https://scholar.google.com/citations?hl=en&user=HHyXi-8AAAAJ) &emsp; 
 <a href="https://scholar.google.com/citations?user=YOUR_USER_ID" target="_blank">
     <i class="fa-brands fa-google-scholar" style="font-size: 24px;"></i> **Google Scholar**
 </a>  &emsp; 
