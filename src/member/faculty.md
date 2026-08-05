@@ -8,6 +8,8 @@
 [**<font size=3>Scopus</font>**](https://www.scopus.com/authid/detail.uri?authorId=55888785500) &emsp; 
 [**<font size=3>GitHub</font>**](https://github.com/LiuJPhys)
 
+<a href="https://github.com/LiuJPhys" target="_blank"><i class="fab fa-github"></i> GitHub </a>
+
 **Email: jing.liu@hainanu.edu.cn**
 
 Prof. Liu  is now a full-time professor in the Center for Theoretical Physics and Vice Dean of the School of Physics and Optoelectronic Engineering, Hainan University. 
