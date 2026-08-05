@@ -8,7 +8,7 @@
 [**<font size=3>Google Scholar</font>**](https://scholar.google.com/citations?hl=en&user=HHyXi-8AAAAJ) &emsp; 
 [**<font size=3>Web of Science</font>**](https://webofscience.clarivate.cn/wos/author/record/H-2632-2012) &emsp; 
 [**<font size=3>Scopus</font>**](https://www.scopus.com/authid/detail.uri?authorId=55888785500) &emsp;
-<a href="https://github.com/LiuJPhys" target="_blank"><i class="fab fa-github" style="font-size: 48px;"></i> **GitHub** </a>
+<a href="https://github.com/LiuJPhys" target="_blank"><i class="fab fa-github" style="font-size: 36px;"></i> **GitHub** </a>
 
 **Email: jing.liu@hainanu.edu.cn**
 
