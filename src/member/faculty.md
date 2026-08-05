@@ -13,7 +13,7 @@
     <i class="fa-brands fa-google-scholar"></i> **Google Scholar**
 </a> &emsp; 
 <a href="https://www.webofscience.com/wos/author/record/H-2632-2012" target="_blank">
-    <i class="ai ai-researcherid"></i> **ResearcherID**
+    <i class="ai ai-researcherid-square"></i> **ResearcherID**
 </a> &emsp; 
 <a href="https://www.scopus.com/authid/detail.uri?authorId=55888785500" target="_blank" rel="noopener noreferrer">
   <i class="ai ai-scopus-square"></i> **Scopus**
