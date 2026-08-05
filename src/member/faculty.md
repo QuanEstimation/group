@@ -1,16 +1,15 @@
 # **Faculty**
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
 > **L'enfer, c'est les autres.**  <p align='right'>**--Jean-Paul Sartre**</p>
 
 **<font size=5>Prof. Dr. Jing Liu</font>**  
 <a href="https://orcid.org/0000-0001-9944-4493" target="_blank" rel="noopener noreferrer">
-  <i class="ai ai-orcid" style="font-size: 24px;"></i> **<font size=3>ORCID</font>**
+  <i class="fa-brands fa-orcid" style="font-size: 24px;"></i> **<font size=3>ORCID</font>**
 </a> &emsp;
 <a href="https://scholar.google.com/citations?user=HHyXi-8AAAAJ" target="_blank">
-    <i class="ai ai-google-scholar-square" style="font-size: 24px;"></i> **Google Scholar**
+    <i class="fa-brands fa-google-scholar" style="font-size: 24px;"></i> **Google Scholar**
 </a>  &emsp; 
 [**<font size=3>ResearcherID</font>**](https://webofscience.clarivate.cn/wos/author/record/H-2632-2012) &emsp; 
 [**<font size=3>Scopus</font>**](https://www.scopus.com/authid/detail.uri?authorId=55888785500) &emsp;
