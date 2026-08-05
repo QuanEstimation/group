@@ -7,10 +7,10 @@
 
 **<font size=5>Prof. Dr. Jing Liu</font>**  
 <a href="https://orcid.org/0000-0001-9944-4493" target="_blank">
-  <i class="fa-brands fa-orcid"></i> **ORCID**
+  <i class="ai ai-orcid"></i> **ORCID**
 </a> &emsp;
 <a href="https://scholar.google.com/citations?user=HHyXi-8AAAAJ" target="_blank">
-    <i class="fa-brands fa-google-scholar"></i> **Google Scholar**
+    <i class="ai ai-google-scholar"></i> **Google Scholar**
 </a> &emsp; 
 <a href="https://www.webofscience.com/wos/author/record/H-2632-2012" target="_blank">
     <i class="ai ai-researcherid-square"></i> **ResearcherID**
