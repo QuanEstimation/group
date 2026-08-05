@@ -6,7 +6,7 @@
 > **L'enfer, c'est les autres.**  <p align='right'>**--Jean-Paul Sartre**</p>
 
 **<font size=5>Prof. Dr. Jing Liu</font>**  
-<a href="https://orcid.org/0000-0001-9944-4493" target="_blank" rel="noopener noreferrer">
+<a href="https://orcid.org/0000-0001-9944-4493" target="_blank">
   <i class="fa-brands fa-orcid"></i> **ORCID**
 </a> &emsp;
 <a href="https://scholar.google.com/citations?user=HHyXi-8AAAAJ" target="_blank">
@@ -15,7 +15,7 @@
 <a href="https://www.webofscience.com/wos/author/record/H-2632-2012" target="_blank">
     <i class="ai ai-researcherid-square"></i> **ResearcherID**
 </a> &emsp; 
-<a href="https://www.scopus.com/authid/detail.uri?authorId=55888785500" target="_blank" rel="noopener noreferrer">
+<a href="https://www.scopus.com/authid/detail.uri?authorId=55888785500" target="_blank">
   <i class="ai ai-scopus-square"></i> **Scopus**
 </a> &emsp;
 <a href="https://github.com/LiuJPhys" target="_blank">
