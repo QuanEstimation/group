@@ -1,5 +1,7 @@
 # **Faculty**
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 > **L'enfer, c'est les autres.**  <p align='right'>**--Jean-Paul Sartre**</p>
 
 **<font size=5>Prof. Dr. Jing Liu</font>** <a href="https://orcid.org/0000-0001-9944-4493"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> &emsp;
