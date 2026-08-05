@@ -1,14 +1,12 @@
 # **Faculty**
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 > **L'enfer, c'est les autres.**  <p align='right'>**--Jean-Paul Sartre**</p>
 
 **<font size=5>Prof. Dr. Jing Liu</font>**  
 <a href="https://orcid.org/0000-0001-9944-4493" target="_blank" rel="noopener noreferrer">
-  <i class="fa-brands fa-orcid" style="font-size: 48px;"></i> ORCID
+  <i class="fa-brands fa-orcid" style="font-size: 24px;"></i> **ORCID**
 </a> &emsp;
 <a href="https://scholar.google.com/citations?user=YOUR_USER_ID" target="_blank">
     <i class="fa-brands fa-google-scholar" style="font-size: 24px;"></i> **Google Scholar**
