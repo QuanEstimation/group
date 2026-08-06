@@ -10,6 +10,8 @@
 
     - Zheng-Wei An (2026 - now, graduated from HUST)
 
+    - Zhi-Tong Hu (2026 - now, graduated from ZSU)
+
 - #### **Ph.D. students**
 
     - None
