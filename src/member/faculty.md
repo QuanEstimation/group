@@ -67,7 +67,7 @@ His current research interests include selected topics in quantum metrology, qua
     高等学校科学研究优秀成果奖（科学技术）
 
 -   Chutian Scholar in Hubei province (2018) <br>
-    湖北省楚天学子
+    湖北省“楚天学者计划”楚天学子
 
 **<font color="Blue" size=4.5>Membership</font>**     
 
