@@ -394,7 +394,7 @@ Jing Liu, Xiao-Ming Lu, Zhe Sun, and Xiaoguang Wang
 [Publisher page](https://doi.org/10.1088/1751-8113/49/11/115302) | [arXiv](https://doi.org/10.48550/arXiv.1409.6167) | 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1751-8113/49/11/115302" data-style="large_rectangle" style="display:inline;"></span>
 
-<font size=2>Cite it: J. Liu and H. Yuan, New J. Phys. **18**, 093009 (2016).</font>
+<font size=2>Cite it: J. Liu and H. Yuan, J. Phys. A: Math. Theor. **49**, 115302 (2016).</font>
 
 ---
 
