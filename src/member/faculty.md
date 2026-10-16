@@ -87,6 +87,8 @@ His current research interests include selected topics in quantum metrology, qua
 
 -   **Editorial services**
 
+    * Yong Editorial Board Member of Quantum Measurement & Metrology (2026 - now) <br>
+
     * Editorial Board Member of Discover Quantum Science (2025 - now)
 
     * Editorial Board Member of Metrology (2023 - now)
