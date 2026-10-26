@@ -14,6 +14,17 @@ submitted.
 
 [Publisher page]() 
 
+---
+
+**2. Evaluation of the quantum Fisher information for large systems via an ancilla**
+
+Qi Liu, Xin-Yu Hao, and Jing Liu
+
+arXiv:2610.29146
+
+[Publisher page]() | [arXiv](https://doi.org/10.48550/arXiv.2610.29146) 
+
+
 ## **<font color="Blue">2026</font>**
 
 **43. Quanestimation.jl: An open-source Julia framework for quantum parameter estimation** 
