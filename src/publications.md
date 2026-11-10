@@ -23,7 +23,8 @@ Ben Wang, Qianyi Wang, Huai-Ming Yu, Jun Wang, Liang Xu, Jing Liu, and Lijian Zh
 
 *npj Quantum Information* **xx**, xxxx (2026)
 
-[PDF]() | [Publisher page]() 
+[PDF]() | [Publisher page]() | 
+<span class="__dimensions_badge_embed__" data-doi="" data-style="large_rectangle" style="display:inline;"></span>
 
 <font size=2>Cite it: B. Wang, Q. Wang, H.-M. Yu, J. Wang, L. Xu, J. Liu, and L. Zhang, npj Quantum Inf. **x**, xx (2026).</font>
 
