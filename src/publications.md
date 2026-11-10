@@ -6,17 +6,7 @@
 
 ### **Preprint and submission**
 
-**1. Experimental observation of the operational quantum speed limit**
-
-Ben Wang, Qianyi Wang, Huai-Ming Yu, Jun Wang, Liang Xu, Jing Liu, and Lijian Zhang
-
-submitted.
-
-[Publisher page]() 
-
----
-
-**2. Evaluation of the quantum Fisher information for large systems via an ancilla**
+**1. Evaluation of the quantum Fisher information for large systems via an ancilla**
 
 Qi Liu, Xin-Yu Hao, and Jing Liu
 
@@ -26,6 +16,18 @@ arXiv:2610.29146
 
 
 ## **<font color="Blue">2026</font>**
+
+**44. Experimental observation of the operational quantum speed limit**
+
+Ben Wang, Qianyi Wang, Huai-Ming Yu, Jun Wang, Liang Xu, Jing Liu, and Lijian Zhang
+
+*npj Quantum Information* **xx**, xxxx (2026)
+
+[PDF]() | [Publisher page]() 
+
+<font size=2>Cite it: B. Wang, Q. Wang, H.-M. Yu, J. Wang, L. Xu, J. Liu, and L. Zhang, npj Quantum Inf. **x**, xx (2026).</font>
+
+---
 
 **43. Quanestimation.jl: An open-source Julia framework for quantum parameter estimation** 
 
